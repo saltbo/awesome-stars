@@ -152,6 +152,8 @@
 
 ## Go 
 
+- [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
+- [smartystreets/cproxy](https://github.com/smartystreets/cproxy) - A simple, explicit forward proxy written in Go to facilitate HTTP CONNECT Tunneling.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
 - [txn2/kubefwd](https://github.com/txn2/kubefwd) - Bulk port forwarding Kubernetes services for local development.
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
