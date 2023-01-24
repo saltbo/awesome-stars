@@ -1075,7 +1075,7 @@
 
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Create and search books index, create your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and socialization.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure for products. Add a notification center for your React, Vue and Angular apps 🚀
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
