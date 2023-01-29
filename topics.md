@@ -861,6 +861,7 @@
 - [evrone/go-clean-template](https://github.com/evrone/go-clean-template) - Clean Architecture template for Golang services
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [rqlite/rqlite](https://github.com/rqlite/rqlite) - The lightweight, distributed relational database built on SQLite
 - [miekg/dns](https://github.com/miekg/dns) - DNS library in Go
@@ -1020,6 +1021,7 @@
 - [awalterschulze/goderive](https://github.com/awalterschulze/goderive) - Derives and generates mundane golang functions that you do not want to maintain yourself
 - [dave/jennifer](https://github.com/dave/jennifer) - Jennifer is a code generator for Go
 - [jmattheis/goverter](https://github.com/jmattheis/goverter) - Generate type-safe Go converters by simply defining an interface
+- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from .env files)
 - [Jeffail/tunny](https://github.com/Jeffail/tunny) - A goroutine pool for Go
 - [kubernetes/utils](https://github.com/kubernetes/utils) - Non-Kubernetes-specific utility libraries which are consumed by multiple projects.
 - [imdario/mergo](https://github.com/imdario/mergo) - Mergo: merging Go structs and maps since 2013
@@ -1845,6 +1847,8 @@
 
 ## others 
 
+- [knative-sandbox/eventing-kafka-broker](https://github.com/knative-sandbox/eventing-kafka-broker) - Alternate Kafka Broker implementation.
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [XQDD/highlight_new_words](https://github.com/XQDD/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
@@ -1883,7 +1887,6 @@
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) - MkDocs i18n plugin using static translation markdown files
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC)
-- [joho/godotenv](https://github.com/joho/godotenv) - A Go port of Ruby's dotenv library (Loads environment variables from `.env`.)
 - [dcoapp/app](https://github.com/dcoapp/app) - GitHub App that enforces the Developer Certificate of Origin (DCO) on Pull Requests
 - [sourcegraph/zoekt](https://github.com/sourcegraph/zoekt) - Fast trigram based code search
 - [google/zoekt](https://github.com/google/zoekt) - Fast trigram based code search
