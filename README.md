@@ -153,6 +153,7 @@
 
 ## Go 
 
+- [knative-sandbox/eventing-kafka-broker](https://github.com/knative-sandbox/eventing-kafka-broker) - Alternate Kafka Broker implementation.
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [smartystreets/cproxy](https://github.com/smartystreets/cproxy) - A simple, explicit forward proxy written in Go to facilitate HTTP CONNECT Tunneling.
 - [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
@@ -1073,6 +1074,7 @@
 
 ## TypeScript 
 
+- [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
 - [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
