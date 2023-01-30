@@ -153,6 +153,7 @@
 
 ## Go 
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [knative-sandbox/eventing-kafka-broker](https://github.com/knative-sandbox/eventing-kafka-broker) - Alternate Kafka Broker implementation.
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
 - [smartystreets/cproxy](https://github.com/smartystreets/cproxy) - A simple, explicit forward proxy written in Go to facilitate HTTP CONNECT Tunneling.
@@ -659,6 +660,7 @@
 
 ## JavaScript 
 
+- [excing/find-roots-of-word](https://github.com/excing/find-roots-of-word) - Find root-affix combinations of English words.
 - [XQDD/highlight_new_words](https://github.com/XQDD/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
