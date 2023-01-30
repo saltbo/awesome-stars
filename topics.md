@@ -993,6 +993,7 @@
 
 ## golang 
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [infrahq/infra](https://github.com/infrahq/infra) - Modern infrastructure access. Infra provides authentication and access management to servers, clusters, and databases.
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -1450,6 +1451,7 @@
 
 ## json 
 
+- [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [json-iterator/go](https://github.com/json-iterator/go) - A high-performance 100% compatible drop-in replacement of "encoding/json"
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -1847,6 +1849,7 @@
 
 ## others 
 
+- [excing/find-roots-of-word](https://github.com/excing/find-roots-of-word) - Find root-affix combinations of English words.
 - [knative-sandbox/eventing-kafka-broker](https://github.com/knative-sandbox/eventing-kafka-broker) - Alternate Kafka Broker implementation.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [skywind3000/ECDICT](https://github.com/skywind3000/ECDICT) - Free English to Chinese Dictionary Database
