@@ -153,6 +153,8 @@
 
 ## Go 
 
+- [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
+- [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [hidetatz/kubecolor](https://github.com/hidetatz/kubecolor) - colorizes kubectl output
@@ -713,7 +715,6 @@
 - [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [wuYin/k8s-in-action](https://github.com/wuYin/k8s-in-action) - 《Kubernetes in Action 中文版》读书笔记
 - [verdaccio/verdaccio](https://github.com/verdaccio/verdaccio) - 📦🔐 A lightweight Node.js private proxy registry
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [FredKSchott/snowpack](https://github.com/FredKSchott/snowpack) - ESM-powered frontend build tool. Instant, lightweight, unbundled development. ✌️
 - [ThatGuySam/doesitarm](https://github.com/ThatGuySam/doesitarm) - 🦾 A list of reported app support for Apple Silicon as well as Apple M2 and M1 Ultra Macs
 - [hql7/wl-explorer](https://github.com/hql7/wl-explorer) - 用于vue框架的文件管理器插件，云盘、网盘。File manager plug-in for vue framework, cloud disk.
@@ -793,6 +794,7 @@
 
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
 - [servicemeshinterface/smi-spec](https://github.com/servicemeshinterface/smi-spec) - Service Mesh Interface
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## Markdown 
 
@@ -1081,6 +1083,7 @@
 
 ## TypeScript 
 
+- [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
