@@ -130,6 +130,7 @@
 
 ## Dart 
 
+- [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [biyidev/biyi](https://github.com/biyidev/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
@@ -822,6 +823,7 @@
 
 ## Objective-C 
 
+- [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
 - [objective-see/LuLu](https://github.com/objective-see/LuLu) - LuLu is the free macOS firewall
 - [benbaker76/Hackintool](https://github.com/benbaker76/Hackintool) - The Swiss army knife of vanilla Hackintoshing
@@ -1180,6 +1182,7 @@
 
 ## Vue 
 
+- [antfu/cpwp](https://github.com/antfu/cpwp) - Chinese Programmer Wrong Pronunciation
 - [surmon-china/surmon-china.github.io](https://github.com/surmon-china/surmon-china.github.io) - My GitHub repositories homepage.
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [bonaysoft/seenvoy](https://github.com/bonaysoft/seenvoy) - Visualize the configs of the Envoy
