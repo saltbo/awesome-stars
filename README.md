@@ -154,6 +154,8 @@
 
 ## Go 
 
+- [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
+- [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
 - [shirou/gopsutil](https://github.com/shirou/gopsutil) - psutil for golang
@@ -1114,7 +1116,7 @@
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 An interplanetary microblogging platform 🚀
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library.
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 10ms.
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
 - [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure with fully functional embedded notification center
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
