@@ -154,6 +154,7 @@
 
 ## Go 
 
+- [Kong/blixt](https://github.com/Kong/blixt) - Experimental Layer 4 Kubernetes Gateway using eBPF for the data-plane
 - [Khan/genqlient](https://github.com/Khan/genqlient) - a truly type-safe Go GraphQL client
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
