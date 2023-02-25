@@ -1540,6 +1540,7 @@
 
 ## kubernetes 
 
+- [Kong/blixt](https://github.com/Kong/blixt) - Experimental Layer 4 Kubernetes Gateway using eBPF for the data-plane
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
