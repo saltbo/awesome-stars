@@ -184,7 +184,6 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
-- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -631,6 +630,7 @@
 
 ## docker 
 
+- [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted memo hub with knowledge management and social networking.
@@ -1741,6 +1741,7 @@
 
 ## macos 
 
+- [chipmk/docker-mac-net-connect](https://github.com/chipmk/docker-mac-net-connect) - Connect directly to Docker-for-Mac containers via IP address 🐳 💻
 - [sveinbjornt/Sloth](https://github.com/sveinbjornt/Sloth) - Mac app that shows all open files, directories, sockets, pipes and devices in use by all running processes. Nice GUI for lsof.
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
 - [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey) - Automatically activate the correct input source.
@@ -2787,17 +2788,6 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [hilongjw/vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
-
-## vuejs 
-
-- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
-- [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
-- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
-- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
-- [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
-- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
-- [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 
 ## web 
 
