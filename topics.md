@@ -110,6 +110,7 @@
 - [library](#library)
 - [linux](#linux)
 - [lua](#lua)
+- [mac](#mac)
 - [machine-learning](#machine-learning)
 - [macos](#macos)
 - [markdown](#markdown)
@@ -1728,6 +1729,15 @@
 - [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
+## mac 
+
+- [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
+- [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
+- [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
+- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
+- [progrium/macdriver](https://github.com/progrium/macdriver) - Native Mac APIs for Go
+
 ## machine-learning 
 
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
@@ -2109,7 +2119,6 @@
 - [saltbo/gopkg](https://github.com/saltbo/gopkg) - Some commonly used packages
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [Finb/bark-server](https://github.com/Finb/bark-server) - Backend of Bark
-- [matryer/xbar](https://github.com/matryer/xbar) - Put the output from any script or program into your macOS Menu Bar (the BitBar reboot)
 - [yuhaowin/wordbook-bob-plugin](https://github.com/yuhaowin/wordbook-bob-plugin) - 通过 Bob 查询的单词添加至 「有道词典」 、 「欧路词典」、「扇贝单词」 的单词本。
 - [bitrise-io/envman](https://github.com/bitrise-io/envman) - Environment variable manager
 - [Netflix/eureka](https://github.com/Netflix/eureka) - AWS Service registry for resilient mid-tier load balancing and failover.
