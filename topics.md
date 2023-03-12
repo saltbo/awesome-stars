@@ -186,6 +186,7 @@
 - [vim](#vim)
 - [visual-studio-code](#visual-studio-code)
 - [vue](#vue)
+- [vuejs](#vuejs)
 - [web](#web)
 - [webapp](#webapp)
 - [webpack](#webpack)
@@ -2803,6 +2804,17 @@
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 - [hilongjw/vue-lazyload](https://github.com/hilongjw/vue-lazyload) - A Vue.js plugin for lazyload your Image or Component in your application.
+
+## vuejs 
+
+- [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Home Cloud system.
+- [surmon-china/vue-codemirror](https://github.com/surmon-china/vue-codemirror) - @codemirror code editor component for @vuejs
+- [zinclabs/zincsearch](https://github.com/zinclabs/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
+- [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
+- [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
+- [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
+- [pablohpsilva/vuejs-component-style-guide](https://github.com/pablohpsilva/vuejs-component-style-guide) - Vue.js Component Style Guide
 
 ## web 
 
