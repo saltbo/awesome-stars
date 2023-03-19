@@ -1193,6 +1193,7 @@
 
 ## Vue 
 
+- [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [antfu/cpwp](https://github.com/antfu/cpwp) - Chinese Programmer Wrong Pronunciation
 - [surmon-china/surmon-china.github.io](https://github.com/surmon-china/surmon-china.github.io) - My GitHub repositories homepage.
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
