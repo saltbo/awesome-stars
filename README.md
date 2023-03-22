@@ -153,6 +153,7 @@
 
 ## Go 
 
+- [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
 - [bonaysoft/relingo-desktop](https://github.com/bonaysoft/relingo-desktop) - 这是一个非官方的Relingo桌面客户端，主要用来背单词。
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [pgrok/pgrok](https://github.com/pgrok/pgrok) - Poor man's ngrok - a multi-tenant HTTP reverse tunnel solution through SSH remote port forwarding
@@ -689,6 +690,7 @@
 
 ## JavaScript 
 
+- [EINDEX/bump-homebrew-cask-action](https://github.com/EINDEX/bump-homebrew-cask-action) - Github Action for bumping homebrew cask
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
@@ -960,6 +962,7 @@
 
 ## Ruby 
 
+- [macauley/action-homebrew-bump-cask](https://github.com/macauley/action-homebrew-bump-cask) - :gear: A GitHub Action to easily bump Homebrew cask on new release
 - [ar1hur/gitkeep](https://github.com/ar1hur/gitkeep) - A gem which creates .gitkeep files in all empty directories in your project automatically
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
