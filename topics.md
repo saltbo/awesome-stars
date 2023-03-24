@@ -887,7 +887,7 @@
 - [hibiken/asynq](https://github.com/hibiken/asynq) - Simple, reliable, and efficient distributed task queue in Go
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go, inspired by fasthttp./ ants 是一个高性能且低损耗的 goroutine 池。
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
 - [sourcegraph/conc](https://github.com/sourcegraph/conc) - Better structured concurrency for go
 - [infrahq/infra](https://github.com/infrahq/infra) - Infra provides authentication and access management to servers and Kubernetes clusters.
 - [XIU2/CloudflareSpeedTest](https://github.com/XIU2/CloudflareSpeedTest) - 🌩「自选优选 IP」测试 Cloudflare CDN 延迟和速度，获取最快 IP (IPv4 / IPv6)！另外也支持其他 CDN / 网站 IP ~
@@ -2167,7 +2167,7 @@
 - [axiaoxin-com/investool](https://github.com/axiaoxin-com/investool) - Golang实现财报分析、个股基本面检测、基本面选股、4433法则基金筛选与检测、基金持仓相似度、股票选基、基金经理筛选
 - [corpnewt/ProperTree](https://github.com/corpnewt/ProperTree) - Cross platform GUI plist editor written in python.
 - [sandanat/vue-pdf-app](https://github.com/sandanat/vue-pdf-app) - VUEjs v2 PDF viewer based on Mozilla's PDFJS
-- [emlog/emlog](https://github.com/emlog/emlog) - emlog is a lightweight blog and CMS website building system, dedicated to creating a user-friendly personal cloud content management system.
+- [emlog/emlog](https://github.com/emlog/emlog) - emlog is a lightweight blog and CMS website building system.
 - [cloudevents/sdk-go](https://github.com/cloudevents/sdk-go) - Go SDK for CloudEvents
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [go-oauth2/oauth2](https://github.com/go-oauth2/oauth2) - OAuth 2.0 server library for the Go programming language.
