@@ -174,7 +174,7 @@
 - [grafana/tempo](https://github.com/grafana/tempo) - Grafana Tempo is a high volume, minimal dependency distributed tracing backend.
 - [carvel-dev/vendir](https://github.com/carvel-dev/vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform network tool designed for developers. 一个为开发者设计的跨平台网络工具.
-- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV and properties processor
+- [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [influxdata/telegraf](https://github.com/influxdata/telegraf) - The plugin-driven server agent for collecting & reporting metrics.
 - [olahol/melody](https://github.com/olahol/melody) - :notes: Minimalist websocket framework for Go
@@ -361,7 +361,7 @@
 - [aeraki-mesh/eureka2istio](https://github.com/aeraki-mesh/eureka2istio) - Eureka2istio watches Eureka registry and synchronize all the Eureka services to Istio.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
-- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Kubernetes
+- [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [dagger/dagger](https://github.com/dagger/dagger) - A programmable CI/CD engine that runs your pipelines in containers
 - [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/apolloconfig/apollo)
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
