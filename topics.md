@@ -707,7 +707,7 @@
 
 ## documentation 
 
-- [Qiskit/qiskit](https://github.com/Qiskit/qiskit) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
+- [Qiskit/qiskit-metapackage](https://github.com/Qiskit/qiskit-metapackage) - Qiskit is an open-source SDK for working with quantum computers at the level of circuits, algorithms, and application modules.
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
@@ -776,7 +776,7 @@
 ## firebase 
 
 - [supabase/supabase](https://github.com/supabase/supabase) - The open source Firebase alternative. Follow to stay updated about our public Beta.
-- [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
 
@@ -1615,7 +1615,7 @@
 - [projectcontour/contour](https://github.com/projectcontour/contour) - Contour is a Kubernetes ingress controller using Envoy proxy.
 - [fabric8io/kubernetes-client](https://github.com/fabric8io/kubernetes-client) - Java client for Kubernetes & OpenShift
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
-- [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a standalone or Kubernetes-based application gateway
 - [slime-io/slime](https://github.com/slime-io/slime) - An intelligent ServiceMesh manager based on Istio
 - [karmada-io/karmada](https://github.com/karmada-io/karmada) - Open, Multi-Cloud, Multi-Cluster Kubernetes Orchestration
@@ -1847,7 +1847,7 @@
 ## mongodb 
 
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
-- [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 
 ## monitoring 
@@ -2025,7 +2025,7 @@
 - [tw93/tw93](https://github.com/tw93/tw93) - Github 首页自动信息工作流
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [exentriquesolutions/nip.io](https://github.com/exentriquesolutions/nip.io) - 
-- [Engagespot/heroku-free-alternatives](https://github.com/Engagespot/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
+- [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator
 - [typicode/json-server](https://github.com/typicode/json-server) - Get a full fake REST API with zero coding in less than 30 seconds (seriously)
 - [ultrabug/mkdocs-static-i18n](https://github.com/ultrabug/mkdocs-static-i18n) - MkDocs i18n plugin using static translation markdown files
@@ -2042,7 +2042,6 @@
 - [apache/pulsar](https://github.com/apache/pulsar) - Apache Pulsar - distributed pub-sub messaging system
 - [hashicorp/packer](https://github.com/hashicorp/packer) - Packer is a tool for creating identical machine images for multiple platforms from a single source configuration.
 - [casey/just](https://github.com/casey/just) - 🤖 Just a command runner
-- [fermyon/spin](https://github.com/fermyon/spin) - Spin is an open source framework for building and running fast, secure, and composable cloud microservices with WebAssembly
 - [paketo-buildpacks/go-dist](https://github.com/paketo-buildpacks/go-dist) - A Cloud Native Buildpack for Go
 - [paketo-buildpacks/packit](https://github.com/paketo-buildpacks/packit) - Buildpacks Utils Library
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks
@@ -2237,7 +2236,7 @@
 - [8treenet/gcache](https://github.com/8treenet/gcache) - gcache是gorm的中间件，插入后gorm即刻拥有缓存。
 - [spf13/viper](https://github.com/spf13/viper) - Go configuration with fangs
 - [ryanhs/mongodb-bi-connector-docker](https://github.com/ryanhs/mongodb-bi-connector-docker) - mongodb-bi-connector dockerized
-- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - 
+- [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
 - [saltbo/goproject](https://github.com/saltbo/goproject) - Generic golang project template
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
@@ -2587,10 +2586,11 @@
 ## serverless 
 
 - [serverlessworkflow/specification](https://github.com/serverlessworkflow/specification) - Serverless Workflow Specification
+- [fermyon/spin](https://github.com/fermyon/spin) - Spin is the open source developer tool for building and running serverless applications powered by WebAssembly.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [knative/serving](https://github.com/knative/serving) - Kubernetes-based, scale-to-zero, request-driven compute
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [kedacore/keda](https://github.com/kedacore/keda) - KEDA is a Kubernetes-based Event Driven Autoscaling component. It provides event driven scale for any container running in Kubernetes
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Secure Backend Server for Web, Mobile & Flutter Developers 🚀 AKA the 100% open-source Firebase alternative.
@@ -2777,7 +2777,7 @@
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [timostamm/protobuf-ts](https://github.com/timostamm/protobuf-ts) - Protobuf and RPC for TypeScript
-- [labring/laf](https://github.com/labring/laf) - 🤖 chatGPT 自动写函数计算代码，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
+- [labring/laf](https://github.com/labring/laf) - 🤖 laf 是云开发平台，提供云函数、云数据库、云存储等开箱即用的应用资源。让开发者快速释放创意。ChatGPT 自动写函数，秒级上线，世界上只有两种 serverless，30 秒上线的 和 30 秒劝退的！
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
