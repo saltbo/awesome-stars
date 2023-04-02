@@ -1387,6 +1387,7 @@
 
 ## home-assistant 
 
+- [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [AlexxIT/SonoffLAN](https://github.com/AlexxIT/SonoffLAN) - Control Sonoff Devices with eWeLink (original) firmware over LAN and/or Cloud from Home Assistant
 - [ha0y/xiaomi_miot_raw](https://github.com/ha0y/xiaomi_miot_raw) - All-in-one & Easy-to-use. Integrate all your Xiaomi Smart Home - with a single integration and NO YAML files - into Home Assistant.
 
@@ -2373,6 +2374,7 @@
 
 ## python 
 
+- [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
 - [apache/airflow](https://github.com/apache/airflow) - Apache Airflow - A platform to programmatically author, schedule, and monitor workflows
 - [pre-commit/pre-commit](https://github.com/pre-commit/pre-commit) - A framework for managing and maintaining multi-language pre-commit hooks.
