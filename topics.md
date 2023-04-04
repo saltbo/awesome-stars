@@ -1974,6 +1974,7 @@
 
 ## others 
 
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
