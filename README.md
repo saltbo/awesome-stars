@@ -304,7 +304,6 @@
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
 - [rabbitmq/cluster-operator](https://github.com/rabbitmq/cluster-operator) - RabbitMQ Cluster Kubernetes Operator
 - [go-gomail/gomail](https://github.com/go-gomail/gomail) - The best way to send emails in Go.
-- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [apache/apisix-ingress-controller](https://github.com/apache/apisix-ingress-controller) - APISIX Ingress Controller for Kubernetes
 - [cloudtty/cloudtty](https://github.com/cloudtty/cloudtty) - A Friendly Kubernetes CloudShell (Web Terminal) !
 - [shipwright-io/build](https://github.com/shipwright-io/build) - Shipwright - a framework for building container images on Kubernetes
@@ -1212,6 +1211,7 @@
 - [CzBiX/qb-web](https://github.com/CzBiX/qb-web) - A qBittorrent Web UI, write in TypeScript+Vue.
 - [antfu/cpwp](https://github.com/antfu/cpwp) - Chinese Programmer Wrong Pronunciation
 - [surmon-china/surmon-china.github.io](https://github.com/surmon-china/surmon-china.github.io) - My GitHub repositories homepage.
+- [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
 - [foamzou/melody](https://github.com/foamzou/melody) - 我的音乐精灵
 - [bonaysoft/seenvoy](https://github.com/bonaysoft/seenvoy) - Visualize the configs of the Envoy
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
