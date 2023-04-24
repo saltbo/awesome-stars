@@ -128,6 +128,7 @@
 
 ## CSS 
 
+- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -873,6 +874,7 @@
 
 ## Others 
 
+- [Interview-Science/interview-english](https://github.com/Interview-Science/interview-english) - English for Tech Interview 面试中的英语
 - [PlexPt/awesome-chatgpt-prompts-zh](https://github.com/PlexPt/awesome-chatgpt-prompts-zh) - ChatGPT 中文调教指南。各种场景使用指南。学习怎么让它听你的话。
 - [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
@@ -883,7 +885,6 @@
 - [nostr-protocol/nostr](https://github.com/nostr-protocol/nostr) - a truly censorship-resistant alternative to Twitter that has a chance of working
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-- [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [anandrmedia/heroku-free-alternatives](https://github.com/anandrmedia/heroku-free-alternatives) - Free tier of Heroku Dynos, Postgres and Data for Redis will no longer be available after November 28, 2022. Let's find a list of services with a free plan that developers can use as an alternative to 
 - [square/go-jose](https://github.com/square/go-jose) - An implementation of JOSE standards (JWE, JWS, JWT) in Go
 - [cncf/toc](https://github.com/cncf/toc) - ⚖️Technical Oversight Committee (TOC)
