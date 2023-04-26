@@ -217,7 +217,7 @@
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - An open source, general-purpose policy engine.
 - [spf13/afero](https://github.com/spf13/afero) - A FileSystem Abstraction System for Go
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils For Go: int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils(600+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的一些工具函数：数字，字符串，数组，Map，结
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [go-survey/survey](https://github.com/go-survey/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
@@ -462,7 +462,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [araddon/dateparse](https://github.com/araddon/dateparse) - GoLang Parse many date strings without knowing format in advance.
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
-- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Universal Infrastructure as Code. Your Cloud, Your Language, Your Way 🚀
+- [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [kubernetes-sigs/gateway-api](https://github.com/kubernetes-sigs/gateway-api) - Repository for the next iteration of composite service (e.g. Ingress) and load balancing APIs.
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
 - [submariner-io/submariner](https://github.com/submariner-io/submariner) - Connect all your Kubernetes clusters, no matter where they are in the world.
@@ -1273,7 +1273,7 @@
 - [Hunlongyu/ZY-Player](https://github.com/Hunlongyu/ZY-Player) - ▶️ 跨平台桌面端视频资源播放器.简洁无广告.免费高颜值. 🎞
 - [vuepress/vuepress-theme-blog](https://github.com/vuepress/vuepress-theme-blog) - Default blog theme for VuePress.
 - [meteorlxy/vuepress-theme-meteorlxy](https://github.com/meteorlxy/vuepress-theme-meteorlxy) - :sparkling_heart: VuePress Blog Theme - Meteorlxy
-- [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 💥 A simple and beautiful vuepress Blog & Doc theme.
+- [vuepress-reco/vuepress-theme-reco-1.x](https://github.com/vuepress-reco/vuepress-theme-reco-1.x) - 🎨 This is the repo for vuepress-theme-reco 1.
 
 ## Zig 
 
