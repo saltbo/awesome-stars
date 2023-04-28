@@ -668,7 +668,6 @@
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [saltbo/self-hosted-mirrors](https://github.com/saltbo/self-hosted-mirrors) - Helps own your multi mirrors quickly
-- [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Folyd/folyd.com](https://github.com/Folyd/folyd.com) - 
 - [forecho/hugo-theme-echo](https://github.com/forecho/hugo-theme-echo) - A super concise theme for Hugo
@@ -1133,6 +1132,7 @@
 - [kaldi-asr/kaldi](https://github.com/kaldi-asr/kaldi) - kaldi-asr/kaldi is the official location of the Kaldi project.
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [opsnull/follow-me-install-kubernetes-cluster](https://github.com/opsnull/follow-me-install-kubernetes-cluster) - 和我一步步部署 kubernetes 集群
+- [kenzok8/openwrt-packages](https://github.com/kenzok8/openwrt-packages) - openwrt常用软件包
 - [wemake-services/caddy-gen](https://github.com/wemake-services/caddy-gen) - Automated Caddy reverse proxy for docker containers
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [sagebind/docker-swarm-deploy-action](https://github.com/sagebind/docker-swarm-deploy-action) - Deploy a stack to a remote Docker swarm.
