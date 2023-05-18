@@ -1334,7 +1334,6 @@
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [mgechev/revive](https://github.com/mgechev/revive) - 🔥 ~6x faster, stricter, configurable, extensible, and beautiful drop-in replacement for golint
 - [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service
-- [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
 - [surrealdb/surrealdb](https://github.com/surrealdb/surrealdb) - A scalable, distributed, collaborative, document-graph database, for the realtime web
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [paralus/paralus](https://github.com/paralus/paralus) - All-in-one Kubernetes access manager. User-level credentials, RBAC, SSO, audit logs.
@@ -1617,7 +1616,7 @@
 
 - [fission/keda-connectors](https://github.com/fission/keda-connectors) - Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
-- [Kong/blixt](https://github.com/Kong/blixt) - Experimental Layer 4 Kubernetes Gateway using eBPF for the data-plane
+- [Kong/blixt](https://github.com/Kong/blixt) - Layer 4 Kubernetes load-balancer
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
@@ -2352,7 +2351,7 @@
 - [envoyproxy/envoy](https://github.com/envoyproxy/envoy) - Cloud-native high-performance edge/middle/service proxy
 - [prose/prose](https://github.com/prose/prose) - A Content Editor for GitHub.
 - [fiatjaf/coisas](https://github.com/fiatjaf/coisas) - a client-side CMS for editing GitHub Markdown (and other) files
-- [antlabs/deepcopy](https://github.com/antlabs/deepcopy) - deepcopy库支持dst, src间的深度拷贝，类型从struct,map,slice基本都支持，支持过滤条件[从零实现]
+- [antlabs/pcopy](https://github.com/antlabs/pcopy) - pcopy是深度拷贝库，相比上个版本(v0.0.10)，性能提升4-10倍
 - [secauth/docs](https://github.com/secauth/docs) - 使用微信扫描二维码即可快速安全登录，接入简单灵活，轻松实现扫码登录。
 - [ruanyf/weekly](https://github.com/ruanyf/weekly) - 科技爱好者周刊，每周五发布
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 设计一切基于HTML的东西，模块化设计
