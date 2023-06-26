@@ -70,7 +70,7 @@
 - [brannondorsey/naive-hashcat](https://github.com/brannondorsey/naive-hashcat) - Crack password hashes without the fuss :cat2:
 - [44670/44Key](https://github.com/44670/44Key) - A simple, cheap, and somewhat secure USB Key for SSH authentication, costs &lt; $5
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - The Iceman fork of Proxmark3 / RFID / NFC  reader, writer, sniffer and emulator
+- [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [Proxmark/proxmark3](https://github.com/Proxmark/proxmark3) - Proxmark 3
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++/Golang. Uses WebKit (Gtk/Cocoa) and Edge (Windows)
 - [libbpf/libbpf](https://github.com/libbpf/libbpf) - Automated upstream mirror for libbpf stand-alone build.
@@ -160,6 +160,7 @@
 
 ## Go 
 
+- [knative-sandbox/net-kourier](https://github.com/knative-sandbox/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Spin up dev environments in any infra. Dev-environments-as-code like Terraform but for dev environments. Like Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you
 - [bonaysoft/amiicli](https://github.com/bonaysoft/amiicli) - A simple cli tool helps you simulate or restore any amiibos that you want.
 - [abusomani/go-palette](https://github.com/abusomani/go-palette) - Decorate your terminals using Palette 🎨
