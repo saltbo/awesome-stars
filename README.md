@@ -160,10 +160,13 @@
 
 ## Go 
 
+- [knative-sandbox/async-component](https://github.com/knative-sandbox/async-component) - Add-on component to enable asynchronous service requests to Knative Services
+- [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
+- [kubeclipper/kubeclipper](https://github.com/kubeclipper/kubeclipper) - Manage kubernetes in the most light and convenient way ☸️
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
 - [knative-sandbox/net-kourier](https://github.com/knative-sandbox/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs
-- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just on localhost docker.
+- [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [bonaysoft/amiicli](https://github.com/bonaysoft/amiicli) - A simple cli tool helps you simulate or restore any amiibos that you want.
 - [abusomani/go-palette](https://github.com/abusomani/go-palette) - Decorate your terminals using Palette 🎨
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
@@ -951,6 +954,7 @@
 
 ## Python 
 
+- [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 - [hwchase17/langchain](https://github.com/hwchase17/langchain) - ⚡ Building applications with LLMs through composability ⚡
 - [chidiwilliams/buzz](https://github.com/chidiwilliams/buzz) - Buzz transcribes and translates audio offline on your personal computer. Powered by OpenAI's Whisper.
@@ -1016,6 +1020,7 @@
 
 ## Ruby 
 
+- [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [macauley/action-homebrew-bump-cask](https://github.com/macauley/action-homebrew-bump-cask) - :gear: A GitHub Action to easily bump Homebrew cask on new release
 - [ar1hur/gitkeep](https://github.com/ar1hur/gitkeep) - A gem which creates .gitkeep files in all empty directories in your project automatically
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
