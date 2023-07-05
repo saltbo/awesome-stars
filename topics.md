@@ -86,6 +86,7 @@
 - [go](#go)
 - [godot](#godot)
 - [golang](#golang)
+- [google](#google)
 - [gradle](#gradle)
 - [graphql](#graphql)
 - [hacking](#hacking)
@@ -289,6 +290,7 @@
 
 ## automation 
 
+- [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [n8n-io/n8n](https://github.com/n8n-io/n8n) - Free and source-available fair-code licensed workflow automation tool. Easily automate tasks across different services.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
@@ -330,6 +332,7 @@
 
 ## aws 
 
+- [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
 - [fission/keda-connectors](https://github.com/fission/keda-connectors) - Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers (AWS Route53, Google CloudDNS and others) for Kubernetes Ingresses and Services
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
@@ -1113,6 +1116,7 @@
 
 ## golang 
 
+- [kubeclipper/kubeclipper](https://github.com/kubeclipper/kubeclipper) - Manage kubernetes in the most light and convenient way ☸️
 - [abusomani/go-palette](https://github.com/abusomani/go-palette) - Decorate your terminals using Palette 🎨
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
 - [zeabur/zbpack](https://github.com/zeabur/zbpack) - Build your project into static assets, serverless function or container image with magic, no Dockerfile needed!
@@ -1303,6 +1307,10 @@
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [haoxins/rewrite](https://github.com/haoxins/rewrite) - URL rewriting for Golang
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
+
+## google 
+
+- [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
 
 ## gradle 
 
@@ -1633,6 +1641,8 @@
 
 ## kubernetes 
 
+- [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
+- [kubeclipper/kubeclipper](https://github.com/kubeclipper/kubeclipper) - Manage kubernetes in the most light and convenient way ☸️
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [fission/keda-connectors](https://github.com/fission/keda-connectors) - Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.
@@ -2054,6 +2064,7 @@
 
 ## others 
 
+- [knative-sandbox/async-component](https://github.com/knative-sandbox/async-component) - Add-on component to enable asynchronous service requests to Knative Services
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
 - [xiaod945/rou](https://github.com/xiaod945/rou) - 解释如何youtube账户所在地区，如何换区问题
