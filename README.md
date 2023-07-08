@@ -309,7 +309,7 @@
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [paketo-buildpacks/go-dist](https://github.com/paketo-buildpacks/go-dist) - A Cloud Native Buildpack for Go
 - [paketo-buildpacks/packit](https://github.com/paketo-buildpacks/packit) - Buildpacks Utils Library
-- [pivotal/kpack](https://github.com/pivotal/kpack) - Kubernetes Native Container Build Service
+- [buildpacks-community/kpack](https://github.com/buildpacks-community/kpack) - Kubernetes Native Container Build Service
 - [afbjorklund/nerdctld](https://github.com/afbjorklund/nerdctld) - nerdctl daemon (Docker API)
 - [buildpacks/pack](https://github.com/buildpacks/pack) - CLI for building apps using Cloud Native Buildpacks
 - [containers/buildah](https://github.com/containers/buildah) - A tool that facilitates building OCI images.
