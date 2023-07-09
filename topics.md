@@ -1116,6 +1116,7 @@
 
 ## golang 
 
+- [http-live-streaming/m3u8-downloader](https://github.com/http-live-streaming/m3u8-downloader) - A M3U8 downloader (CLI) written in Golang to download HTTP Live Streaming videos, forked from https://github.com/oopsguy/m3u8 with continuous updates
 - [kubeclipper/kubeclipper](https://github.com/kubeclipper/kubeclipper) - Manage kubernetes in the most light and convenient way ☸️
 - [abusomani/go-palette](https://github.com/abusomani/go-palette) - Decorate your terminals using Palette 🎨
 - [go-nunu/nunu](https://github.com/go-nunu/nunu) - A CLI tool for building Go applications.
