@@ -94,6 +94,7 @@
 
 ## C++ 
 
+- [WebAssembly/wabt](https://github.com/WebAssembly/wabt) - The WebAssembly Binary Toolkit
 - [goldendict/goldendict](https://github.com/goldendict/goldendict) - A feature-rich dictionary lookup program, supporting multiple dictionary formats (StarDict/Babylon/Lingvo/Dictd) and online dictionaries, featuring perfect article rendering with the complete markup, 
 - [ic005k/OCAuxiliaryTools](https://github.com/ic005k/OCAuxiliaryTools) - Cross-platform GUI management tools for OpenCore（OCAT）
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
@@ -159,6 +160,7 @@
 
 ## Go 
 
+- [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [http-live-streaming/m3u8-downloader](https://github.com/http-live-streaming/m3u8-downloader) - A M3U8 downloader (CLI) written in Golang to download HTTP Live Streaming videos, forked from https://github.com/oopsguy/m3u8 with continuous updates
 - [knative-sandbox/async-component](https://github.com/knative-sandbox/async-component) - Add-on component to enable asynchronous service requests to Knative Services
 - [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
