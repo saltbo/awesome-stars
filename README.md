@@ -403,7 +403,7 @@
 - [heroiclabs/nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [elastic/go-elasticsearch](https://github.com/elastic/go-elasticsearch) - The official Go client for Elasticsearch
-- [Shopify/sarama](https://github.com/Shopify/sarama) - Sarama is a Go library for Apache Kafka.
+- [markrcote/sarama](https://github.com/markrcote/sarama) - Sarama is a Go library for Apache Kafka.
 - [grafana/loki](https://github.com/grafana/loki) - Like Prometheus, but for logs.
 - [tetratelabs/proxy-wasm-go-sdk](https://github.com/tetratelabs/proxy-wasm-go-sdk) - WebAssembly for Proxies (Go SDK)
 - [robertkrimen/otto](https://github.com/robertkrimen/otto) - A JavaScript interpreter in Go (golang)
