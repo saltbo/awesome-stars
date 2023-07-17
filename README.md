@@ -161,6 +161,8 @@
 
 ## Go 
 
+- [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
+- [vbauerster/mpb](https://github.com/vbauerster/mpb) - multi progress bar for Go cli applications
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
 - [http-live-streaming/m3u8-downloader](https://github.com/http-live-streaming/m3u8-downloader) - A M3U8 downloader (CLI) written in Golang to download HTTP Live Streaming videos, forked from https://github.com/oopsguy/m3u8 with continuous updates
 - [knative-sandbox/async-component](https://github.com/knative-sandbox/async-component) - Add-on component to enable asynchronous service requests to Knative Services
