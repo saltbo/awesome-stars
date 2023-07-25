@@ -162,6 +162,7 @@
 
 ## Go 
 
+- [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver) - Neo4j Bolt Driver for Go
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
 - [mosn/mosn](https://github.com/mosn/mosn) - The Cloud-Native Network Proxy Platform
