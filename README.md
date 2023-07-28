@@ -162,6 +162,9 @@
 
 ## Go 
 
+- [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
+- [fireworq/fireworq](https://github.com/fireworq/fireworq) - Fireworq is a lightweight, high-performance, language-independent job queue system.
+- [RichardKnop/machinery](https://github.com/RichardKnop/machinery) - Machinery is an asynchronous task queue/job queue based on distributed message passing.
 - [neo4j/neo4j-go-driver](https://github.com/neo4j/neo4j-go-driver) - Neo4j Bolt Driver for Go
 - [dgraph-io/dgraph](https://github.com/dgraph-io/dgraph) - Native GraphQL Database with graph backend
 - [foxcpp/maddy](https://github.com/foxcpp/maddy) - ✉️ Composable all-in-one mail server.
