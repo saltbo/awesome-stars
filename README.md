@@ -164,6 +164,7 @@
 
 ## Go 
 
+- [mjpitz/gorm-encryption](https://github.com/mjpitz/gorm-encryption) - Easily encrypt data at rest in relational databases using drop-in Gorm Serializers.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [glebarez/sqlite](https://github.com/glebarez/sqlite) - The pure-Go SQLite driver for GORM
 - [vmihailenco/taskq](https://github.com/vmihailenco/taskq) - Golang asynchronous task/job queue with Redis, SQS, IronMQ, and in-memory backends
