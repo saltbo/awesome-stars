@@ -34,6 +34,7 @@
 - [OpenQASM](#openqasm)
 - [Others](#others)
 - [PHP](#php)
+- [Perl](#perl)
 - [Python](#python)
 - [Ruby](#ruby)
 - [Rust](#rust)
@@ -984,6 +985,10 @@
 - [aliyun/aliyun-openapi-php-sdk](https://github.com/aliyun/aliyun-openapi-php-sdk) - [Abandoned] Open API SDK for PHP developers
 - [hprose/hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 3.0 for PHP
 
+## Perl 
+
+- [AlDanial/cloc](https://github.com/AlDanial/cloc) - cloc counts blank lines, comment lines, and physical lines of source code in many programming languages.
+
 ## Python 
 
 - [mthli/lemonsqueepy](https://github.com/mthli/lemonsqueepy) - Lemon Squeezy with Python 🐍
@@ -1226,7 +1231,7 @@
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [ksm2/archive-action](https://github.com/ksm2/archive-action) - Create a ZIP or Tar archive
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - a better universal ui system
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - The fastest React styling library that just happens to work on native, too.
 - [withastro/astro](https://github.com/withastro/astro) - The all-in-one web framework designed for speed. ⭐️ Star to support our work!
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
