@@ -6,6 +6,7 @@
 ## Contents
 
 - [ASL](#asl)
+- [Brainfuck](#brainfuck)
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
@@ -53,6 +54,10 @@
 
 - [shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI](https://github.com/shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI) - Gigabyte Z370 AORUS Ultra Gaming Hackintosh OpenCore EFI
 - [tiomars/Hackintosh-ROG-STRIX-Z490I](https://github.com/tiomars/Hackintosh-ROG-STRIX-Z490I) - Hackintosh on Asus ROG STRIX Z490-I
+
+## Brainfuck 
+
+- [kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1](https://github.com/kiddin9/OpenWrt_x86-r2s-r4s-r5s-N1) - 一分钟在线定制编译 X86/64, NanoPi R2S R4S R5S R6S, 斐讯 Phicomm N1 K2P,  树莓派 Raspberry Pi, 香橙派 Orange Pi, 红米AX6, 小米AX3600, 小米AX9000, 红米AX6S 小米AX3200, 红米AC2100, 华硕ASUS, 网件NETGEAR 等主流软硬路由
 
 ## C 
 
