@@ -716,7 +716,6 @@
 - [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  可能是让你受益匪浅的英语进阶指南。
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [saltbo/self-hosted-mirrors](https://github.com/saltbo/self-hosted-mirrors) - Helps own your multi mirrors quickly
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 - [tailwindlabs/tailwindcss](https://github.com/tailwindlabs/tailwindcss) - A utility-first CSS framework for rapid UI development.
 - [Folyd/folyd.com](https://github.com/Folyd/folyd.com) - 
 - [forecho/hugo-theme-echo](https://github.com/forecho/hugo-theme-echo) - A super concise theme for Hugo
@@ -833,6 +832,7 @@
 - [gridsome/gridsome](https://github.com/gridsome/gridsome) - ⚡️ The Jamstack framework for Vue.js
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [solobat/paodin](https://github.com/solobat/paodin) - Chrome / Firefox browser extension that integrates word translation, sentences collection, and words memory
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
