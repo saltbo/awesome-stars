@@ -678,6 +678,7 @@
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [airplayx/gormat](https://github.com/airplayx/gormat) - ☄ The golang convenient converter supports Database to Struct, SQL to Struct, and JSON to Struct.
 - [getlantern/systray](https://github.com/getlantern/systray) - a cross platfrom Go library to place an icon and menu in the notification area
+- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 - [alexflint/gallium](https://github.com/alexflint/gallium) - Build desktop applications in Go and HTML.
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
@@ -892,7 +893,6 @@
 ## MDX 
 
 - [yewstack/yew](https://github.com/yewstack/yew) - Rust / Wasm framework for building client web apps
-- [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
 
 ## Makefile 
 
