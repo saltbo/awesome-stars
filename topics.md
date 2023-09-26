@@ -1390,6 +1390,7 @@
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [Jackett/Jackett](https://github.com/Jackett/Jackett) - API Support for your favorite torrent trackers
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
+- [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [schollz/progressbar](https://github.com/schollz/progressbar) - A really basic thread-safe progress bar for Golang applications
 - [fission/keda-connectors](https://github.com/fission/keda-connectors) - Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.
@@ -2229,7 +2230,7 @@
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
-- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. Index metadata for over 10 million books in one minute as well as search in 30µs. This project does not store and distribut
+- [book-searcher-org/book-searcher](https://github.com/book-searcher-org/book-searcher) - Easy and blazing-fast book searcher, create and search your private library. This project does not store and distribute copies of documents, but only provides indexing and searching.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
 - [graymeta/stow](https://github.com/graymeta/stow) - Cloud storage abstraction package for Go
@@ -2268,7 +2269,7 @@
 - [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
 - [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
 - [emlog/empost](https://github.com/emlog/empost) - emlog 文章笔记发布工具 - chrome浏览器插件
-- [Kaiyiwing/qwerty-learner](https://github.com/Kaiyiwing/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
+- [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane
 - [crossplane-contrib/provider-alibaba](https://github.com/crossplane-contrib/provider-alibaba) - Crossplane provider for Alibaba Cloud
 - [depot/cli](https://github.com/depot/cli) - 🖥️ Depot CLI, build your Docker images in the cloud
