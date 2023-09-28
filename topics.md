@@ -2147,6 +2147,7 @@
 
 ## others 
 
+- [seal-io/walrus](https://github.com/seal-io/walrus) - 
 - [imroc/kubernetes-guide](https://github.com/imroc/kubernetes-guide) - Kubernetes 实践指南
 - [uber-go/atomic](https://github.com/uber-go/atomic) - Wrapper types for sync/atomic which enforce atomic access
 - [kubernetes/code-generator](https://github.com/kubernetes/code-generator) - Generators for kube-like API types
