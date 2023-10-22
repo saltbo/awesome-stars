@@ -938,6 +938,7 @@
 
 ## Others 
 
+- [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
 - [xiaod945/rou](https://github.com/xiaod945/rou) - 解释如何youtube账户所在地区，如何换区问题
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
@@ -1007,6 +1008,7 @@
 
 ## Python 
 
+- [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
 - [mthli/lemonsqueepy](https://github.com/mthli/lemonsqueepy) - Lemon Squeezy with Python 🐍
 - [jxxghp/MoviePilot](https://github.com/jxxghp/MoviePilot) - NAS媒体库自动化管理工具
 - [smarkets/marge-bot](https://github.com/smarkets/marge-bot) - A merge-bot for GitLab
@@ -1084,6 +1086,7 @@
 
 ## Rust 
 
+- [ankitects/anki](https://github.com/ankitects/anki) - Anki's shared backend and web components, and the Qt frontend
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
@@ -1241,6 +1244,7 @@
 
 ## TypeScript 
 
+- [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
