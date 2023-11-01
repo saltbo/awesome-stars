@@ -155,7 +155,6 @@
 - [python](#python)
 - [python3](#python3)
 - [pytorch](#pytorch)
-- [r](#r)
 - [rails](#rails)
 - [raspberry-pi](#raspberry-pi)
 - [react](#react)
@@ -233,7 +232,7 @@
 
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [beemdevelopment/Aegis](https://github.com/beemdevelopment/Aegis) - A free, secure and open source app for Android to manage your 2-step verification tokens.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [H-M-H/Weylus](https://github.com/H-M-H/Weylus) - Use your tablet as graphic tablet/touch screen on your computer.
@@ -412,7 +411,6 @@
 
 ## c 
 
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [lxc/lxcfs](https://github.com/lxc/lxcfs) - FUSE filesystem for LXC
 - [FFmpeg/FFmpeg](https://github.com/FFmpeg/FFmpeg) - Mirror of https://git.ffmpeg.org/ffmpeg.git
 - [hashcat/hashcat](https://github.com/hashcat/hashcat) - World's fastest and most advanced password recovery utility
@@ -524,6 +522,7 @@
 ## compiler 
 
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [carbon-language/carbon-lang](https://github.com/carbon-language/carbon-lang) - Carbon Language's main repository: documents, design, implementation, and related tools. (NOTE: Carbon Language is experimental; see README)
 - [tetratelabs/wazero](https://github.com/tetratelabs/wazero) - wazero: the zero dependency WebAssembly runtime for Go developers
 - [rust-lang/rust](https://github.com/rust-lang/rust) - Empowering everyone to build reliable and efficient software.
@@ -729,7 +728,7 @@
 - [containers/youki](https://github.com/containers/youki) - A container runtime written in Rust
 - [rpardini/docker-registry-proxy](https://github.com/rpardini/docker-registry-proxy) - An HTTPS Proxy for Docker providing centralized configuration and caching of any registry (quay.io, DockerHub, k8s.gcr.io)
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
@@ -787,7 +786,7 @@
 - [iron-io/functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 
 ## documentation 
@@ -873,7 +872,7 @@
 
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [immich-app/immich](https://github.com/immich-app/immich) - Self-hosted photo and video backup solution directly from your mobile phone.
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop, and alternative to TeamViewer.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
@@ -1021,7 +1020,7 @@
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
 - [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - The API traffic analyzer for Kubernetes providing real-time K8s protocol-level visibility, capturing and monitoring all traffic and payloads going in, out and across containers, pods, nodes and cluste
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
@@ -1106,7 +1105,7 @@
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 - [cosmtrek/air](https://github.com/cosmtrek/air) - ☁️ Live reload for Go apps
 - [megaease/easegress](https://github.com/megaease/easegress) - A Cloud Native traffic orchestration system
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
@@ -1224,7 +1223,7 @@
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
 - [mholt/archiver](https://github.com/mholt/archiver) - Easily create & extract archives, and compress & decompress files of various formats
 - [iawia002/lux](https://github.com/iawia002/lux) - 👾 Fast and simple video download library and CLI tool written in Go
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [DATA-DOG/go-sqlmock](https://github.com/DATA-DOG/go-sqlmock) - Sql mock driver for golang to test database interactions
 - [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
@@ -1360,7 +1359,7 @@
 - [goreleaser/goreleaser](https://github.com/goreleaser/goreleaser) - Deliver Go binaries as fast and easily as possible
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 - [didi/sharingan](https://github.com/didi/sharingan) - Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。
 - [electricbubble/gwda](https://github.com/electricbubble/gwda) - WebDriverAgent ( iOS ) Client Library in Golang
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -1427,6 +1426,7 @@
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [fission/keda-connectors](https://github.com/fission/keda-connectors) - Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - AppFlowy is an open-source alternative to Notion. You are in charge of your data and customizations. Built with Flutter and Rust.
+- [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [rytilahti/python-miio](https://github.com/rytilahti/python-miio) - Python library & console tool for controlling Xiaomi smart appliances
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Protect and discover secrets using Gitleaks 🔑
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin for OpenAI GPT
@@ -1483,7 +1483,6 @@
 - [orhun/gpg-tui](https://github.com/orhun/gpg-tui) - Manage your GnuPG keys with ease! 🔐
 - [envoyproxy/gateway](https://github.com/envoyproxy/gateway) - Manages Envoy Proxy as a Standalone or Kubernetes-based Application Gateway
 - [rust-lang/rust-clippy](https://github.com/rust-lang/rust-clippy) - A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
@@ -1589,7 +1588,7 @@
 - [go-chi/chi](https://github.com/go-chi/chi) - lightweight, idiomatic and composable router for building Go HTTP services
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [gorilla/mux](https://github.com/gorilla/mux) - Package gorilla/mux is a powerful HTTP router and URL matcher for building Go web servers with 🦍
 - [slok/go-http-metrics](https://github.com/slok/go-http-metrics) - Go modular http middleware to measure HTTP requests independent of metrics backend (with Prometheus and OpenCensus as backend implementations) and http framework/library
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
@@ -1611,7 +1610,7 @@
 
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
@@ -1635,7 +1634,7 @@
 
 ## java 
 
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
+- [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
 - [GoogleCloudPlatform/buildpacks](https://github.com/GoogleCloudPlatform/buildpacks) - Builders and buildpacks designed to run on Google Cloud's container platforms
 - [alibaba/arthas](https://github.com/alibaba/arthas) - Alibaba Java Diagnostic Tool Arthas/Alibaba Java诊断利器Arthas
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
@@ -1657,7 +1656,6 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [refinedev/refine](https://github.com/refinedev/refine) - Build your React-based CRUD applications, without constraints. 🌟 Star to support our work!
 - [dop251/goja](https://github.com/dop251/goja) - ECMAScript/JavaScript engine in pure Go
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [commitizen/cz-cli](https://github.com/commitizen/cz-cli) - The commitizen command line utility. #BlackLivesMatter
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
@@ -1877,7 +1875,7 @@
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.io
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that provides a one-stop solution for both public and private cloud. https://sealos.run
 - [solo-io/gloo](https://github.com/solo-io/gloo) - The Feature-rich, Kubernetes-native, Next-Generation API Gateway Built on Envoy
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
@@ -1983,7 +1981,7 @@
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey) - Automatically activate the correct input source.
 - [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - Mac微信功能拓展/微信插件/微信小助手(A plugin for Mac WeChat)
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
@@ -2015,7 +2013,7 @@
 
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [Dashibase/lotion](https://github.com/Dashibase/lotion) - An open-source Notion UI built with Vue 3
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
@@ -2196,6 +2194,7 @@
 
 ## others 
 
+- [go-gorm/opentelemetry](https://github.com/go-gorm/opentelemetry) - opentelemetry for gorm
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
@@ -2481,7 +2480,7 @@
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
 - [espressif/ESP8266_RTOS_SDK](https://github.com/espressif/ESP8266_RTOS_SDK) - Latest ESP8266 SDK based on FreeRTOS, esp-idf style.
 - [greenpau/caddy-auth-portal](https://github.com/greenpau/caddy-auth-portal) - Authentication Plugin for Caddy v2 implementing Form-Based, Basic, Local, LDAP, OpenID Connect, OAuth 2.0 (Github, Google, Facebook, Okta, etc.), SAML Authentication. MFA with App Authenticators and Y
-- [admpub/nging](https://github.com/admpub/nging) - 漂亮的Go语言通用后台管理系统，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
+- [admpub/nging](https://github.com/admpub/nging) - Go语言Web管理面板，包含：计划任务 / MySQL管理 / Redis管理 / FTP管理 / SSH管理 / 服务器管理 / Caddy和Nginx配置 / DDNS / FRP可视化配置 / 云存储管理 等功能。可运行于 Windows / Linux / MacOS 等主流系统平台和 树莓派 / 路由器 等ARM设备
 - [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 - [Masterminds/squirrel](https://github.com/Masterminds/squirrel) - Fluent SQL generation for golang
 - [arronKler/ease-icon](https://github.com/arronKler/ease-icon) - An easy to use svg icon solution.
@@ -2654,7 +2653,6 @@
 - [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [mthli/lemonsqueepy](https://github.com/mthli/lemonsqueepy) - Lemon Squeezy with Python 🐍
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
 - [nltk/nltk](https://github.com/nltk/nltk) - NLTK Source
 - [Significant-Gravitas/AutoGPT](https://github.com/Significant-Gravitas/AutoGPT) - An experimental open-source attempt to make GPT-4 fully autonomous.
@@ -2698,10 +2696,6 @@
 - [babysor/MockingBird](https://github.com/babysor/MockingBird) - 🚀AI拟声: 5秒内克隆您的声音并生成任意语音内容 Clone a voice in 5 seconds to generate arbitrary speech in real-time
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 
-## r 
-
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
-
 ## rails 
 
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
@@ -2727,7 +2721,7 @@
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - ⚡️ Simple, Modular & Accessible UI Components for your React Applications
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
 - [apache/incubator-answer](https://github.com/apache/incubator-answer) - A Q&A platform software for teams at any scales. Whether it's a community forum, help center, or knowledge management platform, you can always count on Answer.
@@ -2739,7 +2733,7 @@
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, WebAuthn, TOTP, MFA and RADIUS
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform with web UI supporting OAuth 2.0, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA and RADIUS
 - [evanw/esbuild](https://github.com/evanw/esbuild) - An extremely fast bundler for the web
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
@@ -2787,7 +2781,6 @@
 
 ## ruby 
 
-- [oracle/graal](https://github.com/oracle/graal) - GraalVM: Run Programs Faster Anywhere :rocket:
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
@@ -2894,7 +2887,7 @@
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source APM. It helps developers monitor their applications & troubleshoot problems, an open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open source Application Performanc
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App for the Decentralized Web 🌈💎✨
-- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts
+- [usememos/memos](https://github.com/usememos/memos) - A privacy-first, lightweight note-taking service. Easily capture and share your great thoughts.
 - [gogs/gogs](https://github.com/gogs/gogs) - Gogs is a painless self-hosted Git service
 - [IceWhaleTech/CasaOS](https://github.com/IceWhaleTech/CasaOS) - CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.
 - [uptrace/uptrace](https://github.com/uptrace/uptrace) - Open source APM: OpenTelemetry traces, metrics, and logs
@@ -3143,7 +3136,7 @@
 
 ## ubuntu 
 
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [biyidev/biyi](https://github.com/biyidev/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 
 ## unreal-engine 
@@ -3263,7 +3256,7 @@
 
 - [txthinking/brook](https://github.com/txthinking/brook) - A cross-platform programmable network tool. 一个跨平台可编程网络工具.
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - High speed downloader that supports all platforms.  Built with Golang and Flutter.
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [agalwood/Motrix](https://github.com/agalwood/Motrix) - A full-featured download manager.
 - [marktext/marktext](https://github.com/marktext/marktext) - 📝A simple and elegant markdown editor, available for Linux, macOS and Windows.
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
