@@ -173,6 +173,7 @@
 
 ## Go 
 
+- [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [go-gorm/opentelemetry](https://github.com/go-gorm/opentelemetry) - opentelemetry for gorm
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
@@ -762,6 +763,7 @@
 
 ## JavaScript 
 
+- [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
 - [imroc/kubernetes-guide](https://github.com/imroc/kubernetes-guide) - Kubernetes 实践指南
 - [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
