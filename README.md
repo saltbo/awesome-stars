@@ -305,7 +305,7 @@
 - [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager
 - [charmbracelet/vhs](https://github.com/charmbracelet/vhs) - Your CLI home video recorder 📼
-- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability augmented with actionable insights
+- [coroot/coroot](https://github.com/coroot/coroot) - Open-source observability for microservices. Thanks to eBPF you can gain comprehensive insights into your system within minutes.
 - [google/gops](https://github.com/google/gops) - A tool to list and diagnose Go processes currently running on your system
 - [flamego/flamego](https://github.com/flamego/flamego) - A fantastic modular Go web framework with a slim core but limitless extensibility
 - [knadh/koanf](https://github.com/knadh/koanf) - Simple, extremely lightweight, extensible, configuration management library for Go. Support for JSON, TOML, YAML, env, command line, file, S3 etc. Alternative to viper.
@@ -1259,7 +1259,7 @@
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
 - [vuejs/vitepress](https://github.com/vuejs/vitepress) - Vite & Vue powered static site generator.
 - [ksm2/archive-action](https://github.com/ksm2/archive-action) - Create a ZIP or Tar archive
-- [tamagui/tamagui](https://github.com/tamagui/tamagui) - A style library, UI kit, and optimizing compiler that makes React run faster - on both native and web
+- [tamagui/tamagui](https://github.com/tamagui/tamagui) - Cross platform React style library and UI kit made faster with an optimizing compiler.
 - [withastro/astro](https://github.com/withastro/astro) - The web framework that scales with you — Build fast content sites, powerful web applications, dynamic server APIs, and everything in-between ⭐️ Star to support our work!
 - [danger/danger-js](https://github.com/danger/danger-js) - ⚠️ Stop saying "you forgot to …" in code review
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
