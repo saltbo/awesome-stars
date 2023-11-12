@@ -2515,7 +2515,7 @@
 - [ryanhs/mongodb-bi-connector-docker](https://github.com/ryanhs/mongodb-bi-connector-docker) - mongodb-bi-connector dockerized
 - [tailwindlabs/tailwindcss-typography](https://github.com/tailwindlabs/tailwindcss-typography) - Beautiful typographic defaults for HTML you don't control.
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
-- [saltbo/goproject](https://github.com/saltbo/goproject) - Generic golang project template
+- [saltbo/goproject.v1](https://github.com/saltbo/goproject.v1) - Generic golang project template
 - [Dhghomon/easy_rust](https://github.com/Dhghomon/easy_rust) - Rust explained using easy English
 - [arsaboo/homeassistant-config](https://github.com/arsaboo/homeassistant-config) - 🏡 My Home Assistant Configs. Be sure to :star2: my repo to follow the updates!
 - [yb/uptime-status](https://github.com/yb/uptime-status) - A pretty dashboard of uptime status based on UptimeRobot API
