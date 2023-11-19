@@ -395,7 +395,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Checkout the new `protovalidate` project
+- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 - [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
