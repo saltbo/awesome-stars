@@ -976,7 +976,7 @@
 - [sagebind/docker-swarm-deploy-action](https://github.com/sagebind/docker-swarm-deploy-action) - Deploy a stack to a remote Docker swarm.
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
-- [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
+- [qvest-digital/loginsrv](https://github.com/qvest-digital/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
 - [gee1k/uPic](https://github.com/gee1k/uPic) - 📤uPic is a native, powerful, beautiful and simple picture and file upload tool for macOS.
 
 ## github-api 
@@ -1376,7 +1376,7 @@
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [tarent/loginsrv](https://github.com/tarent/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
+- [qvest-digital/loginsrv](https://github.com/qvest-digital/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
 - [alimy/mir](https://github.com/alimy/mir) - Mir is a toolkit for register method handler to http engine router(eg: gin,echo,iris,mux,httprouter) use struct tag info.
 - [ribice/dt](https://github.com/ribice/dt) - Go's missing DateTime package
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A QUIC implementation in pure go
