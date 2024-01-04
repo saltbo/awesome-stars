@@ -172,6 +172,7 @@
 
 ## Go 
 
+- [knative-extensions/eventing-kafka](https://github.com/knative-extensions/eventing-kafka) - Kafka integrations with Knative Eventing.
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
 - [uber/kraken](https://github.com/uber/kraken) - P2P Docker registry capable of distributing TBs of data in seconds
 - [knative-extensions/net-gateway-api](https://github.com/knative-extensions/net-gateway-api) - Integration between Knative and service-apis (ingress v2) for Knative Ingress migration.
@@ -735,6 +736,7 @@
 
 ## Java 
 
+- [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
 - [oracle/graal](https://github.com/oracle/graal) - GraalVM compiles Java applications into native executables that start instantly, scale fast, and use fewer compute resources 🚀
