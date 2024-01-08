@@ -724,7 +724,7 @@
 - [zhaohuabing/learning-envoy](https://github.com/zhaohuabing/learning-envoy) - envoy 学习笔记
 - [peng-zhihui/Planck-Pi](https://github.com/peng-zhihui/Planck-Pi) - Super TINY & Low-cost Linux Develop-Kit Based On F1C200s.
 - [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
-- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南。
+- [byoungd/English-level-up-tips](https://github.com/byoungd/English-level-up-tips) - An advanced guide to learn English which might benefit you a lot 🎉 .  离谱的英语学习指南/英语学习教程。
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
 - [saltbo/self-hosted-mirrors](https://github.com/saltbo/self-hosted-mirrors) - Helps own your multi mirrors quickly
 - [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
