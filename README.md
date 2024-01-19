@@ -172,6 +172,8 @@
 
 ## Go 
 
+- [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
+- [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
 - [bitnami-labs/sealed-secrets](https://github.com/bitnami-labs/sealed-secrets) - A Kubernetes controller and tool for one-way encrypted Secrets
 - [knative-extensions/eventing-kafka](https://github.com/knative-extensions/eventing-kafka) - Kafka integrations with Knative Eventing.
 - [dragonflyoss/Dragonfly2](https://github.com/dragonflyoss/Dragonfly2) - Dragonfly is an open source P2P-based file distribution and image acceleration system. It is hosted by the Cloud Native Computing Foundation (CNCF) as an Incubating Level Project.
