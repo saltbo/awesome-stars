@@ -2240,6 +2240,7 @@
 
 ## others 
 
+- [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is pri
 - [dustinkirkland/ssh-import-id](https://github.com/dustinkirkland/ssh-import-id) - git mirror of the official upstream at http://launchpad.net/ssh-import-id
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
@@ -2721,7 +2722,7 @@
 
 ## python 
 
-- [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [mthli/lemonsqueepy](https://github.com/mthli/lemonsqueepy) - Lemon Squeezy with Python 🐍
 - [jumpserver/jumpserver](https://github.com/jumpserver/jumpserver) - JumpServer 是广受欢迎的开源堡垒机，是符合 4A 规范的专业运维安全审计系统。
 - [commitizen-tools/commitizen](https://github.com/commitizen-tools/commitizen) - Create committing rules for projects :rocket: auto bump versions :arrow_up: and auto changelog generation :open_file_folder:
@@ -3193,7 +3194,7 @@
 ## typescript 
 
 - [directus/directus](https://github.com/directus/directus) - The Modern Data Stack 🐰 — Directus is an instant REST+GraphQL API and intuitive no-code data collaboration app for any SQL database.
-- [Pseudonium/Obsidian_to_Anki](https://github.com/Pseudonium/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
+- [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [acacode/swagger-typescript-api](https://github.com/acacode/swagger-typescript-api) - TypeScript API generator via Swagger scheme
