@@ -2293,7 +2293,7 @@
 - [Xerxes3rd/Wifiibo](https://github.com/Xerxes3rd/Wifiibo) - Application and supporting library to manage amiibos using an ESP8266
 - [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - DeepL Free API (No TOKEN required)
 - [megaease/Remembering-Haoel](https://github.com/megaease/Remembering-Haoel) - 记录您对左耳朵耗子（陈皓）的点滴回忆
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - ⚡ Building applications with LLMs through composability ⚡
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [kubernetes/apiserver](https://github.com/kubernetes/apiserver) - Library for writing a Kubernetes-style API server.
 - [Interview-Science/interview-english](https://github.com/Interview-Science/interview-english) - English for Tech Interview 面试中的英语
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
