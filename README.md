@@ -1101,6 +1101,7 @@
 
 ## Ruby 
 
+- [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
 - [macauley/action-homebrew-bump-cask](https://github.com/macauley/action-homebrew-bump-cask) - :gear: A GitHub Action to easily bump Homebrew cask on new release
 - [ar1hur/gitkeep](https://github.com/ar1hur/gitkeep) - A gem which creates .gitkeep files in all empty directories in your project automatically
