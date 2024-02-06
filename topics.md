@@ -2252,6 +2252,8 @@
 
 ## others 
 
+- [kubernetes-sigs/metrics-server](https://github.com/kubernetes-sigs/metrics-server) - Scalable and efficient source of container resource metrics for Kubernetes built-in autoscaling pipelines.
+- [prometheus/node_exporter](https://github.com/prometheus/node_exporter) - Exporter for machine metrics
 - [avahi/avahi](https://github.com/avahi/avahi) - Avahi - Service Discovery for Linux using mDNS/DNS-SD -- compatible with Bonjour
 - [mmalyska/argocd-secret-replacer](https://github.com/mmalyska/argocd-secret-replacer) - Replace placeholders with this ArgoCD plugin stored in sops encrypted file
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
