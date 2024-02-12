@@ -146,6 +146,7 @@
 
 ## CSS 
 
+- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
 
@@ -784,7 +785,7 @@
 - [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
-- [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步Cookie的小工具，可以将浏览器的Cookie及Local storage同步到手机和云端，它支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。
+- [easychen/CookieCloud](https://github.com/easychen/CookieCloud) - CookieCloud是一个和自架服务器同步浏览器Cookie和LocalStorage的小工具，支持端对端加密，可设定同步时间间隔。本仓库包含了插件和服务器端源码。CookieCloud is a small tool for synchronizing browser cookies and LocalStorage with a self-hosted server. It supports
 - [IonicaBizau/json2md](https://github.com/IonicaBizau/json2md) - :pushpin: A JSON to Markdown converter.
 - [koajs/koa](https://github.com/koajs/koa) - Expressive middleware for node.js using ES2017 async functions
 - [tj/commander.js](https://github.com/tj/commander.js) - node.js command-line interfaces made easy
@@ -1219,7 +1220,6 @@
 ## SCSS 
 
 - [rstacruz/cheatsheets](https://github.com/rstacruz/cheatsheets) - My cheatsheets
-- [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 
 ## Scala 
 
