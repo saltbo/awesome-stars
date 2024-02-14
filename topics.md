@@ -2266,6 +2266,7 @@
 
 ## others 
 
+- [willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 - [SimeonGriggs/tints.dev](https://github.com/SimeonGriggs/tints.dev) - 10-color Palette Generator and API for Tailwind CSS
 - [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
 - [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
