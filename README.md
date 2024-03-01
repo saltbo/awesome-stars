@@ -1129,6 +1129,7 @@
 
 ## Rust 
 
+- [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
 - [bensadeh/tailspin](https://github.com/bensadeh/tailspin) - 🌀 A log file highlighter
 - [cnwzhjs/blog-uefi-os](https://github.com/cnwzhjs/blog-uefi-os) - 
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
