@@ -2659,7 +2659,7 @@
 - [shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI](https://github.com/shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI) - Gigabyte Z370 AORUS Ultra Gaming Hackintosh OpenCore EFI
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [jettmars/Hackintosh-ROG-STRIX-Z490I](https://github.com/jettmars/Hackintosh-ROG-STRIX-Z490I) - Hackintosh on Asus ROG STRIX Z490-I
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往-友链接力
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往 - 友链接力
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [embeddedgo/stm32](https://github.com/embeddedgo/stm32) - Support for STM32 microcontrollers
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
