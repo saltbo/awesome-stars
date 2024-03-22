@@ -2462,7 +2462,7 @@
 - [open-telemetry/opentelemetry-collector-contrib](https://github.com/open-telemetry/opentelemetry-collector-contrib) - Contrib repository for the OpenTelemetry Collector
 - [kubesphere/kube-events](https://github.com/kubesphere/kube-events) - K8s Event Exporting, Filtering and Alerting in Multi-Tenant Environment
 - [didi/KnowStreaming](https://github.com/didi/KnowStreaming) - 一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛
-- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text indexing library for go
+- [blevesearch/bleve](https://github.com/blevesearch/bleve) - A modern text/numeric/geo-spatial/vector indexing library for go
 - [emlog/empost](https://github.com/emlog/empost) - emlog 文章笔记发布工具 - chrome浏览器插件
 - [RealKai42/qwerty-learner](https://github.com/RealKai42/qwerty-learner) - 为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers
 - [crossplane-contrib/provider-sql](https://github.com/crossplane-contrib/provider-sql) - An SQL provider for @crossplane
