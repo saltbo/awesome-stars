@@ -969,7 +969,6 @@
 ## Others 
 
 - [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
-- [YueChan/Live](https://github.com/YueChan/Live) - 收集于互联网的一些高清直播源。
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
 - [xiaod945/rou](https://github.com/xiaod945/rou) - 解释如何youtube账户所在地区，如何换区问题
