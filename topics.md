@@ -533,7 +533,7 @@
 
 ## clojure 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 
 ## code-quality 
 
@@ -707,7 +707,7 @@
 
 ## design 
 
-- [penpot/penpot](https://github.com/penpot/penpot) - Penpot - The Open-Source design & prototyping platform
+- [penpot/penpot](https://github.com/penpot/penpot) - Penpot: The open-source design tool for design and code collaboration
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [ant-design/ant-design-landing](https://github.com/ant-design/ant-design-landing) - :mountain_bicyclist: Landing Pages of Ant Design System
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
