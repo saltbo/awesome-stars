@@ -2325,6 +2325,7 @@
 
 ## others 
 
+- [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
 - [lizongying/my-tv](https://github.com/lizongying/my-tv) - 我的电视 电视直播软件，安装即可使用
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 - [cloudflare/pingora](https://github.com/cloudflare/pingora) - A library for building fast, reliable and evolvable network services.
@@ -2891,6 +2892,8 @@
 
 ## react 
 
+- [rkdrnf/react-modal-state](https://github.com/rkdrnf/react-modal-state) - Easily manipulate modals in react
+- [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [tamagui/tamagui](https://github.com/tamagui/tamagui) - Style React fast with 100% parity on React Native, an optional UI kit, and optimizing compiler.
 - [ChatGPTNextWeb/ChatGPT-Next-Web](https://github.com/ChatGPTNextWeb/ChatGPT-Next-Web) - A cross-platform ChatGPT/Gemini UI (Web / PWA / Linux / Win / MacOS). 一键拥有你自己的跨平台 ChatGPT/Gemini 应用。
