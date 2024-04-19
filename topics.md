@@ -966,6 +966,7 @@
 
 ## frontend 
 
+- [EasyFrontend-com/html-tailwindcss-components](https://github.com/EasyFrontend-com/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
 - [CorentinTh/it-tools](https://github.com/CorentinTh/it-tools) - Collection of handy online tools for developers, with great UX.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
@@ -1651,6 +1652,7 @@
 
 ## html 
 
+- [EasyFrontend-com/html-tailwindcss-components](https://github.com/EasyFrontend-com/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
 - [novuhq/novu](https://github.com/novuhq/novu) - 🔥 The open-source notification infrastructure with fully functional embedded notification center 🚀🚀🚀
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [webview/webview](https://github.com/webview/webview) - Tiny cross-platform webview library for C/C++. Uses WebKit (GTK/Cocoa) and Edge WebView2 (Windows).
@@ -2337,6 +2339,7 @@
 
 ## others 
 
+- [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML plugin for the Monaco Editor
