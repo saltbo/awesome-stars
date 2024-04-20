@@ -1167,6 +1167,7 @@
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language. Build infrastructure intuitively on any cloud using familiar languages 🚀
 - [go-kratos/kratos](https://github.com/go-kratos/kratos) - Your ultimate Go microservices framework for the cloud-native era.
+- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [maruel/panicparse](https://github.com/maruel/panicparse) - Crash your app in style (Golang)
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
@@ -2461,7 +2462,7 @@
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [s3fs-fuse/s3fs-fuse](https://github.com/s3fs-fuse/s3fs-fuse) - FUSE-based file system backed by Amazon S3
 - [rancher/local-path-provisioner](https://github.com/rancher/local-path-provisioner) - Dynamically provisioning persistent local storage with Kubernetes
-- [zu1k/bs-core](https://github.com/zu1k/bs-core) - 
+- [zu1k/bs-core](https://github.com/zu1k/bs-core) - Easy and blazing-fast book searcher, create and search your private library.
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI an open source client for container development
 - [hashicorp/go-version](https://github.com/hashicorp/go-version) - A Go (golang) library for parsing and verifying versions and version constraints.
 - [graymeta/stow](https://github.com/graymeta/stow) - Cloud storage abstraction package for Go
