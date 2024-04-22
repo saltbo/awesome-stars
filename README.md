@@ -484,7 +484,7 @@
 - [projectcapsule/capsule](https://github.com/projectcapsule/capsule) - Multi-tenancy and policy-based framework for Kubernetes.
 - [ffuf/ffuf](https://github.com/ffuf/ffuf) - Fast web fuzzer written in Go
 - [lightningnetwork/lnd](https://github.com/lightningnetwork/lnd) - Lightning Network Daemon ⚡️
-- [micro/micro](https://github.com/micro/micro) - A Go API development platform
+- [micro/micro](https://github.com/micro/micro) - A Go service development platform
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [containerd/nerdctl](https://github.com/containerd/nerdctl) - contaiNERD CTL - Docker-compatible CLI for containerd, with support for Compose, Rootless, eStargz, OCIcrypt, IPFS, ...
 - [bonaysoft/notion-md-gen](https://github.com/bonaysoft/notion-md-gen) - Generate the Markdown document for any static site generators from notion
@@ -760,7 +760,7 @@
 
 ## Java 
 
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
 - [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
