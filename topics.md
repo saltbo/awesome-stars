@@ -68,6 +68,7 @@
 - [electron](#electron)
 - [elixir](#elixir)
 - [emacs](#emacs)
+- [embedded](#embedded)
 - [emoji](#emoji)
 - [english](#english)
 - [es6](#es6)
@@ -878,6 +879,11 @@
 ## emacs 
 
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
+
+## embedded 
+
+- [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
+- [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
 
 ## emoji 
 
@@ -2340,6 +2346,7 @@
 
 ## others 
 
+- [jimmidyson/configmap-reload](https://github.com/jimmidyson/configmap-reload) - Simple binary to trigger a reload when a Kubernetes ConfigMap is updated
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
@@ -2368,7 +2375,6 @@
 - [dustinkirkland/ssh-import-id](https://github.com/dustinkirkland/ssh-import-id) - git mirror of the official upstream at http://launchpad.net/ssh-import-id
 - [FiloSottile/age](https://github.com/FiloSottile/age) - A simple, modern and secure encryption tool (and Go library) with small explicit keys, no config options, and UNIX-style composability.
 - [jdx/mise](https://github.com/jdx/mise) - dev tools, env vars, task runner
-- [movie-web/movie-web](https://github.com/movie-web/movie-web) - A small web app for watching movies and shows easily
 - [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
 - [knative-extensions/eventing-kafka](https://github.com/knative-extensions/eventing-kafka) - Kafka integrations with Knative Eventing.
 - [knative-extensions/net-gateway-api](https://github.com/knative-extensions/net-gateway-api) - Integration between Knative and service-apis (ingress v2) for Knative Ingress migration.
@@ -2700,7 +2706,7 @@
 - [shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI](https://github.com/shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI) - Gigabyte Z370 AORUS Ultra Gaming Hackintosh OpenCore EFI
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
 - [jettmars/Hackintosh-ROG-STRIX-Z490I](https://github.com/jettmars/Hackintosh-ROG-STRIX-Z490I) - Hackintosh on Asus ROG STRIX Z490-I
-- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 开往 - 友链接力
+- [travellings-link/travellings](https://github.com/travellings-link/travellings) - 「开往 Travellings」是一个友链接力项目，旨在通过网络跳转的方式将流量引入那些鲜为人知的独立站点。 每当用户访问加入该项目的网页时，点击该网页上的“开往”按钮将随机跳转到另一个加入该项目的网页。
 - [dortania/OpenCore-Install-Guide](https://github.com/dortania/OpenCore-Install-Guide) - Repo for the OpenCore Install Guide
 - [embeddedgo/stm32](https://github.com/embeddedgo/stm32) - Support for STM32 microcontrollers
 - [YiiGuxing/TranslationPlugin](https://github.com/YiiGuxing/TranslationPlugin) - Translation plugin for IntelliJ based IDEs/Android Studio.
