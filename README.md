@@ -112,6 +112,7 @@
 
 ## C++ 
 
+- [aristocratos/btop](https://github.com/aristocratos/btop) - A monitor of resources
 - [willem-pennings/balancing-cube](https://github.com/willem-pennings/balancing-cube) - A cube that balances itself in a corner or edge using reaction wheels
 - [transmission/transmission](https://github.com/transmission/transmission) - Official Transmission BitTorrent client repository
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
@@ -490,7 +491,7 @@
 - [bonaysoft/notion-md-gen](https://github.com/bonaysoft/notion-md-gen) - Generate the Markdown document for any static site generators from notion
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
-- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Yandex Files
+- [rclone/rclone](https://github.com/rclone/rclone) - "rsync for cloud storage" - Google Drive, S3, Dropbox, Backblaze B2, One Drive, Swift, Hubic, Wasabi, Google Cloud Storage, Azure Blob, Azure Files, Yandex Files
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [coocood/freecache](https://github.com/coocood/freecache) - A cache library for Go with zero GC overhead.
 - [gohugoio/hugo](https://github.com/gohugoio/hugo) - The world’s fastest framework for building websites.
@@ -793,6 +794,7 @@
 
 ## JavaScript 
 
+- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 - [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
@@ -1305,6 +1307,7 @@
 
 ## Swift 
 
+- [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey) - Automatically activate the correct input source.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
@@ -1397,7 +1400,7 @@
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - Node.js API for Chrome
 - [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - 👽 Open source API development ecosystem - https://hoppscotch.io
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
-- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
+- [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
 - [marp-team/marp](https://github.com/marp-team/marp) - The entrance repository of Markdown presentation ecosystem
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [softprops/action-gh-release](https://github.com/softprops/action-gh-release) - 📦 :octocat: GitHub Action for creating GitHub Releases
