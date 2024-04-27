@@ -794,6 +794,8 @@
 
 ## JavaScript 
 
+- [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
+- [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
 - [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
 - [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
@@ -1058,7 +1060,7 @@
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
 - [dustinkirkland/ssh-import-id](https://github.com/dustinkirkland/ssh-import-id) - git mirror of the official upstream at http://launchpad.net/ssh-import-id
-- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint, locally and in the cloud.
+- [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) - Run any open-source LLMs, such as Llama 2, Mistral, as OpenAI compatible API endpoint in the cloud.
 - [kerrickstaley/genanki](https://github.com/kerrickstaley/genanki) - A Python 3 library for generating Anki decks
 - [ObsidianToAnki/Obsidian_to_Anki](https://github.com/ObsidianToAnki/Obsidian_to_Anki) - Script to add flashcards from text/markdown files to Anki
 - [FooSoft/anki-connect](https://github.com/FooSoft/anki-connect) - Anki plugin to expose a remote API for creating flash cards.
@@ -1307,6 +1309,7 @@
 
 ## Swift 
 
+- [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
 - [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey) - Automatically activate the correct input source.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
@@ -1321,6 +1324,7 @@
 
 ## TypeScript 
 
+- [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [vite-pwa/vite-plugin-pwa](https://github.com/vite-pwa/vite-plugin-pwa) - Zero-config PWA for Vite
 - [remcohaszing/monaco-yaml](https://github.com/remcohaszing/monaco-yaml) - YAML plugin for the Monaco Editor
