@@ -624,7 +624,7 @@
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
 - [lonng/nano](https://github.com/lonng/nano) - Lightweight, facility, high performance golang based game server framework
 - [go-spring/go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC for Go ) 🚀
-- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform file system notifications for Go.
+- [fsnotify/fsnotify](https://github.com/fsnotify/fsnotify) - Cross-platform filesystem notifications for Go.
 - [AliyunContainerService/image-syncer](https://github.com/AliyunContainerService/image-syncer) - Docker image synchronization tool for Docker Registry V2 based services
 - [go-delve/delve](https://github.com/go-delve/delve) - Delve is a debugger for the Go programming language.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
@@ -1057,6 +1057,7 @@
 
 ## Python 
 
+- [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Building persistent LLM agents with long-term memory 📚🦙
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
 - [walkxcode/dashboard-icons](https://github.com/walkxcode/dashboard-icons) - 🚀 The best source for dashboard icons.
@@ -1255,6 +1256,8 @@
 
 ## Shell 
 
+- [kvaps/kubectl-node-shell](https://github.com/kvaps/kubectl-node-shell) - Exec into node via kubectl
+- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
 - [zfl9/ss-tproxy](https://github.com/zfl9/ss-tproxy) - 搭建 SS/SSR/V2Ray/Trojan/Socks5 透明代理的 Shell 脚本
 - [jkroepke/helm-secrets](https://github.com/jkroepke/helm-secrets) - A helm plugin that help manage secrets with Git workflow and store them anywhere
 - [Cretezy/Swap](https://github.com/Cretezy/Swap) - Simple swap setup script for Linux.
