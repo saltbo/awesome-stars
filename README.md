@@ -938,6 +938,7 @@
 
 ## Lua 
 
+- [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
 - [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
 
 ## MDX 
