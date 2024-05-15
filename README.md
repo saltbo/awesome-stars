@@ -185,6 +185,7 @@
 
 ## Go 
 
+- [slok/kubewebhook](https://github.com/slok/kubewebhook) - Go framework to create Kubernetes mutating and validating webhooks
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
 - [jimmidyson/configmap-reload](https://github.com/jimmidyson/configmap-reload) - Simple binary to trigger a reload when a Kubernetes ConfigMap is updated
 - [open-lambda/open-lambda](https://github.com/open-lambda/open-lambda) - An open source serverless computing platform
@@ -804,7 +805,7 @@
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 - [framework7io/framework7](https://github.com/framework7io/framework7) - Full featured HTML framework for building iOS & Android apps
 - [konstaui/konsta](https://github.com/konstaui/konsta) - Mobile UI components made with Tailwind CSS
-- [wukko/cobalt](https://github.com/wukko/cobalt) - save what you love
+- [imputnet/cobalt](https://github.com/imputnet/cobalt) - save what you love
 - [nkbt/react-copy-to-clipboard](https://github.com/nkbt/react-copy-to-clipboard) - Copy-to-clipboard React component
 - [ajaxorg/ace-builds](https://github.com/ajaxorg/ace-builds) - Packaged version of Ace code editor
 - [PrismJS/prism](https://github.com/PrismJS/prism) - Lightweight, robust, elegant syntax highlighting.
