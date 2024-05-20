@@ -799,6 +799,7 @@
 
 ## JavaScript 
 
+- [bvaughn/react-highlight-words](https://github.com/bvaughn/react-highlight-words) - React component to highlight words within a larger body of text
 - [chartjs/Chart.js](https://github.com/chartjs/Chart.js) - Simple HTML5 Charts using the &lt;canvas&gt; tag
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [winkjs/wink-nlp-utils](https://github.com/winkjs/wink-nlp-utils) - NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more.
