@@ -293,7 +293,7 @@
 - [matcornic/hermes](https://github.com/matcornic/hermes) - Golang package that generates clean, responsive HTML e-mails for sending transactional mail
 - [kubernetes-sigs/cluster-api](https://github.com/kubernetes-sigs/cluster-api) - Home for Cluster API, a subproject of sig-cluster-lifecycle
 - [hidetatz/kubecolor](https://github.com/hidetatz/kubecolor) - colorizes kubectl output
-- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go./ ants 是一个高性能且低损耗的 goroutine 池。
+- [panjf2000/ants](https://github.com/panjf2000/ants) - 🐜🐜🐜 ants is a high-performance and low-cost goroutine pool in Go.
 - [rs/zerolog](https://github.com/rs/zerolog) - Zero Allocation JSON Logger
 - [knative-extensions/eventing-kafka-broker](https://github.com/knative-extensions/eventing-kafka-broker) - Alternate Kafka Broker implementation.
 - [elazarl/goproxy](https://github.com/elazarl/goproxy) - An HTTP proxy library for Go
@@ -732,7 +732,7 @@
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [ysmood/digto](https://github.com/ysmood/digto) - A service to expose HTTP service to the public network
-- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go./ gnet 是一个高性能、轻量级、非阻塞的事件驱动 Go 网络框架。
+- [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
 - [robfig/cron](https://github.com/robfig/cron) - a cron library for go
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [qvest-digital/loginsrv](https://github.com/qvest-digital/loginsrv) - JWT login microservice with plugable backends such as OAuth2, Google, Github, htpasswd, osiam, ..
