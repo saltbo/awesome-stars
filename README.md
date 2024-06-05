@@ -1348,6 +1348,7 @@
 
 ## TypeScript 
 
+- [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure.
