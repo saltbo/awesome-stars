@@ -564,7 +564,7 @@
 - [chenjiandongx/sniffer](https://github.com/chenjiandongx/sniffer) - 🤒   A modern alternative network traffic sniffer.
 - [openelb/openelb](https://github.com/openelb/openelb) - Load Balancer Implementation for Kubernetes in Bare-Metal, Edge, and Virtualization
 - [go-gorm/gen](https://github.com/go-gorm/gen) - Gen:  Friendly & Safer GORM powered by Code Generation
-- [deepmap/oapi-codegen](https://github.com/deepmap/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
+- [oapi-codegen/oapi-codegen](https://github.com/oapi-codegen/oapi-codegen) - Generate Go client and server boilerplate from OpenAPI 3 specifications
 - [caicloud/nirvana](https://github.com/caicloud/nirvana) - Golang Restful API Framework for Productivity
 - [go-kit/kit](https://github.com/go-kit/kit) - A standard library for microservices.
 - [axiaoxin-com/investool](https://github.com/axiaoxin-com/investool) - Golang实现财报分析、个股基本面检测、基本面选股、4433法则基金筛选与检测、基金持仓相似度、股票选基、基金经理筛选
@@ -726,7 +726,7 @@
 - [zserge/lorca](https://github.com/zserge/lorca) - Build cross-platform modern desktop apps in Go + HTML5
 - [etcd-io/bbolt](https://github.com/etcd-io/bbolt) - An embedded key/value database for Go.
 - [asdine/storm](https://github.com/asdine/storm) - Simple and powerful toolkit for BoltDB
-- [go-rod/rod](https://github.com/go-rod/rod) - A Devtools driver for web automation and scraping
+- [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [headzoo/surf](https://github.com/headzoo/surf) - Stateful programmatic web browsing in Go.
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
