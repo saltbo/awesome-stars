@@ -600,7 +600,7 @@
 
 ## continuous-integration 
 
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [bndr/gojenkins](https://github.com/bndr/gojenkins) - Jenkins API Client in Go. Looking for maintainers to move this project forward.
 
@@ -736,7 +736,7 @@
 
 - [shuttle-hq/shuttle](https://github.com/shuttle-hq/shuttle) - Build & ship backends without writing any infrastructure files.
 - [vmware-tanzu/kubeapps](https://github.com/vmware-tanzu/kubeapps) - A web-based UI for deploying and managing applications in Kubernetes clusters
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 
 ## design 
@@ -763,7 +763,7 @@
 - [httpie/cli](https://github.com/httpie/cli) - 🥧 HTTPie CLI  — modern, user-friendly command-line HTTP client for the API era. JSON support, colors, sessions, downloads, plugins & more.
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
 - [argoproj/argo-cd](https://github.com/argoproj/argo-cd) - Declarative Continuous Deployment for Kubernetes
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
@@ -822,7 +822,7 @@
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [containernetworking/cni](https://github.com/containernetworking/cni) - Container Network Interface - networking for Linux containers
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
-- [dagger/dagger](https://github.com/dagger/dagger) - Application Delivery as Code that Runs Anywhere
+- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
 - [kubeedge/kubeedge](https://github.com/kubeedge/kubeedge) - Kubernetes Native Edge Computing Framework (project under CNCF)
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Scripts to build your own IPsec VPN server, with IPsec/L2TP, Cisco IPsec and IKEv2
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Your backend, minus the hassle.
@@ -2442,7 +2442,7 @@
 - [BasedHardware/OpenGlass](https://github.com/BasedHardware/OpenGlass) - Turn any glasses into AI-powered smart glasses
 - [NaturalNode/natural](https://github.com/NaturalNode/natural) - general natural language facilities for node
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
-- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。
+- [DaoCloud/public-image-mirror](https://github.com/DaoCloud/public-image-mirror) - 很多镜像都在国外。比如 gcr 。国内下载很慢，需要加速。致力于提供连接全世界的稳定可靠安全的容器镜像服务。
 - [vite-pwa/docs](https://github.com/vite-pwa/docs) - Documentation: PWA integrations for Vite and the ecosystem
 - [DevToys-app/DevToysMac](https://github.com/DevToys-app/DevToysMac) - DevToys For mac
 - [lihaoyun6/QuickRecorder](https://github.com/lihaoyun6/QuickRecorder) - A lightweight screen recorder based on ScreenCapture Kit for macOS / 基于 ScreenCapture Kit 的轻量化多功能 macOS 录屏工具
