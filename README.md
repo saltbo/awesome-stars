@@ -109,7 +109,7 @@
 - [nilaoda/N_m3u8DL-RE](https://github.com/nilaoda/N_m3u8DL-RE) - Cross-Platform, modern and powerful stream downloader for MPD/M3U8/ISM. English/简体中文/繁體中文.
 - [microsoft/semantic-kernel](https://github.com/microsoft/semantic-kernel) - Integrate cutting-edge LLM technology quickly and easily into your apps
 - [actions/runner](https://github.com/actions/runner) - The Runner for GitHub Actions :rocket:
-- [bitwarden/server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
+- [bitwarden/server](https://github.com/bitwarden/server) - Bitwarden infrastructure/backend (API, database, Docker, etc).
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, support Xray core and v2fly core and others
 
 ## C++ 
@@ -340,6 +340,7 @@
 - [cunnie/sslip.io](https://github.com/cunnie/sslip.io) - Golang-based DNS server which maps DNS records with embedded IP addresses to those addresses.
 - [grafana/phlare](https://github.com/grafana/phlare) - 🔥 horizontally-scalable, highly-available, multi-tenant continuous profiling aggregation system
 - [argoproj/gitops-engine](https://github.com/argoproj/gitops-engine) - Democratizing GitOps
+- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [mongodb/mongodb-kubernetes-operator](https://github.com/mongodb/mongodb-kubernetes-operator) - MongoDB Community Kubernetes Operator
 - [automation-co/husky](https://github.com/automation-co/husky) - git hooks made easy
 - [git-hooks/git-hooks](https://github.com/git-hooks/git-hooks) - git hooks manager
@@ -1031,7 +1032,7 @@
 - [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A community-driven modular vim/neovim distribution - The ultimate vimrc
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - move to https://spacevim.org/git/repos/SpaceVim/
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
@@ -1408,9 +1409,8 @@
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
-- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client applications (web, browser extension, desktop, and cli)
+- [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [ospfranco/sol](https://github.com/ospfranco/sol) - MacOS launcher & command palette
-- [gitpod-io/gitpod](https://github.com/gitpod-io/gitpod) - The developer platform for on-demand cloud development environments to create software faster and more securely.
 - [enisdenjo/graphql-ws](https://github.com/enisdenjo/graphql-ws) - Coherent, zero-dependency, lazy, simple, GraphQL over WebSocket Protocol compliant server and client.
 - [tonybaloney/vscode-pets](https://github.com/tonybaloney/vscode-pets) - Adds playful pets 🦀🐱🐶 in your VS Code window
 - [KATT/envsafe](https://github.com/KATT/envsafe) - 🔒 Makes sure you don't accidentally deploy apps with missing or invalid environment variables.
