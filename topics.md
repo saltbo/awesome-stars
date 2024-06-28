@@ -349,7 +349,7 @@
 - [mbasso/awesome-wasm](https://github.com/mbasso/awesome-wasm) - 😎 Curated list of awesome things regarding WebAssembly (wasm) ecosystem.
 - [bestxtools/awesome-toolbox-chinese](https://github.com/bestxtools/awesome-toolbox-chinese) - 🧰 优秀工具箱集合 - 收集，推荐好用、优秀的工具箱。工具箱大全。| https://awesome-toolbox-chinese.bestxtools.com/ | https://😎🧰.bestxtools.com/
 - [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  Now we have become very big, Different from the original idea. Collect premium software in various categories.
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
 - [RunaCapital/awesome-oss-alternatives](https://github.com/RunaCapital/awesome-oss-alternatives) - Awesome list of open-source startup alternatives to well-known SaaS products 🚀
 - [unixorn/awesome-zsh-plugins](https://github.com/unixorn/awesome-zsh-plugins) - A collection of ZSH frameworks, plugins, themes and tutorials.
@@ -384,6 +384,7 @@
 - [kubevela/terraform-controller](https://github.com/kubevela/terraform-controller) - A Kubernetes Terraform Controller, managing Cloud resources through Kubernetes
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
+- [yeo/ec2.shop](https://github.com/yeo/ec2.shop) - https://ec2.shop
 
 ## azure 
 
@@ -777,6 +778,7 @@
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [kubesphere/kubesphere](https://github.com/kubesphere/kubesphere) - The container platform tailored for Kubernetes multi-cloud, datacenter, and edge management ⎈ 🖥 ☁️
+- [yeo/ec2.shop](https://github.com/yeo/ec2.shop) - https://ec2.shop
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 - [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
@@ -2138,7 +2140,7 @@
 
 ## lua 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [coolsnowwolf/lede](https://github.com/coolsnowwolf/lede) - Lean's LEDE source
 
 ## mac 
@@ -2317,7 +2319,7 @@
 
 ## neovim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 
 ## nestjs 
@@ -2333,6 +2335,7 @@
 
 ## nextjs 
 
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [dubinc/dub](https://github.com/dubinc/dub) - Open-source link management infrastructure
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
@@ -2441,6 +2444,7 @@
 
 ## others 
 
+- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - An intuitive tool for managing and exporting your local bookmarks into a shareable website.
 - [linkease/istore](https://github.com/linkease/istore) - 一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT
 - [immortalwrt/immortalwrt](https://github.com/immortalwrt/immortalwrt) - An opensource OpenWrt variant for mainland China users.
 - [SagerNet/sing-box](https://github.com/SagerNet/sing-box) - The universal proxy platform
@@ -2814,7 +2818,6 @@
 - [junaid33/opensource.builders](https://github.com/junaid33/opensource.builders) - Find open-source alternatives
 - [oxyno-zeta/s3-proxy](https://github.com/oxyno-zeta/s3-proxy) - S3 Reverse Proxy with GET, PUT and DELETE methods and authentication (OpenID Connect and Basic Auth)
 - [tolking/vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe) - A blog theme for VuePress
-- [yeo/ec2.shop](https://github.com/yeo/ec2.shop) - https://ec2.shop
 - [sallar/github-contributions-canvas](https://github.com/sallar/github-contributions-canvas) - A tool for drawing a heat-map of Github contributions on HTML Canvas
 - [shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI](https://github.com/shijianzhiwai/Hackintosh-Gigabyte-Z370-OC-EFI) - Gigabyte Z370 AORUS Ultra Gaming Hackintosh OpenCore EFI
 - [actions/toolkit](https://github.com/actions/toolkit) - The GitHub ToolKit for developing GitHub Actions.
@@ -3044,6 +3047,7 @@
 
 ## react 
 
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
 - [creativetimofficial/material-tailwind](https://github.com/creativetimofficial/material-tailwind) - @material-tailwind is an easy-to-use components library for Tailwind CSS and Material Design.
 - [mantinedev/mantine](https://github.com/mantinedev/mantine) - A fully featured React components library
@@ -3344,7 +3348,7 @@
 
 ## spacevim 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 
 ## spring 
 
@@ -3561,7 +3565,7 @@
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [SirVer/ultisnips](https://github.com/SirVer/ultisnips) - UltiSnips - The ultimate snippet solution for Vim. Send pull requests to SirVer/ultisnips!
 - [syl20bnr/spacemacs](https://github.com/syl20bnr/spacemacs) - A community-driven Emacs distribution - The best editor is neither Emacs nor Vim,  it's Emacs *and* Vim!
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
