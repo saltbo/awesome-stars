@@ -151,6 +151,7 @@
 
 ## CSS 
 
+- [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - An intuitive tool for managing and exporting your local bookmarks into a shareable website.
 - [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
 - [localtest-dot-me/localtest-dot-me.github.com](https://github.com/localtest-dot-me/localtest-dot-me.github.com) - 
 - [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
@@ -1362,6 +1363,7 @@
 
 ## TypeScript 
 
+- [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [sshallow/WhoUsesCookies](https://github.com/sshallow/WhoUsesCookies) - 显示您安装的扩展程序的权限，显示谁在访问您的 cookies。
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -1480,7 +1482,7 @@
 
 ## Vim Script 
 
-- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - 
+- [SpaceVim/SpaceVim](https://github.com/SpaceVim/SpaceVim) - A modular Vim/Neovim configuration
 - [junegunn/vim-plug](https://github.com/junegunn/vim-plug) - :hibiscus: Minimalist Vim Plugin Manager
 
 ## Vim Snippet 
