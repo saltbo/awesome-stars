@@ -900,6 +900,7 @@
 
 ## dotfiles 
 
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [twpayne/chezmoi](https://github.com/twpayne/chezmoi) - Manage your dotfiles across multiple diverse machines, securely.
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - 🇫🇷 Oh my tmux! My self-contained, pretty & versatile tmux configuration made with ❤️
 - [TheLocehiliosan/yadm](https://github.com/TheLocehiliosan/yadm) - Yet Another Dotfiles Manager
@@ -2104,6 +2105,7 @@
 
 ## linux 
 
+- [siduck/chadwm](https://github.com/siduck/chadwm) - Making dwm as beautiful as possible!
 - [Cretezy/Swap](https://github.com/Cretezy/Swap) - Simple swap setup script for Linux.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines for macOS
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
