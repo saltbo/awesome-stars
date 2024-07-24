@@ -2891,7 +2891,7 @@
 - [EOSIO/eosio.cdt](https://github.com/EOSIO/eosio.cdt) - EOSIO.CDT (Contract Development Toolkit) is a suite of tools used to build EOSIO contracts
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
 - [sower-proxy/sower](https://github.com/sower-proxy/sower) - Sower is a cross-platform intelligent transparent proxy solution.
-- [zandko/lucifer-vue-h5-template](https://github.com/zandko/lucifer-vue-h5-template) - 
+- [zandko/vue-h5-template](https://github.com/zandko/vue-h5-template) - 
 - [chinuno-usami/server_tan](https://github.com/chinuno-usami/server_tan) - 微信通知推送服务
 - [ZeroDream-CN/SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) - 樱花内网穿透网站源代码，2020 重制版
 - [forecho/hugo-theme-echo](https://github.com/forecho/hugo-theme-echo) - A super concise theme for Hugo
