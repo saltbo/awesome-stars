@@ -941,7 +941,7 @@
 - [dongkuo/nice-mark](https://github.com/dongkuo/nice-mark) - 一款基于electron的markdown编辑器
 - [onblog/JustWrite](https://github.com/onblog/JustWrite) - 一款支持同步滑动预览的跨平台Markdown编辑器（欢迎Star，🚫禁止Fork）
 - [Ovilia/lipstick](https://github.com/Ovilia/lipstick) - 口红颜色可视化 - 为什么你的女神总缺一支口红
-- [zandko/lucifer-vue-h5-template](https://github.com/zandko/lucifer-vue-h5-template) - 
+- [zandko/vue-h5-template](https://github.com/zandko/vue-h5-template) - 
 - [kuckboy1994/mp_canvas_drawer](https://github.com/kuckboy1994/mp_canvas_drawer) - :rocket: 微信小程序上canvas绘制图片助手，一个json就制作分享朋友圈图片
 - [docsifyjs/docsify](https://github.com/docsifyjs/docsify) - 🃏 A magical documentation site generator.
 - [sintaxi/surge](https://github.com/sintaxi/surge) - CLI for the surge.sh CDN
