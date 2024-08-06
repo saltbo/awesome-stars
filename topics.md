@@ -2466,6 +2466,7 @@
 
 ## others 
 
+- [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
 - [RSSNext/follow](https://github.com/RSSNext/follow) - 🧡 Next generation information browser
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
