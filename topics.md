@@ -1943,6 +1943,7 @@
 
 ## kubernetes 
 
+- [kubernetes-sigs/descheduler](https://github.com/kubernetes-sigs/descheduler) - Descheduler for Kubernetes
 - [bpfman/bpfman](https://github.com/bpfman/bpfman) - An eBPF Manager for Linux and Kubernetes
 - [bluebrown/kobold](https://github.com/bluebrown/kobold) - update container image references, based on webhook events
 - [slok/kubewebhook](https://github.com/slok/kubewebhook) - Go framework to create Kubernetes mutating and validating webhooks
