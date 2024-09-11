@@ -2286,7 +2286,7 @@
 - [marp-team/marp-cli](https://github.com/marp-team/marp-cli) - A CLI interface for Marp and Marpit based converters
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [code-farmer-i/vue-markdown-editor](https://github.com/code-farmer-i/vue-markdown-editor) - A markdown editor built on Vue
-- [emlog/emlog](https://github.com/emlog/emlog) - 轻量级开源博客及建站系统
+- [emlog/emlog](https://github.com/emlog/emlog) - 轻量级开源建站系统
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、色盘取色、多图上传、一键下载文档、自定义 CSS 样式、一键重置等特性
 - [Fechin/reference](https://github.com/Fechin/reference) - ⭕ Share quick reference cheat sheet for developers.
 - [syroegkin/swagger-markdown](https://github.com/syroegkin/swagger-markdown) - swagger to markdown transpiler
