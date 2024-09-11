@@ -1079,7 +1079,7 @@
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source & self-hostable Heroku / Netlify / Vercel alternative.
 - [openmediavault/openmediavault](https://github.com/openmediavault/openmediavault) - openmediavault is the next generation network attached storage (NAS) solution based on Debian Linux. Thanks to the modular design of the framework it can be enhanced via plugins. openmediavault is pri
 - [WangNingkai/OLAINDEX](https://github.com/WangNingkai/OLAINDEX) - ✨ Another OneDrive Directory Index
-- [emlog/emlog](https://github.com/emlog/emlog) - 轻量级开源博客及建站系统
+- [emlog/emlog](https://github.com/emlog/emlog) - 轻量级开源建站系统
 - [ZeroDream-CN/SakuraPanel](https://github.com/ZeroDream-CN/SakuraPanel) - 樱花内网穿透网站源代码，2020 重制版
 - [aliyun/aliyun-openapi-php-sdk](https://github.com/aliyun/aliyun-openapi-php-sdk) - [Abandoned] Open API SDK for PHP developers
 - [hprose/hprose-php](https://github.com/hprose/hprose-php) - Hprose is a cross-language RPC. This project is Hprose 3.0 for PHP
