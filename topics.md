@@ -424,7 +424,7 @@
 
 ## bash 
 
-- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to bash
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
@@ -1591,6 +1591,7 @@
 ## hacktoberfest 
 
 - [UnblockNeteaseMusic/server](https://github.com/UnblockNeteaseMusic/server) - Revive unavailable songs for Netease Cloud Music (Refactored & Enhanced version)
+- [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [qdrant/qdrant](https://github.com/qdrant/qdrant) - Qdrant - High-performance, massive-scale Vector Database for the next generation of AI. Also available in the cloud https://cloud.qdrant.io/
