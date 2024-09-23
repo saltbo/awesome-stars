@@ -429,7 +429,7 @@
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [cheat/cheat](https://github.com/cheat/cheat) - cheat allows you to create and view interactive cheatsheets on the command-line. It was designed to help remind *nix system administrators of options for commands that they use frequently, but not fre
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [kellyjonbrazil/jc](https://github.com/kellyjonbrazil/jc) - CLI tool and python library that converts the output of popular command-line tools, file-types, and common strings to JSON, YAML, or Dictionaries. This allows piping of output to tools like jq and sim
@@ -545,7 +545,7 @@
 - [mikefarah/yq](https://github.com/mikefarah/yq) - yq is a portable command-line YAML, JSON, XML, CSV, TOML  and properties processor
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
 - [chubin/cheat.sh](https://github.com/chubin/cheat.sh) - the only cheat sheet you need
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
@@ -1869,7 +1869,7 @@
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
 - [hizzgdev/jsmind](https://github.com/hizzgdev/jsmind) - a mind mapping library built by javascript
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [mayswind/AriaNg](https://github.com/mayswind/AriaNg) - AriaNg, a modern web frontend making aria2 easier to use.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -2447,7 +2447,7 @@
 - [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
 - [oclif/oclif](https://github.com/oclif/oclif) - CLI for generating, building, and releasing oclif CLIs. Built by Salesforce.
 - [sindresorhus/create-dmg](https://github.com/sindresorhus/create-dmg) - Create a good-looking DMG for your macOS app in seconds
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [novuhq/novu](https://github.com/novuhq/novu) - Open-Source Notification Platform. Embeddable Notification Center, E-mail, Push and Slack Integrations.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
@@ -3399,7 +3399,7 @@
 
 - [sqshq/sampler](https://github.com/sqshq/sampler) - Tool for shell commands execution, visualization and alerting. Configured with a simple YAML file.
 - [ibraheemdev/modern-unix](https://github.com/ibraheemdev/modern-unix) - A collection of modern/faster/saner alternatives to common unix commands.
-- [google/zx](https://github.com/google/zx) - 🔥🔥🔥 A tool for writing better scripts 🔥🔥🔥
+- [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [bitfield/script](https://github.com/bitfield/script) - Making it easy to write shell-like scripts in Go
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
