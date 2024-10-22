@@ -668,7 +668,7 @@
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [goccy/go-graphviz](https://github.com/goccy/go-graphviz) - Go bindings for Graphviz
 - [ondrajz/go-callvis](https://github.com/ondrajz/go-callvis) - Visualize call graph of a Go program using Graphviz
-- [golang-module/carbon](https://github.com/golang-module/carbon) - A simple, semantic and developer-friendly golang package for time
+- [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly golang package for time
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 - [lucasepe/draft](https://github.com/lucasepe/draft) - Generate High Level Cloud Architecture diagrams using YAML syntax.
 - [lucasepe/modgv](https://github.com/lucasepe/modgv) - Converts 'go mod graph' output into Graphviz's DOT language
@@ -969,7 +969,7 @@
 
 ## Kotlin 
 
-- [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark notifications upon receiving SMS messages or phone calls.
+- [jinweijie/notify-me](https://github.com/jinweijie/notify-me) - An Android application that forwards Bark, Email, Webhook notifications upon receiving SMS messages or phone calls.
 - [pppscn/SmsForwarder](https://github.com/pppscn/SmsForwarder) - 短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是
 - [JetBrains/kotlin](https://github.com/JetBrains/kotlin) - The Kotlin Programming Language.
 - [phodal/chapi](https://github.com/phodal/chapi) - CHAPI (Common Hierarchical Abstract Parser and Information Converter) streamlines code analysis by converting diverse language source code into a unified abstract model, simplifying cross-language dev
@@ -1115,7 +1115,7 @@
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
 - [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
-- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Open-source RAG Framework for building GenAI Second Brains 🧠  Build productivity assistant (RAG) ⚡️🤖 Chat with your docs (PDF, CSV, ...)  & apps using Langchain, GPT 3.5 / 4 turbo, Private, Anthropic,
+- [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [cpacker/MemGPT](https://github.com/cpacker/MemGPT) - Letta (fka MemGPT) is a framework for creating stateful LLM services.
 - [openai/whisper](https://github.com/openai/whisper) - Robust Speech Recognition via Large-Scale Weak Supervision
 - [xhongc/music-tag-web](https://github.com/xhongc/music-tag-web) - 音乐标签编辑器，可编辑本地音乐文件的元数据（Editable local music file metadata.）
@@ -1393,6 +1393,7 @@
 
 ## TypeScript 
 
+- [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [appsmithorg/appsmith](https://github.com/appsmithorg/appsmith) - Platform to build admin panels, internal tools, and dashboards. Integrates with 25+ databases and any API.
 - [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Next generation information browser.
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
