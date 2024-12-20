@@ -1414,6 +1414,7 @@
 
 ## TypeScript 
 
+- [cameronhunter/local-ssl-proxy](https://github.com/cameronhunter/local-ssl-proxy) - Simple SSL HTTP proxy using a self-signed certificate. Intended for local development only.
 - [iAmCorey/coreychiu-portfolio-template](https://github.com/iAmCorey/coreychiu-portfolio-template) - portfolio template by corey chiu
 - [bluesky-social/atproto](https://github.com/bluesky-social/atproto) - Social networking technology created by Bluesky
 - [Nutlope/logocreator](https://github.com/Nutlope/logocreator) - A free + OSS logo generator powered by Flux on Together AI
