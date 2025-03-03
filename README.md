@@ -197,6 +197,7 @@
 
 ## Go 
 
+- [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [go-playground/webhooks](https://github.com/go-playground/webhooks) - :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
@@ -462,7 +463,7 @@
 - [graphql-go/graphql](https://github.com/graphql-go/graphql) - An implementation of GraphQL for Go / Golang
 - [aquasecurity/trivy](https://github.com/aquasecurity/trivy) - Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more
 - [OpenFunction/OpenFunction](https://github.com/OpenFunction/OpenFunction) - Cloud Native Function-as-a-Service Platform (CNCF Sandbox Project)
-- [switchupcb/copygen](https://github.com/switchupcb/copygen) - Generate any code based on Go types. Generates type-based code to copy values from type to type and fields from struct to struct by default (copier without reflection).
+- [switchupcb/copygen](https://github.com/switchupcb/copygen) - Copygen generates code based on Go types. Generate type-based code to copy values from type to type and fields from struct to struct by default (copier without reflection).
 - [golang-jwt/jwt](https://github.com/golang-jwt/jwt) - Go implementation of JSON Web Tokens (JWT).
 - [grpc-ecosystem/go-grpc-middleware](https://github.com/grpc-ecosystem/go-grpc-middleware) - Golang gRPC Middlewares: interceptor chaining, auth, logging, retries and more.
 - [kubernetes-sigs/application](https://github.com/kubernetes-sigs/application) - Application metadata descriptor CRD
@@ -508,7 +509,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [dagger/dagger](https://github.com/dagger/dagger) - An engine to run your pipelines in containers
+- [dagger/dagger](https://github.com/dagger/dagger) - An open-source runtime for composable workflows. Great for AI agents and CI/CD.
 - [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/apolloconfig/apollo)
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
@@ -1011,7 +1012,7 @@
 - [iDvel/rime-ice](https://github.com/iDvel/rime-ice) - Rime 配置：雾凇拼音 | 长期维护的简体词库
 - [linkease/istore](https://github.com/linkease/istore) - 一个 Openwrt 标准的软件中心，纯脚本实现，只依赖Openwrt标准组件。支持其它固件开发者集成到自己的固件里面。更方便入门用户搜索安装插件。The iStore is a app store for OpenWRT
 - [Mintimate/oh-my-rime](https://github.com/Mintimate/oh-my-rime) - The Simple Config Template Of Rime By Mintimate.  QQ Chat-Group: 703260572
-- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway
+- [apache/apisix](https://github.com/apache/apisix) - The Cloud-Native API Gateway and AI Gateway
 
 ## MDX 
 
@@ -1135,6 +1136,7 @@
 
 ## Python 
 
+- [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
 - [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
@@ -1437,6 +1439,7 @@
 
 ## TypeScript 
 
+- [PennyroyalTea/gibberlink](https://github.com/PennyroyalTea/gibberlink) - Two conversational AI agents switching from English to sound-level protocol after confirming they are both AI agents
 - [ccbikai/hacker-news](https://github.com/ccbikai/hacker-news) - 一个基于 AI 的 Hacker News 中文播客项目，每天自动抓取 Hacker News 热门文章，通过 AI 生成中文总结并转换为播客内容。
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
 - [solidSpoon/DashPlayer](https://github.com/solidSpoon/DashPlayer) - 为英语学习者量身打造的视频播放器，助你通过观看视频、沉浸真实语境，轻松提升英语水平。#美剧 #播放器 #听力
@@ -1502,7 +1505,7 @@
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [Apple-Actions/import-codesign-certs](https://github.com/Apple-Actions/import-codesign-certs) - GitHub Action for Importing Code-signing Certificates into a Keychain
 - [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
-- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+- [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 - [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
@@ -1574,7 +1577,7 @@
 - [octokit/octokit.js](https://github.com/octokit/octokit.js) - The all-batteries-included GitHub SDK for Browsers, Node.js, and Deno.
 - [SukkaW/DisqusJS](https://github.com/SukkaW/DisqusJS) - :speech_balloon: Render Disqus comments in Mainland China using Disqus API
 - [ice-lab/icestark](https://github.com/ice-lab/icestark) - :tiger: Micro Frontends solution for large application（面向大型应用的微前端解决方案），站点国内镜像：https://icestark.gitee.io
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution. You can create any programming language and any framework development Env, create high availability databases like mysql/pgsql/redis/mongo, and ru
+- [labring/sealos](https://github.com/labring/sealos) - Sealos is a production-ready Kubernetes distribution that makes deployment simple and efficient. Instantly set up development environments for any programming language or framework, deploy high-availa
 - [codebdy/rxdrag](https://github.com/codebdy/rxdrag) - Design anything based on HTML, 可视化编辑， 带逻辑引擎的低代码前端。
 - [wechat-miniprogram/kbone-api](https://github.com/wechat-miniprogram/kbone-api) - 
 
