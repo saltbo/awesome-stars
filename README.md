@@ -167,7 +167,7 @@
 
 ## Dart 
 
-- [ente-io/ente](https://github.com/ente-io/ente) - FOSS, End-to-End Encrypted Cloud
+- [ente-io/ente](https://github.com/ente-io/ente) - End-to-end encrypted, FOSS cloud for Photos, 2FA secrets and more!
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
@@ -959,7 +959,7 @@
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
 - [xcatliu/pagic](https://github.com/xcatliu/pagic) - A static site generator powered by Deno + React
 - [t9tio/cloudquery](https://github.com/t9tio/cloudquery) - Turn any website to API by several clicks (serverless and support SPA!)
-- [joeldenning/simple-single-spa-webpack-example](https://github.com/joeldenning/simple-single-spa-webpack-example) - A simple example of how to use webpack with single-spa
+- [jolyndenning/simple-single-spa-webpack-example](https://github.com/jolyndenning/simple-single-spa-webpack-example) - A simple example of how to use webpack with single-spa
 - [lorisleiva/vuepress-plugin-seo](https://github.com/lorisleiva/vuepress-plugin-seo) - 🔌 Generate SEO friendly meta header for every page
 - [darrenjennings/vuepress-plugin-reading-time](https://github.com/darrenjennings/vuepress-plugin-reading-time) - Vuepress reading time plugin to display how long a page takes to read
 - [lq782655835/vuepress-plugin-element-ui](https://github.com/lq782655835/vuepress-plugin-element-ui) - vuepress plugin to extend elementui base on markdown-it-container
@@ -1268,7 +1268,7 @@
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
 - [sbstp/kubie](https://github.com/sbstp/kubie) - A more powerful alternative to kubectx and kubens
 - [youki-dev/youki](https://github.com/youki-dev/youki) - A container runtime written in Rust
-- [RustScan/RustScan](https://github.com/RustScan/RustScan) - 🤖 The Modern Port Scanner 🤖
+- [bee-san/RustScan](https://github.com/bee-san/RustScan) - 🤖 The Modern Port Scanner 🤖
 - [nushell/nushell](https://github.com/nushell/nushell) - A new type of shell
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [railwayapp/nixpacks](https://github.com/railwayapp/nixpacks) - App source + Nix packages + Docker = Image
