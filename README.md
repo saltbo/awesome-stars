@@ -198,7 +198,7 @@
 ## Go 
 
 - [GoogleCloudPlatform/khi](https://github.com/GoogleCloudPlatform/khi) - A transformative log viewer for Kubernetes
-- [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub For Best You
+- [bestruirui/BestSub](https://github.com/bestruirui/BestSub) - Best Sub, Best for Your Net
 - [bufbuild/buf](https://github.com/bufbuild/buf) - The best way of working with Protocol Buffers.
 - [go-playground/webhooks](https://github.com/go-playground/webhooks) - :fishing_pole_and_fish: Webhook receiver for GitHub, Bitbucket, GitLab, Gogs
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
