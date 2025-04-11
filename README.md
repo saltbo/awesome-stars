@@ -784,7 +784,7 @@
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 - [chromedp/chromedp](https://github.com/chromedp/chromedp) - A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
 - [headzoo/surf](https://github.com/headzoo/surf) - Stateful programmatic web browsing in Go.
-- [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform | 不用懂 Kubernetes 的云原生应用管理平台
+- [goodrain/rainbond](https://github.com/goodrain/rainbond) - No need to know Kubernetes' cloud native application management platform
 - [etcd-io/etcd](https://github.com/etcd-io/etcd) - Distributed reliable key-value store for the most critical data of a distributed system
 - [ysmood/digto](https://github.com/ysmood/digto) - A service to expose HTTP service to the public network
 - [panjf2000/gnet](https://github.com/panjf2000/gnet) - 🚀 gnet is a high-performance, lightweight, non-blocking, event-driven networking framework written in pure Go.
@@ -1460,7 +1460,7 @@
 
 ## TypeScript 
 
-- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 短链与临时邮箱聚合平台，释放域名潜力
+- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short link generation, temporary mailbox, temporary chat room and subdomain management aggregation platform to release the potential of domain names. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [ricky0123/vad](https://github.com/ricky0123/vad) - Voice activity detector (VAD) for the browser with a simple API
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
