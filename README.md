@@ -107,6 +107,7 @@
 
 ## C# # 
 
+- [umlx5h/LLPlayer](https://github.com/umlx5h/LLPlayer) - The media player for language learning, with dual subtitles, AI-generated subtitles, real-time translation, and more!
 - [studyzy/imewlconverter](https://github.com/studyzy/imewlconverter) - ”深蓝词库转换“ 一款开源免费的输入法词库转换程序
 - [mmalyska/argocd-secret-replacer](https://github.com/mmalyska/argocd-secret-replacer) - Replace placeholders with this ArgoCD plugin stored in sops encrypted file
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
@@ -217,7 +218,7 @@
 - [kro-run/kro](https://github.com/kro-run/kro) - kro | Kube Resource Orchestrator
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, Mistral Small 3.1 and other large language models.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [chartmuseum/helm-push](https://github.com/chartmuseum/helm-push) - Helm plugin to push chart package to ChartMuseum
 - [bitnami/charts-syncer](https://github.com/bitnami/charts-syncer) - Tool for synchronizing Helm Chart repositories.
@@ -1085,6 +1086,7 @@
 - [trimstray/the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge) - A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.
 - [jwasham/coding-interview-university](https://github.com/jwasham/coding-interview-university) - A complete computer science study plan to become a software engineer.
 - [yvoronoy/awesome-english](https://github.com/yvoronoy/awesome-english) - A collection of awesome study resources for learners of English.
+- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 
 - [wahyd4/work-in-australia](https://github.com/wahyd4/work-in-australia) - Work in Australia as a Developer / 程序员如何申请到澳洲工作
 - [tianshanghong/awesome-anki](https://github.com/tianshanghong/awesome-anki) - A curated list of awesome Anki add-ons, decks and resources
 - [danger/awesome-danger](https://github.com/danger/awesome-danger) - An awesome list of all things Danger
@@ -1171,7 +1173,6 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [donnemartin/system-design-primer](https://github.com/donnemartin/system-design-primer) - Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.
 - [3b1b/manim](https://github.com/3b1b/manim) - Animation engine for explanatory math videos
-- [LC044/WeChatMsg](https://github.com/LC044/WeChatMsg) - 提取微信聊天记录，将其导出成HTML、Word、Excel文档永久保存，对聊天记录进行分析生成年度聊天报告，用聊天数据训练专属于个人的AI聊天助手
 - [modelscope/FunClip](https://github.com/modelscope/FunClip) - Open-source, accurate and easy-to-use video speech recognition & clipping tool, LLM based AI clipping intergrated.
 - [QuivrHQ/quivr](https://github.com/QuivrHQ/quivr) - Opiniated RAG for integrating GenAI in your apps 🧠   Focus on your product rather than the RAG. Easy integration in existing products with customisation!  Any LLM: GPT4, Groq, Llama. Any Vectorstore: 
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Letta (formerly MemGPT) is the stateful agents framework with memory, reasoning, and context management.
@@ -1623,7 +1624,7 @@
 
 ## Vue 
 
-- [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、主题切换
+- [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、最高音质
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
