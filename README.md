@@ -209,7 +209,7 @@
 - [sony/sonyflake](https://github.com/sony/sonyflake) - A distributed unique ID generator inspired by Twitter's Snowflake
 - [wenlng/go-captcha](https://github.com/wenlng/go-captcha) - 🖖 GoCaptcha is a behavior captcha, which implements click mode, slider mode, drag-drop mode and rotation mode.
 - [grpc/grpc-go](https://github.com/grpc/grpc-go) - The Go language implementation of gRPC. HTTP/2 based RPC
-- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C++ Beta Releases!
+- [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, and C++, with TypeScript coming soon
 - [bdpiprava/scalar-go](https://github.com/bdpiprava/scalar-go) - 
 - [mvrilo/go-redoc](https://github.com/mvrilo/go-redoc) - go-redoc is an embedded OpenAPI/Swagger documentation ui for Go using ReDoc
 - [googleapis/gapic-generator-go](https://github.com/googleapis/gapic-generator-go) - Generate Go API client libraries from Protocol Buffers.
@@ -493,7 +493,7 @@
 - [fatih/color](https://github.com/fatih/color) - Color package for Go (golang)
 - [gogo/protobuf](https://github.com/gogo/protobuf) - [Deprecated] Protocol Buffers for Go with Gadgets
 - [mongodb/mongo-go-driver](https://github.com/mongodb/mongo-go-driver) - The Official Golang driver for MongoDB
-- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - Being replaced by github.com/bufbuild/protovalidate
+- [bufbuild/protoc-gen-validate](https://github.com/bufbuild/protoc-gen-validate) - Protocol Buffer Validation - replaced by https://github.com/bufbuild/protovalidate
 - [open-telemetry/opentelemetry-go-contrib](https://github.com/open-telemetry/opentelemetry-go-contrib) - Collection of extensions for OpenTelemetry-Go.
 - [acorn-io/runtime](https://github.com/acorn-io/runtime) - A simple application deployment framework built on Kubernetes
 - [stashapp/stash](https://github.com/stashapp/stash) - An organizer for your porn, written in Go.  Documentation:  https://docs.stashapp.cc
@@ -900,7 +900,6 @@
 - [react-syntax-highlighter/react-syntax-highlighter](https://github.com/react-syntax-highlighter/react-syntax-highlighter) - syntax highlighting component for react with prismjs or highlightjs ast using inline styles
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
 - [gitbobobo/StreamMusic](https://github.com/gitbobobo/StreamMusic) - 支持 Android、iOS、macOS、Windows 平台的 Subsonic/Navidrome/Jellyfin/Emby/AudioStation 客户端。
-- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 - [immortalwrt/luci](https://github.com/immortalwrt/luci) - LuCI - OpenWrt Configuration Interface
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [toplenboren/simple-git-hooks](https://github.com/toplenboren/simple-git-hooks) - A simple git hooks manager for small projects
@@ -1445,6 +1444,7 @@
 
 - [imputnet/cobalt](https://github.com/imputnet/cobalt) - best way to save what you love
 - [rajnandan1/kener](https://github.com/rajnandan1/kener) - Stunning status pages, batteries included!
+- [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
 
 ## Swift 
 
@@ -1469,7 +1469,7 @@
 ## TypeScript 
 
 - [1chooo/1chooo.com](https://github.com/1chooo/1chooo.com) - 👨🏻‍💻 $ ls -al Hugo -- My personal portfolio and blog built with React, Next.js, Tailwind CSS and TypeScript
-- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 A short link, temporary mailbox, p2p chat and subdomain management platform to release the potential of your domains. 一个短链、临时邮箱、临时聊天室以及子域名管理聚合平台，释放域名潜力。
+- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links with analytics, manage emails, create private chats, and control subdomains—all on one platform.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader)
 - [ricky0123/vad](https://github.com/ricky0123/vad) - Voice activity detector (VAD) for the browser with a simple API
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
@@ -1632,7 +1632,7 @@
 
 ## Vue 
 
-- [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、最高音质
+- [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern Rest API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - GUI for SingBox
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
@@ -1651,7 +1651,7 @@
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
 - [buefy/buefy](https://github.com/buefy/buefy) - Lightweight UI components for Vue.js based on Bulma
 - [doocs/md](https://github.com/doocs/md) - ✍ WeChat Markdown Editor | 一款高度简洁的微信 Markdown 编辑器：支持 Markdown 语法、自定义主题样式、内容管理、多图床、AI 助手等特性
-- [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github/Gitee. 基于 Github/Gitee 轻松管理您的存储图库
+- [xjh22222228/boomb](https://github.com/xjh22222228/boomb) - 💣 Manage your pictures easily for Github. 基于 Github 轻松管理您的存储图库
 - [sknightq/vue-mpc](https://github.com/sknightq/vue-mpc) - multiple pages (multiple entries) based on vue-cli3.x（基于vue-cli3.x创建的多页面应用，每个页面入口又可以创建自己的vue-router)
 - [tolking/vuepress-theme-ououe](https://github.com/tolking/vuepress-theme-ououe) - A blog theme for VuePress
 - [xugaoyi/vuepress-theme-vdoing](https://github.com/xugaoyi/vuepress-theme-vdoing) - 🚀一款简洁高效的VuePress知识管理&博客(blog)主题
