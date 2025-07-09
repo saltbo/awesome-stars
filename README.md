@@ -204,6 +204,8 @@
 
 ## Go 
 
+- [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
+- [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [rs/cors](https://github.com/rs/cors) - Go net/http configurable handler to handle CORS requests
 - [mosn/htnn](https://github.com/mosn/htnn) - HTNN: A cloud-native gateway offering seamless extensibility for Istio and Envoy, in a native way by Go.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -1192,7 +1194,7 @@
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
 - [yt-dlp/yt-dlp](https://github.com/yt-dlp/yt-dlp) - A feature-rich command-line audio/video downloader
 - [FujiwaraChoki/MoneyPrinterV2](https://github.com/FujiwaraChoki/MoneyPrinterV2) - Automate the process of making money online.
-- [cyclotruc/gitingest](https://github.com/cyclotruc/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
+- [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) - Replace 'hub' with 'ingest' in any github url to get a prompt-friendly extract of a codebase
 - [pallets/flask](https://github.com/pallets/flask) - The Python micro framework for building web applications.
 - [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot
 - [openai/swarm](https://github.com/openai/swarm) - Educational framework exploring ergonomic, lightweight multi-agent orchestration. Managed by OpenAI Solution team.
@@ -1506,6 +1508,7 @@
 
 ## TypeScript 
 
+- [apify/crawlee](https://github.com/apify/crawlee) - Crawlee—A web scraping and browser automation library for Node.js to build reliable crawlers. In JavaScript and TypeScript. Extract data for AI, LLMs, RAG, or GPTs. Download HTML, PDF, JPG, PNG, and o
 - [AkashRajpurohit/howtoprofessionallysay](https://github.com/AkashRajpurohit/howtoprofessionallysay) - 📖 A guide for your daily "professional" interactions
 - [saltbo/openapi-rest-admin](https://github.com/saltbo/openapi-rest-admin) - Automatically generate admin interfaces from OpenAPI specifications
 - [authts/oidc-client-ts](https://github.com/authts/oidc-client-ts) - OpenID Connect (OIDC) and OAuth2 protocol support for browser-based JavaScript applications
@@ -1520,7 +1523,7 @@
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - OneUptime is the complete open-source observability platform.
 - [1chooo/portfolio](https://github.com/1chooo/portfolio) - My portfolio and blog site built with React, Next.js, Tailwind CSS and TypeScript
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
-- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails and control subdomains—all on one platform.
+- [oiov/wr.do](https://github.com/oiov/wr.do) - 📧🔗🌏 Shorten links, manage emails, file storage and control subdomains—all on one platform.
 - [th-ch/youtube-music](https://github.com/th-ch/youtube-music) - YouTube Music Desktop App bundled with custom plugins
 - [ricky0123/vad](https://github.com/ricky0123/vad) - Voice activity detector (VAD) for the browser with a simple API
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
