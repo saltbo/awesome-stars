@@ -211,6 +211,7 @@
 
 ## Go 
 
+- [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
