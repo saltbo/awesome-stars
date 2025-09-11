@@ -219,6 +219,7 @@
 
 ## Go 
 
+- [sjzar/chatlog](https://github.com/sjzar/chatlog) - chat log tool, easily use your own chat data. 聊天记录工具，轻松使用自己的聊天数据
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) - Collection of Intel device plugins for Kubernetes
 - [ROCm/k8s-device-plugin](https://github.com/ROCm/k8s-device-plugin) - Kubernetes (k8s) device plugin to enable registration of AMD GPU to a container cluster
@@ -1391,7 +1392,7 @@
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [messense/aliyundrive-webdav](https://github.com/messense/aliyundrive-webdav) - 阿里云盘 WebDAV 服务
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) - Layer 4 Kubernetes load-balancer
+- [kubernetes-retired/blixt](https://github.com/kubernetes-retired/blixt) - Layer 4 Kubernetes load-balancer
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -1486,7 +1487,7 @@
 
 ## Scala 
 
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 
 ## Shell 
