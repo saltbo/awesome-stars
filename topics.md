@@ -2378,7 +2378,7 @@
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
 - [fission/keda-connectors](https://github.com/fission/keda-connectors) - Generic connectors for Keda which can be used as worker images as part of scaleTargetRef.
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
-- [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) - Layer 4 Kubernetes load-balancer
+- [kubernetes-retired/blixt](https://github.com/kubernetes-retired/blixt) - Layer 4 Kubernetes load-balancer
 - [stern/stern](https://github.com/stern/stern) - ⎈ Multi pod and container log tailing for Kubernetes -- Friendly fork of https://github.com/wercker/stern
 - [komodorio/helm-dashboard](https://github.com/komodorio/helm-dashboard) - The missing UI for Helm - visualize your releases
 - [kubernetes-sigs/external-dns](https://github.com/kubernetes-sigs/external-dns) - Configure external DNS servers dynamically from Kubernetes resources
@@ -3203,7 +3203,7 @@
 - [haad/proxychains](https://github.com/haad/proxychains) - proxychains - a tool that forces any TCP connection made by any given application to follow through proxy like TOR or any other SOCKS4, SOCKS5 or HTTP(S) proxy.  Supported auth-types: "user/pass" for 
 - [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [mckaywrigley/chatbot-ui](https://github.com/mckaywrigley/chatbot-ui) - AI chat for any model.
-- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for Twitter's Recommendation Algorithm
+- [twitter/the-algorithm](https://github.com/twitter/the-algorithm) - Source code for the X Recommendation Algorithm
 - [kubernetes/test-infra](https://github.com/kubernetes/test-infra) - Test infrastructure for the Kubernetes project.
 - [lit/lit](https://github.com/lit/lit) - Lit is a simple library for building fast, lightweight web components.
 - [yihong0618/gitblog](https://github.com/yihong0618/gitblog) - People Die, but Long Live GitHub
@@ -3883,7 +3883,7 @@
 - [Rust-for-Linux/linux](https://github.com/Rust-for-Linux/linux) - Adding support for the Rust language to the Linux kernel.
 - [swc-project/swc](https://github.com/swc-project/swc) - Rust-based platform for the Web
 - [helix-editor/helix](https://github.com/helix-editor/helix) - A post-modern modal text editor.
-- [kubernetes-sigs/blixt](https://github.com/kubernetes-sigs/blixt) - Layer 4 Kubernetes load-balancer
+- [kubernetes-retired/blixt](https://github.com/kubernetes-retired/blixt) - Layer 4 Kubernetes load-balancer
 - [asciinema/agg](https://github.com/asciinema/agg) - asciinema gif generator
 - [zurawiki/gptcommit](https://github.com/zurawiki/gptcommit) - A git prepare-commit-msg hook for authoring commit messages with LLMs.
 - [ogham/dog](https://github.com/ogham/dog) - A command-line DNS client.
@@ -4123,12 +4123,12 @@
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
 - [spring-projects/spring-framework](https://github.com/spring-projects/spring-framework) - Spring Framework
 - [zq2599/blog_demos](https://github.com/zq2599/blog_demos) - CSDN博客专家程序员欣宸的github，这里有六百多篇原创文章的详细分类和汇总，以及对应的源码，内容涉及Java、Docker、Kubernetes、DevOPS等方面
-- [go-spring/go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC for Go ) 🚀
+- [go-spring/go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 IDLs-First 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC and IDLs-First for Go ) 🚀
 
 ## spring-boot 
 
 - [springdoc/springdoc-openapi](https://github.com/springdoc/springdoc-openapi) - Library for OpenAPI 3 with spring-boot
-- [go-spring/go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC for Go ) 🚀
+- [go-spring/go-spring](https://github.com/go-spring/go-spring) - 基于 IoC 的 IDLs-First 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC and IDLs-First for Go ) 🚀
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 
 ## springboot 
