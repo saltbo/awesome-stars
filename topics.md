@@ -7,6 +7,7 @@
 
 - [3d](#3d)
 - [ai](#ai)
+- [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
 - [algorithmic-trading](#algorithmic-trading)
 - [analytics](#analytics)
@@ -278,8 +279,10 @@
 
 ## ai 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
 - [OpenBB-finance/OpenBB](https://github.com/OpenBB-finance/OpenBB) - Financial data platform for analysts, quants and AI agents.
 - [taubyte/tau](https://github.com/taubyte/tau) - Open source distributed Platform as a Service (PaaS). A self-hosted Vercel / Netlify / Cloudflare alternative.
@@ -319,6 +322,13 @@
 - [wzpan/wukong-robot](https://github.com/wzpan/wukong-robot) - 🤖 wukong-robot 是一个简单、灵活、优雅的中文语音对话机器人/智能音箱项目，支持ChatGPT多轮对话能力，还可能是首个支持脑机交互的开源智能音箱项目。
 - [MycroftAI/mycroft-core](https://github.com/MycroftAI/mycroft-core) - Mycroft Core, the Mycroft Artificial Intelligence platform.
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
+
+## ai-agents 
+
+- [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
+- [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
+- [letta-ai/letta](https://github.com/letta-ai/letta) - Letta is the platform for building stateful agents: open AI with advanced memory that can learn and self-improve over time.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 
 ## algorithm 
 
@@ -375,6 +385,7 @@
 
 ## api 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -1086,7 +1097,7 @@
 - [cshum/imagor](https://github.com/cshum/imagor) - Fast, secure image processing server and Go library, using libvips
 - [psviderski/unregistry](https://github.com/psviderski/unregistry) - Push docker images directly to remote servers without an external registry
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [oiov/wr.do](https://github.com/oiov/wr.do) - 一站式域名服务平台，集成短链生成、无限域名邮箱、文件存储和子域名管理，带有管理员面板，支持自部署
 - [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy) - Open Source Alternative to Vercel, Netlify and Heroku.
@@ -1565,7 +1576,6 @@
 - [gin-gonic/gin](https://github.com/gin-gonic/gin) - Gin is a high-performance HTTP web framework written in Go. It provides a Martini-like API but with significantly better performance—up to 40 times faster—thanks to httprouter. Gin is designed for bui
 - [stretchr/testify](https://github.com/stretchr/testify) - A toolkit with common assertions and mocks that plays nicely with the standard library
 - [ginuerzh/gost](https://github.com/ginuerzh/gost) - GO Simple Tunnel - a simple tunnel written in golang
-- [micro/micro](https://github.com/micro/micro) - A microservices toolkit
 - [smallstep/certificates](https://github.com/smallstep/certificates) - 🛡️ A private certificate authority (X.509 & SSH) & ACME server for secure automated certificate management, so you can use TLS everywhere & SSO for SSH.
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [ethereum/go-ethereum](https://github.com/ethereum/go-ethereum) - Go implementation of the Ethereum protocol
@@ -1656,6 +1666,7 @@
 
 ## golang 
 
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [xo/dbtpl](https://github.com/xo/dbtpl) - Command line tool to generate idiomatic Go code for SQL databases supporting PostgreSQL, MySQL, SQLite, Oracle, and Microsoft SQL Server
 - [google/cel-go](https://github.com/google/cel-go) - Fast, portable, non-Turing complete expression evaluation with gradual typing (Go)
 - [FerretDB/FerretDB](https://github.com/FerretDB/FerretDB) - A truly Open Source MongoDB alternative
@@ -1951,9 +1962,11 @@
 - [strapi/strapi](https://github.com/strapi/strapi) - 🚀 Strapi is the leading open-source headless CMS. It’s 100% JavaScript/TypeScript, fully customizable, and developer-first.
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [authorizerdev/authorizer](https://github.com/authorizerdev/authorizer) - Your data, your control. Fully open source, authentication and authorization. No lock-ins.  Deployment in Railway in 120 seconds || Spin a docker image as a micro-service in your infra. Built in login
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
+- [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
 - [akuity/kargo](https://github.com/akuity/kargo) - Application lifecycle orchestration
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [caarlos0/env](https://github.com/caarlos0/env) - A simple, zero-dependencies library to parse environment variables into structs
@@ -1972,10 +1985,12 @@
 - [ccbikai/Sink](https://github.com/ccbikai/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [amber-lang/amber](https://github.com/amber-lang/amber) - 💎 Amber the programming language compiled to Bash
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
+- [EasyFrontendHQ/html-tailwindcss-components](https://github.com/EasyFrontendHQ/html-tailwindcss-components) - Free TailwindCSS HTML UI Components - built to create landing pages and websites. Easyfrontend UI components are free and open-source. show your support and love, don't forget to give us a star 🌟
 - [securingsincity/react-ace](https://github.com/securingsincity/react-ace) - React Ace Component
 - [external-secrets/external-secrets](https://github.com/external-secrets/external-secrets) - External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
+- [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [validatorjs/validator.js](https://github.com/validatorjs/validator.js) - String validation
 - [refinedev/refine](https://github.com/refinedev/refine) - A React Framework for building  internal tools, admin panels, dashboards & B2B apps with unmatched flexibility.
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
@@ -1989,6 +2004,7 @@
 - [pmndrs/zustand](https://github.com/pmndrs/zustand) - 🐻 Bear necessities for state management in React
 - [gitleaks/gitleaks](https://github.com/gitleaks/gitleaks) - Find secrets with Gitleaks 🔑
 - [sozercan/kubectl-ai](https://github.com/sozercan/kubectl-ai) - ✨ Kubectl plugin to create manifests with LLMs
+- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
 - [carvel-dev/vendir](https://github.com/carvel-dev/vendir) - Easy way to vendor portions of git repos, github releases, helm charts, docker image contents, etc. declaratively
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
@@ -2051,7 +2067,6 @@
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
 - [sharkdp/bat](https://github.com/sharkdp/bat) - A cat(1) clone with wings.
-- [samber/lo](https://github.com/samber/lo) - 💥  A Lodash-style Go library based on Go 1.18+ Generics (map, filter, contains, find...)
 - [goharbor/harbor](https://github.com/goharbor/harbor) - An open source trusted cloud native registry project that stores, signs, and scans content.
 - [jaegertracing/jaeger](https://github.com/jaegertracing/jaeger) - CNCF Jaeger, a Distributed Tracing Platform
 - [fission/fission](https://github.com/fission/fission) - Fast and Simple Serverless Functions for Kubernetes
@@ -2080,6 +2095,7 @@
 - [0xAX/go-algorithms](https://github.com/0xAX/go-algorithms) - Algorithms and data structures for golang
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [tektoncd/pipeline](https://github.com/tektoncd/pipeline) - A cloud-native Pipeline resource.
 - [argoproj/argo-workflows](https://github.com/argoproj/argo-workflows) - Workflow Engine for Kubernetes
 - [redxtech/vue-plyr](https://github.com/redxtech/vue-plyr) - A Vue component for the plyr (https://github.com/sampotts/plyr) video & audio player.
@@ -2371,6 +2387,7 @@
 
 ## kubernetes 
 
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [loft-sh/vcluster](https://github.com/loft-sh/vcluster) - vCluster - Create fully functional virtual Kubernetes clusters - Each vcluster runs inside a namespace of the underlying k8s cluster. It's cheaper than creating separate full-blown clusters and it off
 - [FairwindsOps/goldilocks](https://github.com/FairwindsOps/goldilocks) - Get your resource requests "Just Right"
 - [intel/intel-device-plugins-for-kubernetes](https://github.com/intel/intel-device-plugins-for-kubernetes) - Collection of Intel device plugins for Kubernetes
@@ -2624,6 +2641,7 @@
 
 ## llm 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [sgl-project/sglang](https://github.com/sgl-project/sglang) - SGLang is a fast serving framework for large language models and vision language models.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [vllm-project/vllm](https://github.com/vllm-project/vllm) - A high-throughput and memory-efficient inference and serving engine for LLMs
@@ -2675,7 +2693,7 @@
 
 ## mac 
 
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ytmdesktop/ytmdesktop](https://github.com/ytmdesktop/ytmdesktop) - A Desktop App for YouTube Music
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
@@ -2711,7 +2729,7 @@
 
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [microsandbox/microsandbox](https://github.com/microsandbox/microsandbox) - Microsandbox — Self-Hosted Plaform for Secure Execution of Untrusted User or AI-Generated Code
-- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
 - [HsiangHo/Kaka](https://github.com/HsiangHo/Kaka) - 去掉了瑞星无用的杀毒和防火墙功能，只保留小狮子。Kaka for macOS
 - [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -3079,6 +3097,7 @@
 
 ## others 
 
+- [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [ent/contrib](https://github.com/ent/contrib) - A collection of extensions and tools for ent
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift
@@ -3091,7 +3110,6 @@
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
 - [BlockchainCommons/GordianSeedTool-iOS](https://github.com/BlockchainCommons/GordianSeedTool-iOS) - Cryptographic Seed Manager for iOS
 - [BlockchainCommons/seedtool-cli-rust](https://github.com/BlockchainCommons/seedtool-cli-rust) - A command-line tool for generating and transforming cryptographic seeds.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
 - [mr-karan/arbok](https://github.com/mr-karan/arbok) - Secure HTTP tunnels to localhost using WireGuard - Share your local dev server instantly
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
@@ -3263,7 +3281,6 @@
 - [rakyll/hey](https://github.com/rakyll/hey) - HTTP load generator, ApacheBench (ab) replacement
 - [streamich/git-cz](https://github.com/streamich/git-cz) - Semantic Git commits
 - [lllyasviel/ControlNet](https://github.com/lllyasviel/ControlNet) - Let us control diffusion models!
-- [backstage/backstage](https://github.com/backstage/backstage) - Backstage is an open framework for building developer portals
 - [olekukonko/tablewriter](https://github.com/olekukonko/tablewriter) - ASCII table in golang
 - [gocarina/gocsv](https://github.com/gocarina/gocsv) - The GoCSV package aims to provide easy CSV serialization and deserialization to the golang programming language
 - [HexFiend/HexFiend](https://github.com/HexFiend/HexFiend) - A fast and clever hex editor for macOS
@@ -3442,7 +3459,7 @@
 - [RfidResearchGroup/proxmark3](https://github.com/RfidResearchGroup/proxmark3) - Iceman Fork - Proxmark3
 - [Proxmark/proxmark3](https://github.com/Proxmark/proxmark3) - Proxmark 3
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
-- [lra/mackup](https://github.com/lra/mackup) - Keep your application settings in sync (OS X/Linux)
+- [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync (OS X/Linux)
 - [EtherDream/http-server-online](https://github.com/EtherDream/http-server-online) - Start a local HTTP server without any tools, just open a web page.
 - [alphardex/maku.js](https://github.com/alphardex/maku.js) - A bridge between HTML and WebGL(three.js).
 - [dtolnay/thiserror](https://github.com/dtolnay/thiserror) - derive(Error) for struct and enum error types
@@ -3488,7 +3505,7 @@
 - [kubernetes/apimachinery](https://github.com/kubernetes/apimachinery) - 
 - [kubernetes-sigs/controller-runtime](https://github.com/kubernetes-sigs/controller-runtime) - Repo for the controller-runtime subproject of kubebuilder (sig-apimachinery)
 - [dromara/carbon](https://github.com/dromara/carbon) - A simple, semantic and developer-friendly  time  package for golang
-- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 80+ languages.
+- [PaddlePaddle/PaddleOCR](https://github.com/PaddlePaddle/PaddleOCR) - Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.
 - [nchudleigh/vimac](https://github.com/nchudleigh/vimac) - Productive macOS keyboard-driven navigation
 - [iamkun/dayjs](https://github.com/iamkun/dayjs) - ⏰ Day.js 2kB immutable date-time library alternative to Moment.js with the same modern API
 - [mozilla/pdf.js](https://github.com/mozilla/pdf.js) - PDF Reader in JavaScript
@@ -3703,6 +3720,7 @@
 
 ## python 
 
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [BasedHardware/omi](https://github.com/BasedHardware/omi) - AI wearables. Put it on, speak, transcribe, automatically
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
@@ -3848,7 +3866,7 @@
 - [ant-design/ant-design](https://github.com/ant-design/ant-design) - An enterprise-class UI design language and React UI library
 - [facebook/docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
-- [nikitavoloboev/nikiv](https://github.com/nikitavoloboev/nikiv) - Personal website, docs
+- [nikivdev/nikiv](https://github.com/nikivdev/nikiv) - Personal website, docs
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -3927,6 +3945,7 @@
 
 ## rust 
 
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient LLM Inference
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [juspay/hyperswitch](https://github.com/juspay/hyperswitch) - An open source payments switch written in Rust to make payments fast, reliable and affordable
@@ -4225,6 +4244,7 @@
 
 ## stable-diffusion 
 
+- [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
 
