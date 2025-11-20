@@ -451,7 +451,7 @@
 - [open-telemetry/opentelemetry-operator](https://github.com/open-telemetry/opentelemetry-operator) - Kubernetes Operator for OpenTelemetry Collector
 - [open-policy-agent/opa](https://github.com/open-policy-agent/opa) - Open Policy Agent (OPA) is an open source, general-purpose policy engine.
 - [spf13/afero](https://github.com/spf13/afero) - The Universal Filesystem Abstraction for Go
-- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils(800+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的工具函数：数字，字符串，数组，Map，结构体
+- [gookit/goutil](https://github.com/gookit/goutil) - 💪 Helper Utils(900+): int, byte, string, array/slice, map, struct, dump, convert/format, error, web/http, cli/flag, OS/ENV, filesystem, system, test/assert, time and more. Go 常用的工具函数：数字，字符串，数组，Map，结构体
 - [gocolly/colly](https://github.com/gocolly/colly) - Elegant Scraper and Crawler Framework for Golang
 - [kubernetes/klog](https://github.com/kubernetes/klog) - Leveled execution logs for Go (fork of https://github.com/golang/glog)
 - [AlecAivazis/survey](https://github.com/AlecAivazis/survey) - A golang library for building interactive and accessible prompts with full support for windows and posix terminals.
@@ -758,7 +758,7 @@
 - [gobuffalo/buffalo](https://github.com/gobuffalo/buffalo) - Rapid Web Development w/ Go
 - [kubernetes-sigs/kubebuilder](https://github.com/kubernetes-sigs/kubebuilder) - Kubebuilder - SDK for building Kubernetes APIs using CRDs
 - [go-swagger/go-swagger](https://github.com/go-swagger/go-swagger) - Swagger 2.0 implementation for go
-- [ory/hydra](https://github.com/ory/hydra) - The only web-scale, fully customizable OpenID Certified™ OpenID Connect and OAuth2 Provider in the world. Become an OpenID Connect and OAuth2 Provider over night. Written in Go, cloud native, headless
+- [ory/hydra](https://github.com/ory/hydra) - Internet-scale OpenID Certified™ OpenID Connect and OAuth2.1 provider that integrates with your user management through headless APIs. Solve OIDC/OAuth2 user cases over night. Consume as a service on 
 - [kubevela/kubevela](https://github.com/kubevela/kubevela) - The Modern Application Platform.
 - [hashicorp/terraform](https://github.com/hashicorp/terraform) - Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amo
 - [cuelang/cue](https://github.com/cuelang/cue) - CUE has moved to https://github.com/cue-lang/cue
@@ -959,7 +959,7 @@
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
-- [tiagozip/cap](https://github.com/tiagozip/cap) - Cap is a lightweight, modern open-source CAPTCHA alternative using SHA-256 proof-of-work
+- [tiagozip/cap](https://github.com/tiagozip/cap) - The privacy-first, self-hosted CAPTCHA for the modern web.
 - [mostafa-wahied/portracker](https://github.com/mostafa-wahied/portracker) - 
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [grpc/grpc-web](https://github.com/grpc/grpc-web) - gRPC for Web Clients
@@ -1127,6 +1127,7 @@
 
 ## MDX 
 
+- [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
 - [PatrickJS/awesome-cursorrules](https://github.com/PatrickJS/awesome-cursorrules) - 📄  Configuration files that enhance Cursor AI editor experience with custom rules and behaviors
 
 ## Makefile 
@@ -1204,13 +1205,13 @@
 - [Johnshall/Shadowrocket-ADBlock-Rules-Forever](https://github.com/Johnshall/Shadowrocket-ADBlock-Rules-Forever) - 提供多款 Shadowrocket 规则，拥有强劲的广告过滤功能。每日 8 时重新构建规则。
 - [github/gitignore](https://github.com/github/gitignore) - A collection of useful .gitignore templates
 - [FasterXML/jackson](https://github.com/FasterXML/jackson) - Main Portal page for the Jackson project
-- [RezShakeri/beautify-github-profile](https://github.com/RezShakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
+- [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - This repository will assist you in creating a more beautiful and appealing github profile, and you will have access to a comprehensive range of tools and tutorials for beautifying your github profile.
 - [comwrg/package-manager-proxy-settings](https://github.com/comwrg/package-manager-proxy-settings) - 记录各个包管理器代理设置坑点。
 - [oldratlee/translations](https://github.com/oldratlee/translations) - 🐼  Chinese translations for classic software development resources
 - [cobaltdisco/Google-Chinese-Results-Blocklist](https://github.com/cobaltdisco/Google-Chinese-Results-Blocklist) - 我终于能用谷歌搜中文了……
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
-- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - Modern. Native. Delightful Web Debugging Proxy for macOS, iOS, and Android ⚡️
+- [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
 - [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
@@ -1518,6 +1519,7 @@
 - [carloscuesta/dotfiles](https://github.com/carloscuesta/dotfiles) - My personal dotfiles for macOS 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
@@ -1549,7 +1551,7 @@
 - [docker-library/official-images](https://github.com/docker-library/official-images) - Primary source of truth for the Docker "Official Images" program
 - [nicolaka/netshoot](https://github.com/nicolaka/netshoot) - a Docker + Kubernetes network trouble-shooting swiss-army container
 - [blacklabelops/logrotate](https://github.com/blacklabelops/logrotate) - Dockerized Logrotate. Attach, Compress, Rotate!
-- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script implementing ACME client protocol
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [goreleaser/goreleaser-cross](https://github.com/goreleaser/goreleaser-cross) - Docker image for Golang cross-compiling with CGO
 - [gpakosz/.tmux](https://github.com/gpakosz/.tmux) - Oh my tmux! My self-contained, pretty & versatile tmux configuration made with 💛🩷💙🖤❤️🤍
 - [aws/eks-distro](https://github.com/aws/eks-distro) - Amazon EKS Distro (EKS-D) is a Kubernetes distribution based on and used by Amazon Elastic Kubernetes Service (EKS) to create reliable and secure Kubernetes clusters.
@@ -1633,7 +1635,6 @@
 - [rdev/liquid-glass-react](https://github.com/rdev/liquid-glass-react) - Apple's Liquid Glass effect for React
 - [excalidraw/excalidraw](https://github.com/excalidraw/excalidraw) - Virtual whiteboard for sketching hand-drawn like diagrams
 - [motiondivision/motion](https://github.com/motiondivision/motion) - A modern animation library for React and JavaScript
-- [anthropics/claude-code](https://github.com/anthropics/claude-code) - Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows 
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [1chooo/portfolio](https://github.com/1chooo/portfolio) - 
 - [modelcontextprotocol/servers](https://github.com/modelcontextprotocol/servers) - Model Context Protocol Servers
@@ -1768,7 +1769,7 @@
 - [hasura/graphql-engine](https://github.com/hasura/graphql-engine) - Blazing fast, instant realtime GraphQL APIs on all your data with fine grained access control, also trigger webhooks on database events.
 - [element-plus/element-plus](https://github.com/element-plus/element-plus) - 🎉 A Vue.js 3 UI Library made by Element team
 - [alphardex/maku.js](https://github.com/alphardex/maku.js) - A bridge between HTML and WebGL(three.js).
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. A better, open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
 - [Milkdown/milkdown](https://github.com/Milkdown/milkdown) - 🍼 Plugin driven WYSIWYG  markdown editor framework.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
 - [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.
