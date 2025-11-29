@@ -254,7 +254,7 @@
 - [beclab/Olares](https://github.com/beclab/Olares) - Olares: An Open-Source Personal Cloud to Reclaim Your Data
 - [michaljanocko/pancors](https://github.com/michaljanocko/pancors) - 📡 Fast CORS-anywhere proxy
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
-- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application.
+- [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [hashicorp/go-plugin](https://github.com/hashicorp/go-plugin) - Golang plugin system over RPC.
 - [emicklei/go-restful](https://github.com/emicklei/go-restful) - package for building REST-style Web Services using Go
 - [getkin/kin-openapi](https://github.com/getkin/kin-openapi) - OpenAPI 3.0 (and Swagger v2) implementation for Go (parsing, converting, validation, and more)
@@ -953,7 +953,6 @@
 
 ## JavaScript 
 
-- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [thlorenz/brace](https://github.com/thlorenz/brace) - 📔 browserify compatible version of the ace editor.
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: The Dropbox like web client for SFTP, S3, FTP, WebDAV, Git, Minio, LDAP, CalDAV, CardDAV, Mysql, Backblaze, ...
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
@@ -1610,6 +1609,7 @@
 ## TypeScript 
 
 - [fastrepl/hyprnote](https://github.com/fastrepl/hyprnote) - Local-first AI Notepad for Private Meetings
+- [upstash/context7](https://github.com/upstash/context7) - Context7 MCP Server -- Up-to-date code documentation for LLMs and AI code editors
 - [Apple-Actions/upload-testflight-build](https://github.com/Apple-Actions/upload-testflight-build) - A GitHub Action that Uploads a build to Apple TestFlight
 - [EpicenterHQ/epicenter](https://github.com/EpicenterHQ/epicenter) - Press shortcut → speak → get text. Free and open source. More local-first apps soon ❤️
 - [openai/agents.md](https://github.com/openai/agents.md) - AGENTS.md — a simple, open format for guiding coding agents
@@ -1617,7 +1617,7 @@
 - [microsoft/poml](https://github.com/microsoft/poml) - Prompt Orchestration Markup Language
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
 - [emilkowalski/vaul](https://github.com/emilkowalski/vaul) - A drawer component for React.
-- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, JSX, HTML, and more!
+- [quantizor/markdown-to-jsx](https://github.com/quantizor/markdown-to-jsx) - A very fast and versatile markdown toolchain. Output to AST, React, React Native, HTML, and more!
 - [toss/es-toolkit](https://github.com/toss/es-toolkit) - A modern JavaScript utility library that's 2-3 times faster and up to 97% smaller—a major upgrade to lodash.
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
