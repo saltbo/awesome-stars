@@ -229,6 +229,7 @@
 - [int128/kubelogin](https://github.com/int128/kubelogin) - kubectl plugin for Kubernetes OpenID Connect authentication (kubectl oidc-login)
 - [modelcontextprotocol/registry](https://github.com/modelcontextprotocol/registry) - A community driven registry service for Model Context Protocol (MCP) servers.
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - :robot: The free, Open Source alternative to OpenAI, Claude and others. Self-hosted and local-first. Drop-in replacement for OpenAI,  running on consumer-grade hardware. No GPU required. Runs gguf, tr
+- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
 - [ent/contrib](https://github.com/ent/contrib) - A collection of extensions and tools for ent
 - [zitadel/zitadel](https://github.com/zitadel/zitadel) - ZITADEL - Identity infrastructure, simplified for you.
 - [jackc/pgx](https://github.com/jackc/pgx) - PostgreSQL driver and toolkit for Go
@@ -919,7 +920,7 @@
 
 - [apache/hbase](https://github.com/apache/hbase) - Apache HBase
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 Locally hosted web application that allows you to perform various operations on PDF files
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
@@ -1390,7 +1391,6 @@
 
 ## Rust 
 
-- [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Router for Mixture-of-Models
 - [BlockchainCommons/seedtool-cli-rust](https://github.com/BlockchainCommons/seedtool-cli-rust) - A command-line tool for generating and transforming cryptographic seeds.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
 - [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - self-hosted plaform for secure execution of untrusted user or AI-generated code
@@ -1460,6 +1460,7 @@
 - [TeXitoi/structopt](https://github.com/TeXitoi/structopt) - Parse command line arguments by defining a struct.
 - [dtolnay/anyhow](https://github.com/dtolnay/anyhow) - Flexible concrete Error type built on std::error::Error
 - [tokio-rs/axum](https://github.com/tokio-rs/axum) - Ergonomic and modular web framework built with Tokio, Tower, and Hyper
+- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
 - [crossbeam-rs/crossbeam](https://github.com/crossbeam-rs/crossbeam) - Tools for concurrent programming in Rust
 - [hyperium/tonic](https://github.com/hyperium/tonic) - A native gRPC client & server implementation with async/await support.
@@ -1758,7 +1759,6 @@
 - [labring/laf](https://github.com/labring/laf) - Laf is a vibrant cloud development platform that provides essential tools like cloud functions, databases, and storage solutions. It enables developers to quickly unleash their creativity and bring in
 - [lisonge/vite-plugin-monkey](https://github.com/lisonge/vite-plugin-monkey) - A vite plugin server and build your.user.js for userscript engine like Tampermonkey, Violentmonkey, Greasemonkey, ScriptCat
 - [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
-- [spacedriveapp/spacedrive](https://github.com/spacedriveapp/spacedrive) - Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust.
 - [baidu/amis](https://github.com/baidu/amis) - 前端低代码框架，通过 JSON 配置就能生成各种页面。
 - [nikivdev/research](https://github.com/nikivdev/research) - Research (code, docs, ..)
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
