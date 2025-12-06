@@ -221,6 +221,7 @@
 
 ## Go 
 
+- [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
 - [microsoft/typescript-go](https://github.com/microsoft/typescript-go) - Staging repo for development of native port of TypeScript
 - [railwayapp/railpack](https://github.com/railwayapp/railpack) - Zero-config application builder that automatically analyzes and turns your code into an image
 - [bonaysoft/gofbot](https://github.com/bonaysoft/gofbot) - A generic webhook endpoint that call some apis based on the URL called
@@ -1624,7 +1625,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-Aware Tunneled Reverse Proxy Server with Dashboard UI
-- [sst/opencode](https://github.com/sst/opencode) - The AI coding agent built for the terminal.
+- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
