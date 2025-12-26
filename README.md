@@ -222,7 +222,7 @@
 
 ## Go 
 
-- [RostislavDugin/postgresus](https://github.com/RostislavDugin/postgresus) - PostgreSQL backup tool
+- [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
 - [steveyegge/beads](https://github.com/steveyegge/beads) - Beads - A memory upgrade for your coding agent
 - [lexcao/genapi](https://github.com/lexcao/genapi) - Declarative HTTP client generator for Go.
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
@@ -928,6 +928,7 @@
 
 - [apache/hbase](https://github.com/apache/hbase) - Apache HBase
 - [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version in translation
+- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [apache/rocketmq-externals](https://github.com/apache/rocketmq-externals) - Mirror of Apache RocketMQ (Incubating)
 - [neo4j/neo4j](https://github.com/neo4j/neo4j) - Graphs for Everyone
 - [spring-cloud/spring-cloud-function](https://github.com/spring-cloud/spring-cloud-function) - 
@@ -1706,7 +1707,6 @@
 - [rkdrnf/react-modal-state](https://github.com/rkdrnf/react-modal-state) - Easily manipulate modals in react
 - [eBay/nice-modal-react](https://github.com/eBay/nice-modal-react) - A modal state manager for React.
 - [weijunext/landing-page-boilerplate](https://github.com/weijunext/landing-page-boilerplate) - A versatile landing page boilerplate, ideal for various projects and marketing campaigns.
-- [Stirling-Tools/Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - #1 PDF Application on GitHub that lets you edit PDFs on any device anywhere
 - [louislam/dockge](https://github.com/louislam/dockge) - A fancy, easy-to-use and reactive self-hosted docker compose.yaml stack-oriented manager
 - [cuixueshe/earthworm](https://github.com/cuixueshe/earthworm) - Learning English through the method of constructing sentences with conjunctions
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
