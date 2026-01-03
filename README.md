@@ -190,7 +190,6 @@
 - [ente-io/ente](https://github.com/ente-io/ente) - 🔥 End-to-end encrypted cloud for everything.
 - [AppFlowy-IO/AppFlowy](https://github.com/AppFlowy-IO/AppFlowy) - Bring projects, wikis, and teams together with AI. AppFlowy is the AI collaborative workspace where you achieve more without losing control of your data. The leading open source Notion alternative.
 - [dahliaOS/pangolin_desktop](https://github.com/dahliaOS/pangolin_desktop) - Pangolin Desktop UI shell, designed for dahliaOS, written in Flutter.
-- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [lijy91/biyi](https://github.com/lijy91/biyi) - Biyi (比译) is a convenient translation and dictionary app written in Flutter.
 
 ## Dockerfile 
@@ -485,6 +484,7 @@
 - [stakater/Reloader](https://github.com/stakater/Reloader) - A Kubernetes controller to watch changes in ConfigMap and Secrets and do rolling upgrades on Pods with their associated Deployment, StatefulSet, DaemonSet and DeploymentConfig – [✩Star] if you're usin
 - [projectdiscovery/httpx](https://github.com/projectdiscovery/httpx) - httpx is a fast and multi-purpose HTTP toolkit that allows running multiple probes using the retryablehttp library.
 - [binwiederhier/ntfy](https://github.com/binwiederhier/ntfy) - Send push notifications to your phone or desktop using PUT/POST
+- [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A modern download manager that supports all platforms.  Built with Golang and Flutter.
 - [projectdiscovery/katana](https://github.com/projectdiscovery/katana) - A next-generation crawling and spidering framework.
 - [99designs/keyring](https://github.com/99designs/keyring) - Go library providing a uniform interface across a range of secure credential stores
 - [amitsaha/gitbackup](https://github.com/amitsaha/gitbackup) - Tool to backup your Bitbucket, GitHub and GitLab repositories
@@ -1408,7 +1408,7 @@
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [BlockchainCommons/seedtool-cli-rust](https://github.com/BlockchainCommons/seedtool-cli-rust) - A command-line tool for generating and transforming cryptographic seeds.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agent
+- [zerocore-ai/microsandbox](https://github.com/zerocore-ai/microsandbox) - opensource self-hosted sandboxes for ai agents
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Magical shell history
 - [MystenLabs/walrus](https://github.com/MystenLabs/walrus) - A decentralized blob store using Sui for coordination and governance.
@@ -1624,12 +1624,12 @@
 
 ## TypeScript 
 
-- [ceorkm/grably](https://github.com/ceorkm/grably) - Download and transcribe videos
 - [saltbo/supabase-auth-site](https://github.com/saltbo/supabase-auth-site) - A production-ready, fully configurable authentication portal powered by Supabase.
+- [ceorkm/grably](https://github.com/ceorkm/grably) - Download and transcribe videos
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
 - [withastro/starlight](https://github.com/withastro/starlight) - 🌟 Build beautiful, accessible, high-performance documentation websites with Astro
 - [supabase/supabase-js](https://github.com/supabase/supabase-js) - An isomorphic Javascript client for Supabase. Query your Supabase database, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invo
-- [sst/models.dev](https://github.com/sst/models.dev) - An open-source database of AI models.
+- [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
 - [pqoqubbw/icons](https://github.com/pqoqubbw/icons) - beautifully crafted animated icons
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [balena-io/etcher](https://github.com/balena-io/etcher) - Flash OS images to SD cards & USB drives, safely and easily.
@@ -1647,7 +1647,7 @@
 - [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) - An open, scalable, online streaming setup. All-in-one toolkit from ingest to adaptive video playback. Built for developers in need of video tooling.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [fosrl/pangolin](https://github.com/fosrl/pangolin) - Identity-aware VPN and proxy for remote access to anything, anywhere.
-- [sst/opencode](https://github.com/sst/opencode) - The open source coding agent.
+- [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [googleapis/release-please-action](https://github.com/googleapis/release-please-action) - automated releases based on conventional commits
 - [humanlayer/12-factor-agents](https://github.com/humanlayer/12-factor-agents) - What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?
 - [ChromeDevTools/devtools-frontend](https://github.com/ChromeDevTools/devtools-frontend) - The Chrome DevTools UI
