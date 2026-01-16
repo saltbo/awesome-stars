@@ -3306,11 +3306,12 @@
 
 ## others 
 
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
 - [saltbo/supabase-auth-site](https://github.com/saltbo/supabase-auth-site) - A production-ready, fully configurable authentication portal powered by Supabase.
 - [ceorkm/grably](https://github.com/ceorkm/grably) - Download and transcribe videos
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [lexcao/genapi](https://github.com/lexcao/genapi) - Declarative HTTP client generator for Go.
 - [zyronon/TypeWords](https://github.com/zyronon/TypeWords) - 练习英语，一次敲击，一点进步；Practice English, one strike, one step forward
 - [anomalyco/models.dev](https://github.com/anomalyco/models.dev) - An open-source database of AI models.
