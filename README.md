@@ -222,6 +222,8 @@
 
 ## Go 
 
+- [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
+- [fluhus/wordnet-to-json](https://github.com/fluhus/wordnet-to-json) - WordNet in JSON format.
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running?
 - [databasus/databasus](https://github.com/databasus/databasus) - Databases backup tool (PostgreSQL, MySQL, MongoDB)
@@ -257,7 +259,7 @@
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [kubernetes/dashboard](https://github.com/kubernetes/dashboard) - General-purpose web UI for Kubernetes clusters
 - [steveteuber/kubectl-graph](https://github.com/steveteuber/kubectl-graph) - A kubectl plugin to visualize Kubernetes resources and relationships.
-- [charmbracelet/crush](https://github.com/charmbracelet/crush) - The glamourous AI coding agent for your favourite terminal 💘
+- [charmbracelet/crush](https://github.com/charmbracelet/crush) - Glamourous agentic coding for all 💘
 - [mr-karan/arbok](https://github.com/mr-karan/arbok) - Secure HTTP tunnels to localhost using WireGuard - Share your local dev server instantly
 - [open-cluster-management-io/ocm](https://github.com/open-cluster-management-io/ocm) - Core components in the OCM project. Report here if you found any issues in OCM.
 - [jetify-com/typeid](https://github.com/jetify-com/typeid) - Type-safe, K-sortable, globally unique identifier inspired by Stripe IDs
@@ -624,7 +626,7 @@
 - [containrrr/watchtower](https://github.com/containrrr/watchtower) - A process for automating Docker container base image updates.
 - [cilium/ebpf](https://github.com/cilium/ebpf) - ebpf-go is a pure-Go library to read, modify and load eBPF programs and attach them to various hooks in the Linux kernel.
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
-- [dagger/dagger](https://github.com/dagger/dagger) - The agent-ready test platform. Test any codebase end-to-end, repeatably and at scale. Runs locally, in your CI server, or directly in the cloud.
+- [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/apolloconfig/apollo)
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
@@ -967,7 +969,7 @@
 
 - [audible-tools/audible-tools.github.io](https://github.com/audible-tools/audible-tools.github.io) - Converts aax to audiofiles online. Please don't sue me amazon.
 - [thlorenz/brace](https://github.com/thlorenz/brace) - 📔 browserify compatible version of the ace editor.
-- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: What Dropbox should have been if it was based on SFTP, S3, FTP, SMB, NFS, WebDAV, Git, and more
+- [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal Data Access Gateway / File Management Platform (without FUSE)
 - [zxlie/FeHelper](https://github.com/zxlie/FeHelper) - 😍FeHelper--Web前端助手（Awesome！Chrome & Firefox & MS-Edge Extension, All in one Toolbox!）
 - [fishjar/kiss-translator](https://github.com/fishjar/kiss-translator) - A simple, open source bilingual translation extension & Greasemonkey script (一个简约、开源的 双语对照翻译扩展 & 油猴脚本)
 - [http-party/http-server](https://github.com/http-party/http-server) - A simple, zero-configuration, command-line http server
@@ -1185,6 +1187,8 @@
 
 ## Others 
 
+- [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 权威中文指南：快速入门、推荐技能、最新资讯与实战案例
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
@@ -1242,7 +1246,7 @@
 - [go-spring/go-spring](https://github.com/go-spring/go-spring) - 🔥 [released] 基于 IoC 的 IDLs-First 的 Go 后端一站式开发框架 ( All-in-One Development Framework on IoC and IDLs-First for Go ) 🚀
 - [CodingDocs/advanced-programmer](https://github.com/CodingDocs/advanced-programmer) - 专业程序员修炼之路。
 - [taowen/awesome-lowcode](https://github.com/taowen/awesome-lowcode) - 国内低代码平台从业者交流
-- [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
+- [saturn-abhishek/awesome-github-profile-readme](https://github.com/saturn-abhishek/awesome-github-profile-readme) - 😎 A curated list of awesome GitHub Profile which updates in real time
 - [justjavac/free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN) - :books: 免费的计算机编程类中文书籍，欢迎投稿
 - [vuepress/awesome-vuepress](https://github.com/vuepress/awesome-vuepress) - 🎉 A curated list of awesome things related to VuePress
 - [hacklcx/HFish](https://github.com/hacklcx/HFish) - 安全、可靠、简单、免费的企业级蜜罐
@@ -1271,7 +1275,7 @@
 
 ## Python 
 
-- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome commands, files, and workflows for Claude Code
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
 - [TEN-framework/ten-framework](https://github.com/TEN-framework/ten-framework) - Open-source framework for conversational voice AI agents
 - [Blaizzy/mlx-audio](https://github.com/Blaizzy/mlx-audio) - A text-to-speech (TTS), speech-to-text (STT) and speech-to-speech (STS) library built on Apple's MLX framework, providing efficient speech analysis on Apple Silicon.
@@ -1544,7 +1548,7 @@
 
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
-- [obra/superpowers](https://github.com/obra/superpowers) - Claude Code superpowers: core skills library
+- [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [carloscuesta/dotfiles](https://github.com/carloscuesta/dotfiles) - My personal dotfiles for macOS 
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
@@ -1635,6 +1639,14 @@
 
 ## TypeScript 
 
+- [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [aliiae/lexical-graph](https://github.com/aliiae/lexical-graph) - 🕸️WordNet visualization
+- [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
+- [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
+- [buildnbuzz/buzzform](https://github.com/buildnbuzz/buzzform) - BuzzForm: A simple, customizable React form library for shadcn/ui and Next.js. Declare fields once, fully control rendering, and get live validation + server actions with minimal boilerplate. Powered 
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+- [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Personal AI Infrastructure for upgrading humans.
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
