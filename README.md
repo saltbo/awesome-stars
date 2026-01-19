@@ -222,6 +222,7 @@
 
 ## Go 
 
+- [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [fluhus/wordnet-to-json](https://github.com/fluhus/wordnet-to-json) - WordNet in JSON format.
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -1189,7 +1190,7 @@
 ## Others 
 
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
-- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 权威中文指南：快速入门、推荐技能、最新资讯与实战案例
+- [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - 为 macOS 打造的原生代理体验 | Native Proxy Experience Built for macOS
 - [trungdq88/Awesome-Black-Friday-Cyber-Monday](https://github.com/trungdq88/Awesome-Black-Friday-Cyber-Monday) - Awesome apps, software, and SaaS deals on Black Friday.
 - [ivmm/Student-resources](https://github.com/ivmm/Student-resources) - 本文介绍的是利用学生、教职工身份可以享受到的相关学生优惠、教育优惠或教师优惠的权益，但也希望各位享受权利的同时不要忘记自己的义务，不要售卖、转手自己的学生优惠、教育优惠的资格，使得其他同学无法受益。
@@ -1640,6 +1641,7 @@
 
 ## TypeScript 
 
+- [21st-dev/1code](https://github.com/21st-dev/1code) - Better UI app for running code agents in parallel (ClaudeCode, OpenCode, Codex)
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
 - [aliiae/lexical-graph](https://github.com/aliiae/lexical-graph) - 🕸️WordNet visualization
