@@ -21,6 +21,7 @@
 - [Erlang](#erlang)
 - [Gherkin](#gherkin)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [JSON](#json)
 - [Java](#java)
@@ -75,6 +76,7 @@
 
 ## C 
 
+- [mltframework/mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
 - [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
 - [pobrn/mktorrent](https://github.com/pobrn/mktorrent) - A simple command line utility to create BitTorrent metainfo files
@@ -222,6 +224,7 @@
 
 ## Go 
 
+- [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
 - [Notifuse/notifuse](https://github.com/Notifuse/notifuse) - Notifuse is an open-source & modern emailing platform
@@ -320,7 +323,7 @@
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with OpenAI gpt-oss, DeepSeek-R1, Gemma 3 and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [chartmuseum/helm-push](https://github.com/chartmuseum/helm-push) - Helm plugin to push chart package to ChartMuseum
 - [bitnami/charts-syncer](https://github.com/bitnami/charts-syncer) - Tool for synchronizing Helm Chart repositories.
@@ -906,6 +909,10 @@
 - [boltdb/bolt](https://github.com/boltdb/bolt) - An embedded key/value database for Go.
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
 
+## Go Template 
+
+- [carloscuesta/dotfiles](https://github.com/carloscuesta/dotfiles) - My personal dotfiles for macOS 
+
 ## HTML 
 
 - [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV - Telegram频道群组导航。收录Telegram上的优质频道、群组、机器人，打造一个高质量Telegram导航。
@@ -971,6 +978,7 @@
 
 ## JavaScript 
 
+- [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons) - SVG icons for popular brands
 - [lzskyline/VocabMeld](https://github.com/lzskyline/VocabMeld) - 智能替换网页词汇，创造沉浸式双语学习环境，在日常浏览中自然习得语言。
 - [audible-tools/audible-tools.github.io](https://github.com/audible-tools/audible-tools.github.io) - Converts aax to audiofiles online. Please don't sue me amazon.
 - [thlorenz/brace](https://github.com/thlorenz/brace) - 📔 browserify compatible version of the ace editor.
@@ -1286,6 +1294,10 @@
 
 ## Python 
 
+- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - 
+- [black-forest-labs/skills](https://github.com/black-forest-labs/skills) - Official skills from Black Forest Labs for FLUX image generation models. These skills provide prompting guidelines and API integration patterns following the https://agentskills.io specification.
+- [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向真正的＂Vibe PPT＂; 支持上传任意模板图片；上传任意素材&智能解析；一句话/大纲/页面描述自动生成PPT；口头修改指定区域、一键导出可编辑ppt - An AI-native PPT generator based on nano banana pro🍌
 - [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) - 
 - [t59688/arboris-novel](https://github.com/t59688/arboris-novel) - AI 写作伙伴，点亮你的创作灵感
@@ -1439,6 +1451,7 @@
 
 ## Rust 
 
+- [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
@@ -1574,9 +1587,9 @@
 
 ## Shell 
 
+- [jshchnz/claude-jobs](https://github.com/jshchnz/claude-jobs) - Claude Code skill for querying job openings at tech companies
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
-- [carloscuesta/dotfiles](https://github.com/carloscuesta/dotfiles) - My personal dotfiles for macOS 
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
 - [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
@@ -1667,15 +1680,19 @@
 
 ## TypeScript 
 
+- [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
+- [AndyMik90/Auto-Claude](https://github.com/AndyMik90/Auto-Claude) - Autonomous multi-session AI coding
+- [colinhacks/zod](https://github.com/colinhacks/zod) - TypeScript-first schema validation with static type inference
+- [remotion-dev/skills](https://github.com/remotion-dev/skills) - Agent Skills
 - [vargHQ/sdk](https://github.com/vargHQ/sdk) - AI-native SDK for video tooling
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
-- [clawdbot/clawdbot](https://github.com/clawdbot/clawdbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [moltbot/moltbot](https://github.com/moltbot/moltbot) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code. Zero learning curve. 28 agents, 28 skills, delegation-first architecture.
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
