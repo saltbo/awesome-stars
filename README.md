@@ -224,6 +224,7 @@
 
 ## Go 
 
+- [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-premise file sharing made simple, fast and safe ⚡️🔐
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
@@ -323,7 +324,7 @@
 - [kubernetes-sigs/kro](https://github.com/kubernetes-sigs/kro) - kro | Kube Resource Orchestrator
 - [Trugamr/wol](https://github.com/Trugamr/wol) - 🦭 Wake up your devices with a single command or click. A Wake-On-LAN tool that works via CLI and web interface.
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-4.7, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [chartmuseum/helm-push](https://github.com/chartmuseum/helm-push) - Helm plugin to push chart package to ChartMuseum
 - [bitnami/charts-syncer](https://github.com/bitnami/charts-syncer) - Tool for synchronizing Helm Chart repositories.
@@ -376,7 +377,7 @@
 - [aws/aws-sdk-go-v2](https://github.com/aws/aws-sdk-go-v2) - AWS SDK for the Go programming language.
 - [go-gorm/opentelemetry](https://github.com/go-gorm/opentelemetry) - opentelemetry for gorm
 - [sabhiram/go-gitignore](https://github.com/sabhiram/go-gitignore) - A gitignore parser for go
-- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - Build NodeJS / GO APIs in 5 minutes not weeks
+- [dosco/graphjin](https://github.com/dosco/graphjin) - GraphJin - A Compiler to Connect AI to Your Databases
 - [seal-io/walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers develop
 - [fluid-cloudnative/fluid](https://github.com/fluid-cloudnative/fluid) - Fluid, elastic data abstraction and acceleration for BigData/AI applications in cloud. (Project under CNCF)
 - [volcano-sh/volcano](https://github.com/volcano-sh/volcano) - A Cloud Native Batch System (Project under CNCF)
