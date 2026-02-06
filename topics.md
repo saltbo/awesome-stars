@@ -295,6 +295,7 @@
 
 ## 3d 
 
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [DavidHDev/react-bits](https://github.com/DavidHDev/react-bits) - An open source collection of animated, interactive & fully customizable React components for building memorable websites.
 
 ## agent 
@@ -3410,6 +3411,7 @@
 
 ## others 
 
+- [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data.
 - [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 - [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
@@ -4219,6 +4221,7 @@
 
 ## react 
 
+- [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [remotion-dev/remotion](https://github.com/remotion-dev/remotion) - 🎥      Make videos programmatically with React
 - [aliiae/lexical-graph](https://github.com/aliiae/lexical-graph) - 🕸️WordNet visualization
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
