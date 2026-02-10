@@ -224,6 +224,7 @@
 
 ## Go 
 
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-premise file sharing made simple, fast and safe ⚡️🔐
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
@@ -388,7 +389,7 @@
 - [onsi/gomega](https://github.com/onsi/gomega) - Ginkgo's Preferred Matcher Library
 - [golang-migrate/migrate](https://github.com/golang-migrate/migrate) - Database migrations. CLI and Golang library.
 - [thangchung/go-coffeeshop](https://github.com/thangchung/go-coffeeshop) - ☕ A practical event-driven microservices demo built with Golang. Nomad, Consul Connect, Vault, and Terraform for deployment
-- [netlify/gotrue](https://github.com/netlify/gotrue) - An SWT based API for managing users and issuing SWT tokens.
+- [netlify/gotrue](https://github.com/netlify/gotrue) - An JWT based API for managing users and issuing JWT tokens.
 - [mjpitz/gorm-encryption](https://github.com/mjpitz/gorm-encryption) - Easily encrypt data at rest in relational databases using drop-in Gorm Serializers.
 - [patrickmn/go-cache](https://github.com/patrickmn/go-cache) - An in-memory key:value store/cache (similar to Memcached) library for Go, suitable for single-machine applications.
 - [glebarez/sqlite](https://github.com/glebarez/sqlite) - The pure-Go SQLite driver for GORM
@@ -483,7 +484,7 @@
 - [runfinch/finch](https://github.com/runfinch/finch) - The Finch CLI is an open source client for container development
 - [safing/portmaster](https://github.com/safing/portmaster) - 🏔 Love Freedom - ❌ Block Mass Surveillance
 - [loov/goda](https://github.com/loov/goda) - Go Dependency Analysis toolkit
-- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute resource
+- [kubeshark/kubeshark](https://github.com/kubeshark/kubeshark) - AI-ready API traffic analyzer for Kubernetes, providing deep packet inspection with complete API and Kubernetes contexts, retaining cluster-wide L4 traffic (PCAP), and using minimal production compute
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [usememos/memos](https://github.com/usememos/memos) - An open-source, self-hosted note-taking service. Your thoughts, your data, your control — no tracking, no ads, no subscription fees.
 - [dolthub/dolt](https://github.com/dolthub/dolt) - Dolt – Git for Data
@@ -1212,6 +1213,7 @@
 
 ## Others 
 
+- [openlanguageprofiles/olp-en-cefrj](https://github.com/openlanguageprofiles/olp-en-cefrj) - Open Language Profiles — English profile datasets from CEFR-J
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [first20hours/google-10000-english](https://github.com/first20hours/google-10000-english) - This repo contains a list of the 10,000 most common English words in order of frequency, as determined by n-gram frequency analysis of the Google's Trillion Word Corpus.
 - [libukai/awesome-agent-skills](https://github.com/libukai/awesome-agent-skills) - Agent Skills 终极指南：快速入门、推荐技能、最新资讯与实战案例 ｜The Definitive Guide to Agent Skills: Quick Start, Recommended Skills, Latest News, and Practical Case Studies
@@ -1301,6 +1303,8 @@
 
 ## Python 
 
+- [anthropics/knowledge-work-plugins](https://github.com/anthropics/knowledge-work-plugins) - Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork
+- [openai/skills](https://github.com/openai/skills) - Skills Catalog for Codex
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs into LLM-ready markdown/JSON for your Agentic workflows.
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
@@ -1470,12 +1474,12 @@
 
 ## Rust 
 
+- [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [qarmin/czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [xai-org/x-algorithm](https://github.com/xai-org/x-algorithm) - Algorithm powering the For You feed on X
 - [sinelaw/fresh](https://github.com/sinelaw/fresh) - Terminal based IDE & text editor: easy, powerful and fast
-- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
@@ -1701,6 +1705,11 @@
 
 ## TypeScript 
 
+- [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - An open-source alternative to CleanShot X for macOS. Capture, edit, and enhance your screenshots with professional quality.
+- [chekusu/shipkey](https://github.com/chekusu/shipkey) - 
+- [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
+- [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [ericc-ch/copilot-api](https://github.com/ericc-ch/copilot-api) - Turn GitHub Copilot into OpenAI/Anthropic API compatible server. Usable with Claude Code!
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
 - [timoncool/videosos](https://github.com/timoncool/videosos) - Enable AI models for video production in the browser
@@ -1717,7 +1726,7 @@
 - [DayuanJiang/next-ai-draw-io](https://github.com/DayuanJiang/next-ai-draw-io) - A next.js web application that integrates AI capabilities with draw.io diagrams. This app allows you to create, modify, and enhance diagrams through natural language commands and AI-assisted visualiza
 - [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - From the team behind Gatsby, Mastra is a framework for building AI-powered applications and agents with a modern TypeScript stack.
-- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Multi-agent orchestration for Claude Code with 5 execution modes: Autopilot (autonomous), Ultrapilot (3-5x parallel), Swarm (coordinated agents), Pipeline (sequential chains), Ecomode (token-efficient
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [lukilabs/craft-agents-oss](https://github.com/lukilabs/craft-agents-oss) - 
 - [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
@@ -1727,16 +1736,17 @@
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [21st-dev/1code](https://github.com/21st-dev/1code) - Orchestration layer for coding agents (Claude Codes)
 - [stravu/crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
-- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - The Best Agent Harness. Meet Sisyphus: The Batteries-Included Agent that codes like you.
+- [code-yeongyu/oh-my-opencode](https://github.com/code-yeongyu/oh-my-opencode) - the best agent harness
 - [aliiae/lexical-graph](https://github.com/aliiae/lexical-graph) - 🕸️WordNet visualization
 - [fuma-nama/fumadocs](https://github.com/fuma-nama/fumadocs) - The beautiful & flexible React.js docs framework.
 - [palantir/blueprint](https://github.com/palantir/blueprint) - A React-based UI toolkit for the web
 - [buildnbuzz/buzzform](https://github.com/buildnbuzz/buzzform) - BuzzForm: A simple, customizable React form library for shadcn/ui and Next.js. Declare fields once, fully control rendering, and get live validation + server actions with minimal boilerplate. Powered 
-- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - AI → JSON → UI
+- [vercel-labs/json-render](https://github.com/vercel-labs/json-render) - The framework for User-Generated Interfaces
 - [nexmoe/VidBee](https://github.com/nexmoe/VidBee) - Download videos from almost any website worldwide
 - [embedpdf/embed-pdf-viewer](https://github.com/embedpdf/embed-pdf-viewer) - A PDF viewer that seamlessly integrates with any JavaScript project
 - [danielmiessler/Personal_AI_Infrastructure](https://github.com/danielmiessler/Personal_AI_Infrastructure) - Agentic AI Infrastructure for magnifying HUMAN capabilities.
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode & Gemini CLI.
 - [saltbo/supabase-auth-site](https://github.com/saltbo/supabase-auth-site) - A production-ready, fully configurable authentication portal powered by Supabase.
 - [ceorkm/grably](https://github.com/ceorkm/grably) - Download and transcribe videos
 - [useplunk/plunk](https://github.com/useplunk/plunk) - The Open-Source Email Platform
