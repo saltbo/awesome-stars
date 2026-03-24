@@ -854,7 +854,7 @@
 - [goioc/di](https://github.com/goioc/di) - Simple and yet powerful Dependency Injection for Go
 - [mingrammer/commonregex](https://github.com/mingrammer/commonregex) - 🍫 A collection of common regular expressions for Go
 - [fwhezfwhez/tcpx](https://github.com/fwhezfwhez/tcpx) - a cross-language tcp framwork in golang
-- [bonaysoft/uptoc](https://github.com/bonaysoft/uptoc) - A static file deployment tool that supports multiple platforms./ 一个支持多家云厂商的静态文件部署工具
+- [bonaysoft/uptoc](https://github.com/bonaysoft/uptoc) - A static file deployment tool that supports multiple platforms.
 - [bcongdon/corral](https://github.com/bcongdon/corral) - 🐎 A serverless MapReduce framework written for AWS Lambda
 - [dgryski/dmrgo](https://github.com/dgryski/dmrgo) - Go library for writing standalone Map/Reduce jobs or for use with Hadoop's streaming protocol
 - [lucaslorentz/caddy-docker-proxy](https://github.com/lucaslorentz/caddy-docker-proxy) - Caddy as a reverse proxy for Docker
@@ -1346,6 +1346,7 @@
 
 ## Python 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [KittenML/KittenTTS](https://github.com/KittenML/KittenTTS) - State-of-the-art TTS model under 25MB 😻
 - [crewAIInc/crewAI](https://github.com/crewAIInc/crewAI) - Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.
