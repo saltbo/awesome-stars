@@ -892,7 +892,7 @@
 - [six-ddc/plow](https://github.com/six-ddc/plow) - A high-performance HTTP benchmarking tool that includes a real-time web UI and terminal display
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
 - [wagoodman/dive](https://github.com/wagoodman/dive) - A tool for exploring each layer in a docker image
-- [bonaysoft/uptoc](https://github.com/bonaysoft/uptoc) - A static file deployment tool that supports multiple platforms./ 一个支持多家云厂商的静态文件部署工具
+- [bonaysoft/uptoc](https://github.com/bonaysoft/uptoc) - A static file deployment tool that supports multiple platforms.
 - [spf13/cobra](https://github.com/spf13/cobra) - A Commander for modern Go CLI interactions
 - [urfave/cli](https://github.com/urfave/cli) - A declarative, simple, fast, and fun package for building command line tools in Go
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
@@ -3633,6 +3633,7 @@
 
 ## others 
 
+- [karpathy/autoresearch](https://github.com/karpathy/autoresearch) - AI agents running research on single-GPU nanochat training automatically
 - [qaml-ai/pi-worker](https://github.com/qaml-ai/pi-worker) - 
 - [better-auth/agent-auth-protocol](https://github.com/better-auth/agent-auth-protocol) - 
 - [chenhg5/agencycli](https://github.com/chenhg5/agencycli) - Lightweight CLI to build self-managing AI agent teams. Define roles, skills & projects in Markdown+YAML — agents run autonomously on a heartbeat schedule, talk to each other via inbox, and delegate ta
@@ -4364,7 +4365,7 @@
 ## publishing 
 
 - [TryGhost/Ghost](https://github.com/TryGhost/Ghost) - Independent technology for modern publishing, memberships, subscriptions and newsletters.
-- [bonaysoft/uptoc](https://github.com/bonaysoft/uptoc) - A static file deployment tool that supports multiple platforms./ 一个支持多家云厂商的静态文件部署工具
+- [bonaysoft/uptoc](https://github.com/bonaysoft/uptoc) - A static file deployment tool that supports multiple platforms.
 
 ## pwa 
 
