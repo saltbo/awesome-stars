@@ -309,7 +309,6 @@
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
 - [golutra/golutra](https://github.com/golutra/golutra) - 
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 Take full control of your VPS with 1Panel. Deploy OpenClaw in one click.
 - [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -340,7 +339,6 @@
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A desktop GUI for Claude Code — chat, code, and manage projects visually. Built with Electron + Next.js.
 - [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Spec-driven multi-agent orchestration — autonomous development workforce powered by Claude & OpenHands
-- [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, ANY OS, ANY PLATFORM — deploy anywhere, swap anything 🦀
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -1249,6 +1247,7 @@
 - [saltbo/agent-kanban](https://github.com/saltbo/agent-kanban) - An agent-first task board, Mission control for your AI workforce.
 - [daytonaio/daytona](https://github.com/daytonaio/daytona) - Daytona is a Secure and Elastic Infrastructure for Running AI-Generated Code
 - [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS
+- [golutra/golutra](https://github.com/golutra/golutra) - 
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archiv
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
@@ -2272,7 +2271,6 @@
 
 ## google 
 
-- [golutra/golutra](https://github.com/golutra/golutra) - 
 - [google/comprehensive-rust](https://github.com/google/comprehensive-rust) - This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust.
 - [meetDeveloper/freeDictionaryAPI](https://github.com/meetDeveloper/freeDictionaryAPI) - There was no free Dictionary API on the web when I wanted one for my friend, so I created one.
 - [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
@@ -3690,6 +3688,7 @@
 
 ## others 
 
+- [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [wquguru/skills](https://github.com/wquguru/skills) - 
