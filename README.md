@@ -670,7 +670,7 @@
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [dagger/dagger](https://github.com/dagger/dagger) - Automation engine to build, test and ship any codebase. Runs locally, in CI, or directly in the cloud
 - [apolloconfig/agollo](https://github.com/apolloconfig/agollo) - 🚀Go client for ctrip/apollo (https://github.com/apolloconfig/apollo)
-- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries and other code
+- [nikivdev/go](https://github.com/nikivdev/go) - Go tools, libraries
 - [allegro/bigcache](https://github.com/allegro/bigcache) - Efficient cache for gigabytes of data written in Go.
 - [argoproj/argo-rollouts](https://github.com/argoproj/argo-rollouts) - Progressive Delivery for Kubernetes
 - [zincsearch/zincsearch](https://github.com/zincsearch/zincsearch) - ZincSearch . A lightweight alternative to elasticsearch that requires minimal resources, written in Go.
@@ -771,7 +771,7 @@
 - [dtm-labs/dtm](https://github.com/dtm-labs/dtm) - A distributed transaction framework, supports workflow, saga, tcc, xa, 2-phase message, outbox patterns, supports many languages.
 - [Knetic/govaluate](https://github.com/Knetic/govaluate) - Arbitrary expression evaluation for golang
 - [stefanprodan/podinfo](https://github.com/stefanprodan/podinfo) - Go microservice template for Kubernetes
-- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face ID, Goog
+- [casdoor/casdoor](https://github.com/casdoor/casdoor) - An open-source AI-first Identity and Access Management (IAM) /AI MCP & agent gateway and auth server with web UI supporting MCP, A2A, OAuth 2.1, OIDC, SAML, CAS, LDAP, SCIM, WebAuthn, TOTP, MFA, Face 
 - [cloudevents/sdk-go](https://github.com/cloudevents/sdk-go) - Go SDK for CloudEvents
 - [iovisor/kubectl-trace](https://github.com/iovisor/kubectl-trace) - Schedule bpftrace programs on your kubernetes cluster using the kubectl
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
@@ -1015,12 +1015,13 @@
 - [spinnaker/spinnaker](https://github.com/spinnaker/spinnaker) - Spinnaker is an open source, multi-cloud continuous delivery platform for releasing software changes with high velocity and confidence.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [peng-zhihui/DeepVision](https://github.com/peng-zhihui/DeepVision) - 在我很多项目中用到的CV算法推理框架应用。
-- [halo-dev/halo](https://github.com/halo-dev/halo) - 强大易用的开源建站工具。
+- [halo-dev/halo](https://github.com/halo-dev/halo) - Halo 是一款强大易用的开源建站工具，从个人博客、知识库，到企业官网、在线商城，Halo 都能助您轻松实现，一站式满足您的多样化建站需求。
 - [zfile-dev/zfile](https://github.com/zfile-dev/zfile) - 在线云盘、网盘、OneDrive、云存储、私有云、对象存储、h5ai、上传、下载
 - [AliwareMQ/aliware-kafka-demos](https://github.com/AliwareMQ/aliware-kafka-demos) - 提供各种客户端接入阿里云 消息队列 Kafka 的demo工程(Provide a demo project for various clients to access Alibaba Cloud message queue Kafka)
 
 ## JavaScript 
 
+- [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [49Agents/49Agents](https://github.com/49Agents/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
@@ -1110,7 +1111,6 @@
 - [axios/axios](https://github.com/axios/axios) - Promise based HTTP client for the browser and node.js
 - [openpgpjs/openpgpjs](https://github.com/openpgpjs/openpgpjs) - OpenPGP implementation for JavaScript
 - [timqian/sideproject.guide](https://github.com/timqian/sideproject.guide) - Notes on how to build side projects
-- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [bestony/logoly](https://github.com/bestony/logoly) - A Pornhub Flavour Logo Generator
 - [gchq/CyberChef](https://github.com/gchq/CyberChef) - The Cyber Swiss Army Knife - a web app for encryption, encoding, compression and data analysis
 - [zhaoolee/OnlineToolsBook](https://github.com/zhaoolee/OnlineToolsBook) - 🍭在线工具秘籍,为在线工具写一本优质说明书,让在线工具造福人类~ Online tool cheats, write a quality manual for online tools, make online tools benefit humanity~
@@ -1353,6 +1353,7 @@
 
 ## Python 
 
+- [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
 - [tweepy/tweepy](https://github.com/tweepy/tweepy) - Twitter for Python!
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) - A Model Context Protocol (MCP) server for interacting with Twitter.
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
@@ -1807,6 +1808,7 @@
 - [itsuhane/SwitchKey](https://github.com/itsuhane/SwitchKey) - Automatically activate the correct input source.
 - [p0deje/Maccy](https://github.com/p0deje/Maccy) - Lightweight clipboard manager for macOS
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
+- [jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac) -  This project is dedicated to collecting high-quality macOS software and organizing them systematically by different categories for easy search and use.
 - [mczachurski/wallpapper](https://github.com/mczachurski/wallpapper) - :computer: Console application for creating dynamic wallpapers for macOS Mojave and newer
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
@@ -1817,7 +1819,9 @@
 
 ## TypeScript 
 
+- [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
 - [saltbo/agent-kanban](https://github.com/saltbo/agent-kanban) - An agent-first task board, Mission control for your AI workforce.
+- [chenglou/pretext](https://github.com/chenglou/pretext) - 
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [chekusu/mails](https://github.com/chekusu/mails) - email for agents. Built for AI agents that need to send, receive, and understand emails programmatically
 - [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
@@ -1829,7 +1833,7 @@
 - [qaml-ai/pi-worker](https://github.com/qaml-ai/pi-worker) - 
 - [kaiban-ai/KaibanJS](https://github.com/kaiban-ai/KaibanJS) - KaibanJS is a JavaScript-native framework for building and managing multi-agent systems  with a Kanban-inspired approach.
 - [jackwener/opencli](https://github.com/jackwener/opencli) - Make Any Website & Tool Your CLI. A universal CLI Hub and AI-native runtime. Transform any website, Electron app, or local binary into a standardized command-line interface. Built for AI Agents to dis
-- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 15 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
+- [garrytan/gstack](https://github.com/garrytan/gstack) - Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA
 - [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) - The open-source CapCut alternative
 - [chekusu/sandbank](https://github.com/chekusu/sandbank) - 
 - [cloudflare/moltworker](https://github.com/cloudflare/moltworker) - Run OpenClaw, (formerly Moltbot, formerly Clawdbot) on Cloudflare Workers
@@ -2038,7 +2042,7 @@
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
 - [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
-- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification Inbox infrastructure. E-mail, SMS, Push and Slack Integrations.
+- [novuhq/novu](https://github.com/novuhq/novu) - The open-source notification infrastructure. In-app Inbox component, E-mail, SMS, Push and Slack Integrations.
 - [oldj/SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
 - [withfig/autocomplete](https://github.com/withfig/autocomplete) - IDE-style autocomplete for your existing terminal & shell
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
