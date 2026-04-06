@@ -42,6 +42,7 @@
 - [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [clash](#clash)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [clojure](#clojure)
 - [cloud](#cloud)
@@ -838,6 +839,55 @@
 - [Hackl0us/SS-Rule-Snippet](https://github.com/Hackl0us/SS-Rule-Snippet) - 搜集、整理、维护 Surge / Quantumult (X) / Shadowrocket / Surfboard / clash (Premium) 实用规则。
 - [tindy2013/subconverter](https://github.com/tindy2013/subconverter) - Utility to convert between various subscription format
 - [youshandefeiyang/sub-web-modify](https://github.com/youshandefeiyang/sub-web-modify) - Subconverter订阅转换前端增强版，增加近百条远程配置及更多自定义功能！
+
+## claude-code 
+
+- [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - A real-time monitoring dashboard for Claude Code
+- [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
+- [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
+- [saltbo/agent-kanban](https://github.com/saltbo/agent-kanban) - An agent-first task board, Mission control for your AI workforce.
+- [open-gitagent/gitagent](https://github.com/open-gitagent/gitagent) - A framework-agnostic, git-native standard for defining AI agents
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Qwen Code, iFlow as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 2.5 Pro, GPT 5, Claude, Qwen m
+- [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS
+- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
+- [golutra/golutra](https://github.com/golutra/golutra) - 
+- [49Agents/49Agents](https://github.com/49Agents/49Agents) - Open-source 2D IDE for managing AI agents in native CLIs, terminal, gits, beads issues, and files across multiple projects and machines. Self-host on a single machine via localhost OR host on a cluste
+- [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archiv
+- [manaflow-ai/cmux](https://github.com/manaflow-ai/cmux) - Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents
+- [intellectronica/ruler](https://github.com/intellectronica/ruler) - Ruler — apply the same rules to all coding agents
+- [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
+- [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
+- [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
+- [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
+- [PeonPing/peon-ping](https://github.com/PeonPing/peon-ping) - Warcraft III Peon voice notifications (+ more!) for Claude Code, Codex, IDEs, and any AI agent. Stop babysitting your terminal. Employ a Peon today.
+- [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Spec-driven multi-agent orchestration — autonomous development workforce powered by Claude & OpenHands
+- [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
+- [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
+- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
+- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
+- [smtg-ai/claude-squad](https://github.com/smtg-ai/claude-squad) - Manage multiple AI terminal agents like Claude Code, Codex, OpenCode, and Amp.
+- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
+- [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
+- [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
+- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [affaan-m/everything-claude-code](https://github.com/affaan-m/everything-claude-code) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app and OpenClaw for Gemini CLI, Claude Code, Codex, OpenCode, Qwen Code, Goose CLI, Auggie, and more | 🌟 Star if you like it!
+- [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
+- [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
+- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [jshchnz/claude-jobs](https://github.com/jshchnz/claude-jobs) - Claude Code skill for querying job openings at tech companies
+- [vargHQ/sdk](https://github.com/vargHQ/sdk) - AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Sora. Built on Vercel AI SDK.
+- [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
+- [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
+- [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo; the best agent harness - previously oh-my-opencode
+- [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
+- [hesreallyhim/awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) - A curated list of awesome skills, hooks, slash-commands, agent orchestrators, applications, and plugins for Claude Code by Anthropic
+- [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Claude Code skill implementing Manus-style persistent markdown planning — the workflow pattern behind the $2B acquisition.
+- [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant tool for Claude Code, Codex, OpenCode, openclaw & Gemini CLI.
+- [wshobson/agents](https://github.com/wshobson/agents) - Intelligent automation and multi-agent orchestration for Claude Code
+- [gastownhall/beads](https://github.com/gastownhall/beads) - Beads - A memory upgrade for your coding agent
 
 ## cli 
 
@@ -3710,22 +3760,19 @@
 
 ## others 
 
-- [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - A real-time monitoring dashboard for Claude Code
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [multica-ai/multica](https://github.com/multica-ai/multica) - Multica turns coding agents into real teammates. Assign issues to an agent like you'd assign to a colleague — they'll pick up the work, write code, report blockers, and update statuses autonomously.
 - [anthropics/claude-agent-sdk-typescript](https://github.com/anthropics/claude-agent-sdk-typescript) - 
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
-- [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 - [openai/codex-plugin-cc](https://github.com/openai/codex-plugin-cc) - Use Codex from Claude Code to review code or delegate tasks.
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
-- [chenglou/pretext](https://github.com/chenglou/pretext) - 
+- [chenglou/pretext](https://github.com/chenglou/pretext) - Fast, accurate & comprehensive text measurement & layout
 - [pingdotgg/t3code](https://github.com/pingdotgg/t3code) - 
 - [public-clis/twitter-cli](https://github.com/public-clis/twitter-cli) - A CLI for Twitter/X — feed, bookmarks, and user timeline in terminal
 - [sferik/x-cli](https://github.com/sferik/x-cli) - A command-line power tool for Twitter.
 - [wquguru/skills](https://github.com/wquguru/skills) - 
 - [dagger/container-use](https://github.com/dagger/container-use) - Development environments for coding agents. Enable multiple agents to work safely and independently with your preferred stack.
-- [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
 - [marswaveai/coli](https://github.com/marswaveai/coli) - [WIP] Core library for Cola. Provides essential capabilities commonly used by agents.
 - [AmElmo/proofshot](https://github.com/AmElmo/proofshot) - Give AI coding agents eyes. Records browser sessions, captures screenshots, collects errors, and bundles proof artifacts — so humans can verify what the agent built.
@@ -3756,7 +3803,6 @@
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Fast and accurate automatic speech recognition (ASR) for edge devices
-- [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) - Ouroboros — self-creating AI agent. Born Feb 16, 2026.
 - [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
 - [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
@@ -3765,13 +3811,11 @@
 - [wxt-dev/wxt](https://github.com/wxt-dev/wxt) - ⚡ Next-gen Web Extension Framework
 - [Conway-Research/automaton](https://github.com/Conway-Research/automaton) - The first AI that can earn its own existence, replicate, and evolve — without needing a human
 - [moghtech/komodo](https://github.com/moghtech/komodo) - 🦎 a tool to build and deploy software on many servers 🦎
-- [fynnfluegge/agtx](https://github.com/fynnfluegge/agtx) - Multi-session AI coding terminal manager - autonomously orchestrate Claude, Codex, Gemini, OpenCode, Cursor
 - [vercel-labs/portless](https://github.com/vercel-labs/portless) - Replace port numbers with stable, named local URLs. For humans and agents.
 - [VrianCao/Uptimer](https://github.com/VrianCao/Uptimer) - A Powerful Serverless Uptime Monitoring & Status Page on Cloudflare's Edge Network
 - [The-Vibe-Company/companion](https://github.com/The-Vibe-Company/companion) - Web & Mobile UI for Claude Code & Codex . Launch sessions, stream responses, approve tools.  All from your browser / mobile
 - [juewuy/ShellCrash](https://github.com/juewuy/ShellCrash) - Run sing-box/mihomo as client in shell
 - [webmachinelearning/webmcp](https://github.com/webmachinelearning/webmcp) - 🤖 WebMCP
-- [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API-CRS2 一站式开源中转服务，让 Claude、Openai 、Gemini、Antigravity订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [sipeed/picoclaw](https://github.com/sipeed/picoclaw) - Tiny, Fast, and Deployable anywhere — automate the mundane, unleash your creativity
 - [likec4/likec4](https://github.com/likec4/likec4) - Visualize, collaborate, and evolve the software architecture with always actual and live diagrams from your code
 - [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
@@ -3783,12 +3827,11 @@
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [openlanguageprofiles/olp-en-cefrj](https://github.com/openlanguageprofiles/olp-en-cefrj) - Open Language Profiles — English profile datasets from CEFR-J
 - [OpenBMB/MiniCPM-o](https://github.com/OpenBMB/MiniCPM-o) - A Gemini 2.5 Flash Level MLLM for Vision, Speech, and Full-Duplex Multimodal Live Streaming on Your Phone
-- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Assistant"
+- [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - "🐈 nanobot: The Ultra-Lightweight Personal AI Agent"
 - [commonsense/conceptnet5](https://github.com/commonsense/conceptnet5) - Code for building ConceptNet from raw data.
 - [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 - [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
 - [badlogic/pi-mono](https://github.com/badlogic/pi-mono) - AI agent toolkit: coding agent CLI, unified LLM API, TUI & web UI libraries, Slack bot, vLLM pods
-- [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 - [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
 - [timoncool/videosos](https://github.com/timoncool/videosos) - Enable AI models for video production in the browser
