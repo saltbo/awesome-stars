@@ -1272,7 +1272,7 @@
 
 - [yetone/voice-input-src](https://github.com/yetone/voice-input-src) - 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files inspired by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
-- [slavingia/skills](https://github.com/slavingia/skills) - Claude Code skills based on The Minimalist Entrepreneur by Sahil Lavingia
+- [slavingia/skills](https://github.com/slavingia/skills) - Based on The Minimalist Entrepreneur by Sahil Lavingia
 - [rajasegar/awesome-htmx](https://github.com/rajasegar/awesome-htmx) - Awesome things about htmx
 - [openlanguageprofiles/olp-en-cefrj](https://github.com/openlanguageprofiles/olp-en-cefrj) - Open Language Profiles — English profile datasets from CEFR-J
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
@@ -1363,6 +1363,8 @@
 
 ## Python 
 
+- [JuliusBrussee/caveman](https://github.com/JuliusBrussee/caveman) - 🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman
+- [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) - Run Claude Code with local AI on Apple Silicon. 122B model at 41 tok/s with Google TurboQuant. No cloud, no API fees.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [kevinrgu/autoagent](https://github.com/kevinrgu/autoagent) - autonomous harness engineering
 - [microsoft/VibeVoice](https://github.com/microsoft/VibeVoice) - Open-Source Frontier Voice AI
@@ -1560,7 +1562,6 @@
 - [maybe-finance/maybe](https://github.com/maybe-finance/maybe) - The personal finance app for everyone
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [danger/danger](https://github.com/danger/danger) - 🚫 Stop saying "you forgot to …" in code review (in Ruby)
-- [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [macauley/action-homebrew-bump-cask](https://github.com/macauley/action-homebrew-bump-cask) - :gear: A GitHub Action to easily bump Homebrew cask on new release
 - [ar1hur/gitkeep](https://github.com/ar1hur/gitkeep) - A gem which creates .gitkeep files in all empty directories in your project automatically
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
@@ -1594,10 +1595,10 @@
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 - [zensical/zensical](https://github.com/zensical/zensical) - A modern static site generator by the Material for MkDocs team
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
-- [fastrepl/char](https://github.com/fastrepl/char) - AI notepad for meetings
+- [fastrepl/char](https://github.com/fastrepl/char) - AI daily notes that remembers everything and acts on your behalf
 - [BlockchainCommons/seedtool-cli-rust](https://github.com/BlockchainCommons/seedtool-cli-rust) - A command-line tool for generating and transforming cryptographic seeds.
 - [openai/codex](https://github.com/openai/codex) - Lightweight coding agent that runs in your terminal
-- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local, cross-platform and programmable sandboxes for AI agents
+- [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 secure, local and programmable sandboxes for AI agents
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [atuinsh/atuin](https://github.com/atuinsh/atuin) - ✨ Making your shell magical
 - [MystenLabs/walrus](https://github.com/MystenLabs/walrus) - A decentralized blob store using Sui for coordination and governance.
@@ -1748,6 +1749,7 @@
 - [wangyoucao577/go-release-action](https://github.com/wangyoucao577/go-release-action) - Automatically publish Go binaries to Github Release Assets through Github Action.
 - [swagger-api/swagger-converter](https://github.com/swagger-api/swagger-converter) - OpenAPI/Swagger 2.0 to OpenAPI 3.0 Converter WebService
 - [jonmosco/kube-ps1](https://github.com/jonmosco/kube-ps1) - Kubernetes prompt info for bash and zsh
+- [writethedocs/www](https://github.com/writethedocs/www) - The main website for Write the Docs.
 - [orbstack/orbstack](https://github.com/orbstack/orbstack) - Fast, light, simple Docker containers & Linux machines
 - [haoel/haoel.github.io](https://github.com/haoel/haoel.github.io) - 
 - [XTLS/Xray-examples](https://github.com/XTLS/Xray-examples) - Some examples of uses for Xray-core
@@ -1793,7 +1795,7 @@
 
 ## Swift 
 
-- [farouqaldori/claude-island](https://github.com/farouqaldori/claude-island) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
+- [farouqaldori/vibe-notch](https://github.com/farouqaldori/vibe-notch) - Claude Code notifications without the context switch. A minimal, always-present session manager for macOS.
 - [saif0200/notchprompt](https://github.com/saif0200/notchprompt) - distraction-free teleprompter hidden in the macbook notch
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI,  Claude Code, OpenCode, Gemini CLI, Factory Droid , GitHub Copilot CLI & OpenClaw. Search/filter ALL past sessions,  archiv
 - [swiftbar/SwiftBar](https://github.com/swiftbar/SwiftBar) - Powerful macOS menu bar customization tool
