@@ -1805,7 +1805,7 @@
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - A very basic, always-on-top floating text prompter for macOS. Perfect for quick videos, or keeping important text visible while you work.
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
-- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - Voice-to-text app for macOS to transcribe what you say to text almost instantly
+- [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [apple/swift-protobuf](https://github.com/apple/swift-protobuf) - Plugin and runtime library for using protobuf with Swift
@@ -1879,7 +1879,7 @@
 - [qwibitai/nanoclaw](https://github.com/qwibitai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [ComposioHQ/agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents — plans tasks, spawns agents, and autonomously handles CI    fixes, merge conflicts, and code reviews.
 - [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
-- [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - A third-party Bitwarden server running on Cloudflare Workers
+- [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [ryoppippi/ccusage](https://github.com/ryoppippi/ccusage) - A CLI tool for analyzing Claude Code/Codex CLI usage from local JSONL files.
 - [honojs/hono](https://github.com/honojs/hono) - Web framework built on Web Standards
 - [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
@@ -2015,6 +2015,7 @@
 - [abi/screenshot-to-code](https://github.com/abi/screenshot-to-code) - Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)
 - [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 - [Pintree-io/pintree](https://github.com/Pintree-io/pintree) - Pintree: Easily turn your browser bookmarks into a directory website and start monetizing in minutes.
+- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [sshallow/WhoUsesCookies](https://github.com/sshallow/WhoUsesCookies) - 显示您安装的扩展程序的权限，显示谁在访问您的 cookies。
 - [shikijs/shiki-magic-move](https://github.com/shikijs/shiki-magic-move) - Smoothly animated code blocks with Shiki
 - [ant-design/ant-design-mobile](https://github.com/ant-design/ant-design-mobile) - Essential UI blocks for building mobile web apps.
@@ -2153,7 +2154,6 @@
 - [Lissy93/dashy](https://github.com/Lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [dicebear/dicebear](https://github.com/dicebear/dicebear) - DiceBear is an avatar library for designers and developers. 🌍
 - [algerkong/AlgerMusicPlayer](https://github.com/algerkong/AlgerMusicPlayer) - 一个第三方音乐播放器、本地服务、桌面歌词、音乐下载、远程控制
-- [GUI-for-Cores/GUI.for.SingBox](https://github.com/GUI-for-Cores/GUI.for.SingBox) - Modern, lightweight desktop app built with Wails (Go) and Vue 3. Efficient, cross-platform, and fast.
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [unovue/reka-ui](https://github.com/unovue/reka-ui) - An open-source UI component library for building high-quality, accessible design systems and web apps for Vue. Previously Radix Vue
 - [DataV-Team/DataV](https://github.com/DataV-Team/DataV) - Vue数据可视化组件库（类似阿里DataV，大屏数据展示），提供SVG的边框及装饰、图表、水位图、飞线图等组件，简单易用，长期更新(React版已发布)
