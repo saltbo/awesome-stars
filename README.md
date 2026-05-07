@@ -447,7 +447,7 @@
 - [cnrancher/autok3s](https://github.com/cnrancher/autok3s) - Run K3s Everywhere
 - [kubeclipper/kubeclipper](https://github.com/kubeclipper/kubeclipper) - Manage kubernetes in the most light and convenient way ☸️
 - [hashicorp/go-retryablehttp](https://github.com/hashicorp/go-retryablehttp) - Retryable HTTP client in Go
-- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple SSL/TLS proxy with mutual authentication for securing non-TLS services.
+- [ghostunnel/ghostunnel](https://github.com/ghostunnel/ghostunnel) - A simple TLS proxy with mutual authentication for securing non-TLS services.
 - [knative-extensions/net-kourier](https://github.com/knative-extensions/net-kourier) - Purpose-built Knative Ingress implementation using just Envoy with no additional CRDs
 - [loft-sh/devpod](https://github.com/loft-sh/devpod) - Codespaces but open-source, client-only and unopinionated: Works with any IDE and lets you use any cloud, kubernetes or just localhost docker.
 - [bonaysoft/amiicli](https://github.com/bonaysoft/amiicli) - A simple cli tool helps you simulate or restore any amiibos that you want.
@@ -801,7 +801,7 @@
 - [XTLS/Xray-core](https://github.com/XTLS/Xray-core) - Xray, Penetrates Everything. Also the best v2ray-core. Where the magic happens. An open platform for various uses.
 - [ory/oathkeeper](https://github.com/ory/oathkeeper) - A cloud native Identity & Access Proxy / API (IAP) and Access Control Decision API that authenticates, authorizes, and mutates incoming HTTP(s) requests. Inspired by the BeyondCorp / Zero Trust white 
 - [ory/kratos](https://github.com/ory/kratos) - Headless cloud-native authentication and identity management written in Go. Scales to a billion+ users. Replace Homegrown, Auth0, Okta, Firebase with better UX and DX. Passkeys, Social Sign In, OIDC, 
-- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - :chains: A Framework for Building High Value Public Blockchains :sparkles:
+- [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
 - [aarondl/authboss](https://github.com/aarondl/authboss) - The boss of http auth.
 - [dexidp/dex](https://github.com/dexidp/dex) - OpenID Connect (OIDC) identity and OAuth 2.0 provider with pluggable connectors
 - [tmrts/boilr](https://github.com/tmrts/boilr) - :zap: boilerplate template manager that generates files or directories from template repositories
@@ -1870,7 +1870,7 @@
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
 - [saltbo/anima](https://github.com/saltbo/anima) - Give your project a soul and bring it to life.
 - [paperclipai/paperclip](https://github.com/paperclipai/paperclip) - Open-source orchestration for zero-human companies
-- [InsForge/InsForge](https://github.com/InsForge/InsForge) - Give agents everything they need to ship fullstack apps. The backend built for agentic development.
+- [InsForge/InsForge](https://github.com/InsForge/InsForge) - InsForge is a Postgres-based backend with auth, storage, compute, hosting, and AI gateway. Built for coding agents.
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
