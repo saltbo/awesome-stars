@@ -155,6 +155,7 @@
 - [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
+- [languages](#languages)
 - [laravel](#laravel)
 - [latex](#latex)
 - [learning](#learning)
@@ -913,7 +914,7 @@
 - [asheshgoplani/agent-deck](https://github.com/asheshgoplani/agent-deck) - Terminal session manager for AI coding agents. One TUI for Claude, Gemini, OpenCode, Codex, and more.
 - [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 - [open-gitagent/gitagent-protocol](https://github.com/open-gitagent/gitagent-protocol) - A framework-agnostic, git-native standard for defining AI agents
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model throu
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS
 - [gsd-build/get-shit-done](https://github.com/gsd-build/get-shit-done) - A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
@@ -3114,6 +3115,10 @@
 - [ralfbiedert/cheats.rs](https://github.com/ralfbiedert/cheats.rs) - Rust Language Cheat Sheet - https://cheats.rs
 - [golang/go](https://github.com/golang/go) - The Go programming language
 
+## languages 
+
+- [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform whose purpose is to create a collaborative and open dataset of sentences and their translations.
+
 ## laravel 
 
 - [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
@@ -3793,7 +3798,7 @@
 
 ## openai 
 
-- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Claude model throu
+- [router-for-me/CLIProxyAPI](https://github.com/router-for-me/CLIProxyAPI) - Wrap Gemini CLI, Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI/Gemini/Claude/Codex compatible API service, allowing you to enjoy the free Gemini 3.1 Pro, GPT 5.5, Grok 4.3, Claude m
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
 - [jazzyalex/agent-sessions](https://github.com/jazzyalex/agent-sessions) - Session browser + Agent Cockpit +  Analytics + Limits tracker for Codex CLI/Desktop/VSC,  Claude Code CLI/Desktop,  OpenCode CLI, Gemini CLI, Pi CLI , GitHub Copilot CLI + OpenClaw & Hermes agents. Se
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
@@ -3846,6 +3851,9 @@
 
 ## others 
 
+- [voidzero-dev/vite-plus](https://github.com/voidzero-dev/vite-plus) - Vite+ is the unified toolchain and entry point for web development. It manages your runtime, package manager, and frontend toolchain in one place.
+- [shpaw415/OpenAuthSter](https://github.com/shpaw415/OpenAuthSter) - OpenAuth manangment system with multitenant support
+- [anomalyco/openauth](https://github.com/anomalyco/openauth) - ▦ Universal, standards-based auth provider.
 - [davidhckh/portfolio-2025](https://github.com/davidhckh/portfolio-2025) - 
 - [wakatoken/wakatoken](https://github.com/wakatoken/wakatoken) - The client of wakatoken to collect your tokens
 - [garrytan/gbrain](https://github.com/garrytan/gbrain) - Garry's Opinionated OpenClaw/Hermes Agent Brain
