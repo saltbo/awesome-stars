@@ -239,6 +239,7 @@
 - [rust](#rust)
 - [sass](#sass)
 - [scala](#scala)
+- [scikit-learn](#scikit-learn)
 - [sdn](#sdn)
 - [security](#security)
 - [security-tools](#security-tools)
@@ -369,6 +370,7 @@
 
 ## ai 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
@@ -554,6 +556,7 @@
 
 ## android 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [espeak-ng/espeak-ng](https://github.com/espeak-ng/espeak-ng) - eSpeak NG is an open source speech synthesizer that supports more than hundred languages and accents.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -632,6 +635,7 @@
 
 ## artificial-intelligence 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [hacksider/Deep-Live-Cam](https://github.com/hacksider/Deep-Live-Cam) - real time face swap and one-click video deepfake with only a single image
@@ -676,7 +680,7 @@
 - [alexellis/arkade](https://github.com/alexellis/arkade) - Open Source Marketplace For Developer Tools
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
 - [go-rod/rod](https://github.com/go-rod/rod) - A Chrome DevTools Protocol driver for web automation and scraping.
 
@@ -1212,6 +1216,7 @@
 
 ## cpp 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [bufbuild/protovalidate](https://github.com/bufbuild/protovalidate) - Protocol Buffer Validation - Go, Java, Python, C++ and JS/TS
 - [practical-tutorials/project-based-learning](https://github.com/practical-tutorials/project-based-learning) - Curated list of project-based tutorials
 - [vesoft-inc/nebula](https://github.com/vesoft-inc/nebula) - A distributed, fast open-source graph database featuring horizontal scalability and high availability
@@ -1371,6 +1376,7 @@
 
 ## deep-learning 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [SYSTRAN/faster-whisper](https://github.com/SYSTRAN/faster-whisper) - Faster Whisper transcription with CTranslate2
 - [microsoft/JARVIS](https://github.com/microsoft/JARVIS) - JARVIS, a system to connect LLMs with ML community. Paper: https://arxiv.org/pdf/2303.17580.pdf
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -1715,7 +1721,7 @@
 
 ## embedded 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
 - [nasa/fprime](https://github.com/nasa/fprime) - F´ - A flight software and embedded systems framework
 - [tinygo-org/drivers](https://github.com/tinygo-org/drivers) - TinyGo drivers for sensors, displays, wireless adaptors, and other devices that use I2C, SPI, GPIO, ADC, and UART interfaces.
@@ -1796,7 +1802,7 @@
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
 - [bitwarden/clients](https://github.com/bitwarden/clients) - Bitwarden client apps (web, browser extension, desktop, and cli).
 - [puppeteer/puppeteer](https://github.com/puppeteer/puppeteer) - JavaScript API for Chrome and Firefox
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 
 ## flask 
 
@@ -1829,6 +1835,7 @@
 
 ## framework 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [microsoft/autogen](https://github.com/microsoft/autogen) - A programming framework for agentic AI
@@ -2139,7 +2146,7 @@
 - [air-verse/air](https://github.com/air-verse/air) - ☁️ Live reload for Go apps
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [alash3al/smtp2http](https://github.com/alash3al/smtp2http) - A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request
 - [cosmos/cosmos-sdk](https://github.com/cosmos/cosmos-sdk) - Framework for building performant, customizable blockchains with native interoperability
@@ -2395,7 +2402,7 @@
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
 - [easegress-io/easegress](https://github.com/easegress-io/easegress) - A Cloud Native traffic orchestration system
 - [emirpasic/gods](https://github.com/emirpasic/gods) - GoDS (Go Data Structures) - Sets, Lists, Stacks, Maps, Trees, Queues, and much more
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [kataras/iris](https://github.com/kataras/iris) - The fastest HTTP/2 Go Web Framework. New, modern and easy to learn. Fast development with Code you control. Unbeatable cost-performance ratio :rocket:
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [alash3al/smtp2http](https://github.com/alash3al/smtp2http) - A tiny software that receive a smtp request (email) and send it to the specified webhook as a http post request
@@ -2464,6 +2471,7 @@
 
 ## good-first-issue 
 
+- [santifer/career-ops](https://github.com/santifer/career-ops) - AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.
 - [responsively-org/responsively-app](https://github.com/responsively-org/responsively-app) - A modified web browser that helps in responsive web development. A web developer's must have dev-tool.
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [SigNoz/signoz](https://github.com/SigNoz/signoz) - SigNoz is an open-source observability platform native to OpenTelemetry with logs, traces and metrics in a single application. An open-source alternative to DataDog, NewRelic, etc. 🔥 🖥.   👉  Open sour
@@ -2655,7 +2663,7 @@
 - [thanos-io/thanos](https://github.com/thanos-io/thanos) - Highly available Prometheus setup with long term storage capabilities. A CNCF Incubating project.
 - [ory/fosite](https://github.com/ory/fosite) - Extensible security first OAuth 2.0 and OpenID Connect SDK for Go.
 - [jenkins-x/jx](https://github.com/jenkins-x/jx) - Jenkins X provides automated CI+CD for Kubernetes with Preview Environments on Pull Requests using Cloud Native pipelines from Tekton
-- [playwright-community/playwright-go](https://github.com/playwright-community/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
+- [mxschmitt/playwright-go](https://github.com/mxschmitt/playwright-go) - Playwright for Go a browser automation library to control Chromium, Firefox and WebKit with a single API.
 - [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
 - [roadrunner-server/roadrunner](https://github.com/roadrunner-server/roadrunner) - 🤯 High-performance PHP application server, process manager written in Go and powered with plugins
@@ -2777,6 +2785,7 @@
 
 ## ios 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -3399,6 +3408,7 @@
 
 ## machine-learning 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
@@ -4746,6 +4756,7 @@
 
 ## python 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [soxoj/maigret](https://github.com/soxoj/maigret) - 🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
@@ -4840,6 +4851,7 @@
 
 ## pytorch 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
 - [pyannote/pyannote-audio](https://github.com/pyannote/pyannote-audio) - Neural building blocks for speaker diarization: speech activity detection, speaker change detection, overlapped speech detection, speaker embedding
@@ -4884,6 +4896,7 @@
 
 ## raspberry-pi 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [gogs/gogs](https://github.com/gogs/gogs) - The painless way to host your own Git service
 - [Bee-Mar/mmpm](https://github.com/Bee-Mar/mmpm) - MagicMirror Package Manager
@@ -5058,7 +5071,7 @@
 ## rust 
 
 - [tover0314-w/opentypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
 - [rtk-ai/rtk](https://github.com/rtk-ai/rtk) - CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -5160,13 +5173,17 @@
 
 - [apache/kafka](https://github.com/apache/kafka) - Apache Kafka - A distributed event streaming platform
 
+## scikit-learn 
+
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
+
 ## sdn 
 
 - [zerotier/ZeroTierOne](https://github.com/zerotier/ZeroTierOne) - A Smart Ethernet Switch for Earth
 
 ## security 
 
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS
 - [eugene1g/agent-safehouse](https://github.com/eugene1g/agent-safehouse) - Sandbox your local AI agents so they can read/write only what they need
 - [azukaar/Cosmos-Server](https://github.com/azukaar/Cosmos-Server) - ☁️ The Most Secure and Easy Selfhosted Home Server. Take control of your data and privacy without sacrificing security and stability  (Authentication, anti-DDOS, anti-bot)
@@ -5214,7 +5231,7 @@
 
 - [saltbo/flareauth](https://github.com/saltbo/flareauth) - Identity provider for modern applications, built on Cloudflare Workers.
 - [idhamsy/openshortlink](https://github.com/idhamsy/openshortlink) - OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation.
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Turn feature specs into merged PRs with a self-supervising swarm of coding agents — parallel execution, isolated sandboxes, DAG dependencies. Open-source, self-hostable, model-agnostic (Claude / Gemin
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
@@ -5285,7 +5302,7 @@
 
 - [idhamsy/openshortlink](https://github.com/idhamsy/openshortlink) - OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
-- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - Compute substrate for AI agents: lightweight enough to live on your laptop, elastic enough to scale into the cloud and unleash unlimited resources.
+- [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
 - [neondatabase/neon](https://github.com/neondatabase/neon) - Neon: Serverless Postgres. We separated storage and compute to offer autoscaling, code-like database branching, and scale to zero.
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
@@ -5543,6 +5560,7 @@
 
 ## tensorflow 
 
+- [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [photoprism/photoprism](https://github.com/photoprism/photoprism) - AI-Powered Photos App 🌈💎✨
