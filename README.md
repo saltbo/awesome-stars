@@ -272,7 +272,7 @@
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [m5stack/StackChan](https://github.com/m5stack/StackChan) - StackChan open source!
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - A simple and easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
+- [pocket-id/pocket-id](https://github.com/pocket-id/pocket-id) - An easy-to-use OIDC provider that allows users to authenticate with their passkeys to your services.
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [safebucket/safebucket](https://github.com/safebucket/safebucket) - On-prem file sharing made simple, fast and safe.
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
@@ -1280,6 +1280,7 @@
 
 ## Others 
 
+- [Tencent/AgentlyMail](https://github.com/Tencent/AgentlyMail) - 
 - [PicGo/Awesome-PicGo](https://github.com/PicGo/Awesome-PicGo) - A collection of awesome projects using PicGo.
 - [yetone/voice-input-src](https://github.com/yetone/voice-input-src) - 
 - [VoltAgent/awesome-design-md](https://github.com/VoltAgent/awesome-design-md) - A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.
