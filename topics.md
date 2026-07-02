@@ -313,6 +313,8 @@
 
 ## agent 
 
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -326,7 +328,7 @@
 - [chekusu/sandbank](https://github.com/chekusu/sandbank) - unified agent workspace
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
 - [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
-- [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
+- [ATH-MaaS/ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
 - [BloopAI/vibe-kanban](https://github.com/BloopAI/vibe-kanban) - Get 10X more out of Claude Code, Codex or any coding agent
@@ -341,6 +343,7 @@
 
 ## agent-skills 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 Local-first, open-source Claude Design alternative. 🖥️ Native desktop app. ⚡ 259+ Skills · ✨ 142+ Design Systems 🖼️ Web · desktop · mobile prototypes · slides · images · videos · HyperFrames 📦 Sandb
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
 - [open-gitagent/opengap](https://github.com/open-gitagent/opengap) - A framework-agnostic, git-native standard for defining AI agents
@@ -354,6 +357,7 @@
 
 ## agents 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
 - [openagents-org/openagents](https://github.com/openagents-org/openagents) - OpenAgents - AI Agent Networks for Open Collaboration
@@ -384,6 +388,7 @@
 
 ## ai 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
@@ -438,7 +443,7 @@
 - [modstart-lib/aigcpanel](https://github.com/modstart-lib/aigcpanel) - AIGCPanel 是一个简单易用的一站式AI数字人系统，支持视频合成、声音合成、声音克隆，简化本地模型管理、一键导入和使用AI模型。
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [t59688/arboris-novel](https://github.com/t59688/arboris-novel) - AI 写作伙伴，点亮你的创作灵感
-- [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
+- [ATH-MaaS/ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [cloudflare/agents](https://github.com/cloudflare/agents) - Build and deploy AI Agents on Cloudflare
@@ -948,6 +953,7 @@
 
 ## claude-code 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [addyosmani/agent-skills](https://github.com/addyosmani/agent-skills) - Production-grade engineering skills for AI coding agents.
@@ -1437,6 +1443,7 @@
 
 ## developer-tools 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [saltbo/agent-kanban](https://github.com/saltbo/agent-kanban) - An agent-first task board, Mission control for your AI workforce.
 - [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - Local analytics dashboard for Claude Code. No cloud, no telemetry.
@@ -1793,7 +1800,7 @@
 
 - [rest-sh/restish](https://github.com/rest-sh/restish) - Restish is a CLI for interacting with REST-ish HTTP APIs with some nice features built-in
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized FastAPI wrapper for Kokoro-82M text-to-speech model w/multiplatform CPU, AMD, NVIDIA GPU PyTorch support, handling, and auto-stitching
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Turn feature specs into merged PRs with a self-supervising swarm of coding agents — parallel execution, isolated sandboxes, DAG dependencies. Open-source, self-hostable, model-agnostic (Claude / Gemin
 
 ## finance 
@@ -3561,6 +3568,7 @@
 
 ## mcp 
 
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [MemPalace/mempalace](https://github.com/MemPalace/mempalace) - The best-benchmarked open-source AI memory system. And it's free.
 - [adhikasp/mcp-twikit](https://github.com/adhikasp/mcp-twikit) - A Model Context Protocol (MCP) server for interacting with Twitter.
@@ -3745,7 +3753,7 @@
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
 - [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - Local analytics dashboard for Claude Code. No cloud, no telemetry.
 - [op7418/CodePilot](https://github.com/op7418/CodePilot) - A multi-model AI agent desktop client — connect any AI provider, extend with MCP & skills, control from your phone. Built with Electron + Next.js.
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [InsForge/InsForge](https://github.com/InsForge/InsForge) - The all-in-one, open-source backend platform for agentic coding. InsForge gives your coding agent database, auth, storage, compute, hosting, and AI gateway to ship full-stack apps end-to-end.
 - [CapSoftware/Cap](https://github.com/CapSoftware/Cap) - Open source Loom alternative. Beautiful, shareable screen recordings.
 - [timoncool/videosos](https://github.com/timoncool/videosos) - AI video production in the browser — text-to-video, image-to-video, lip sync, 100+ models. Google Veo 3.1, FLUX, Gemini, Imagen 4. Free, open-source, private.
@@ -3991,6 +3999,8 @@
 
 ## others 
 
+- [cline/kanban](https://github.com/cline/kanban) - Launch a local web app that runs CLI agents in parallel
+- [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
 - [Tencent/AgentlyMail](https://github.com/Tencent/AgentlyMail) - 
 - [cloudflare/workers-oauth-provider](https://github.com/cloudflare/workers-oauth-provider) - OAuth provider library for Cloudflare Workers
 - [parcel-bundler/watcher](https://github.com/parcel-bundler/watcher) - 👀 A native C++ Node module for querying and subscribing to filesystem events
@@ -4097,7 +4107,7 @@
 - [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) - 
 - [YILING0013/AI_NovelGenerator](https://github.com/YILING0013/AI_NovelGenerator) - 使用ai生成多章节的长篇小说，自动衔接上下文、伏笔
 - [craft-ai-agents/craft-agents-oss](https://github.com/craft-ai-agents/craft-agents-oss) - 
-- [AIDC-AI/Pixelle-Video](https://github.com/AIDC-AI/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
+- [ATH-MaaS/Pixelle-Video](https://github.com/ATH-MaaS/Pixelle-Video) - 🚀 AI 全自动短视频引擎 | AI Fully Automated Short Video Engine
 - [astrada/google-drive-ocamlfuse](https://github.com/astrada/google-drive-ocamlfuse) - FUSE filesystem over Google Drive
 - [anthropics/claude-agent-sdk-python](https://github.com/anthropics/claude-agent-sdk-python) - 
 - [karol-broda/snitch](https://github.com/karol-broda/snitch) - a prettier way to inspect network connections
@@ -4782,7 +4792,7 @@
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [pymupdf/PyMuPDF](https://github.com/pymupdf/PyMuPDF) - PyMuPDF is a high performance Python library for data extraction, analysis, conversion & manipulation of PDF (and other) documents.
 - [thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) - TTS with kokoro and onnx runtime
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [kivo360/OmoiOS](https://github.com/kivo360/OmoiOS) - Turn feature specs into merged PRs with a self-supervising swarm of coding agents — parallel execution, isolated sandboxes, DAG dependencies. Open-source, self-hostable, model-agnostic (Claude / Gemin
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
@@ -4890,7 +4900,7 @@
 ## rag 
 
 - [Mintplex-Labs/anything-llm](https://github.com/Mintplex-Labs/anything-llm) - Stop renting your intelligence. Own it with AnythingLLM. Everything you need for a powerful local-first agent experience
-- [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
+- [ATH-MaaS/ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
@@ -4926,7 +4936,7 @@
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
 - [molefrog/wouter](https://github.com/molefrog/wouter) - 🥢 A minimalist-friendly ~2.2KB routing for React and Preact
 - [payloadcms/payload](https://github.com/payloadcms/payload) - Payload is the open-source, fullstack Next.js framework, giving you instant backend superpowers. Get a full TypeScript backend and admin panel instantly. Use Payload as a headless CMS or for building 
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [clauderic/dnd-kit](https://github.com/clauderic/dnd-kit) - The modern toolkit for building drag and drop interfaces
 - [authts/react-oidc-context](https://github.com/authts/react-oidc-context) - Lightweight auth library based on oidc-client-ts for React single page applications (SPA). Support for hooks and higher-order components (HOC).
@@ -5083,6 +5093,7 @@
 
 ## rust 
 
+- [ctxrs/ctx](https://github.com/ctxrs/ctx) - Fast, local CLI for searching agent history
 - [tover0314-w/opentypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The compute substrate for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [sentrux/sentrux](https://github.com/sentrux/sentrux) - Real-time architectural sensor that helps AI agents close the feedback loop, enabling recursive self-improvement of code quality. Pure Rust.
@@ -5097,6 +5108,7 @@
 - [get-convex/convex-backend](https://github.com/get-convex/convex-backend) - The open-source reactive database for app developers
 - [farion1231/cc-switch](https://github.com/farion1231/cc-switch) - A cross-platform desktop All-in-One assistant for Claude Code, Codex, OpenCode, OpenClaw, Gemini CLI & Hermes Agent. Only official website: ccswitch.io
 - [getzola/zola](https://github.com/getzola/zola) - A fast static site generator in a single binary with everything built-in. https://www.getzola.org
+- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [rustfs/rustfs](https://github.com/rustfs/rustfs) - 🚀2.3x faster than MinIO for 4KB object payloads. RustFS is an open-source, S3-compatible high-performance object storage system supporting migration and coexistence with other S3-compatible platforms 
 - [fastrepl/anarlog](https://github.com/fastrepl/anarlog) - Open source Granola AI Alternative
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - System Level Intelligent Router for Mixture-of-Models at Cloud, Data Center and Edge
@@ -5352,6 +5364,7 @@
 
 ## shell 
 
+- [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [kekylin/debnas](https://github.com/kekylin/debnas) - 一个将Debian快速配置成准NAS系统的脚本。
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
@@ -5454,7 +5467,7 @@
 ## stable-diffusion 
 
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
-- [AIDC-AI/ComfyUI-Copilot](https://github.com/AIDC-AI/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
+- [ATH-MaaS/ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [prompt-engineering/click-prompt](https://github.com/prompt-engineering/click-prompt) - ClickPrompt - Streamline your prompt design, with ClickPrompt, you can easily view, share, and run these prompts with just one click.  ClickPrompt 用于一键轻松查看、分享和执行您的 Prompt。
 - [AUTOMATIC1111/stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui) - Stable Diffusion web UI
@@ -5720,7 +5733,7 @@
 - [ruvnet/ruflo](https://github.com/ruvnet/ruflo) - 🌊 The leading agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RA
 - [heygen-com/hyperframes](https://github.com/heygen-com/hyperframes) - Write HTML. Render video. Built for agents.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
-- [polarsource/polar](https://github.com/polarsource/polar) - Turn your software into a business.
+- [polarsource/polar](https://github.com/polarsource/polar) - Polar — A billing platform for the intelligence era
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [jarrodwatts/claude-hud](https://github.com/jarrodwatts/claude-hud) - A Claude Code plugin that shows what's happening - context usage, active tools, running agents, and todo progress
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥  AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more
@@ -6118,7 +6131,6 @@
 ## zig 
 
 - [nullclaw/nullclaw](https://github.com/nullclaw/nullclaw) - Fastest, smallest, and fully autonomous AI assistant infrastructure written in Zig
-- [oven-sh/bun](https://github.com/oven-sh/bun) - Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
 - [ziglang/zig](https://github.com/ziglang/zig) - Moved to Codeberg
 
