@@ -4056,6 +4056,7 @@
 
 ## others 
 
+- [amirmushichge/VibeMotion](https://github.com/amirmushichge/VibeMotion) - Pre-alpha local AI video editor for prompt-based motion graphics, Figma frame import, timeline editing, and LTX video generation.
 - [TT-Wang/sliceagent](https://github.com/TT-Wang/sliceagent) - A coding agent with a new context-engineering framework — bounded, deterministic, reconstructed context (the Slice), built for long-horizon work.
 - [cline/kanban](https://github.com/cline/kanban) - Launch a local web app that runs CLI agents in parallel
 - [kenn-io/agentsview](https://github.com/kenn-io/agentsview) - Local-first session search, analytics, insights, and token use statistics for coding agents, supporting Claude Code, Codex, and more than 20 other agents.
@@ -4990,6 +4991,7 @@
 
 ## react 
 
+- [jameskerr/react-arborist](https://github.com/jameskerr/react-arborist) - The complete tree view component for React
 - [PostHog/posthog](https://github.com/PostHog/posthog) - 🦔 PostHog is an all-in-one developer platform for building successful products. We offer product analytics, web analytics, session replay, error tracking, feature flags, experimentation, surveys, data
 - [maotoumao/MusicFree](https://github.com/maotoumao/MusicFree) - 插件化、定制化、无广告的免费音乐播放器
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
