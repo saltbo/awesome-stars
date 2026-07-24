@@ -320,7 +320,7 @@
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Search the coding agent history already on your machine
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
 - [embabel/embabel-agent](https://github.com/embabel/embabel-agent) - Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/
@@ -363,6 +363,7 @@
 
 ## agents 
 
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [TencentCloud/CubeSandbox](https://github.com/TencentCloud/CubeSandbox) - Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.
 - [Infisical/agent-vault](https://github.com/Infisical/agent-vault) - A HTTP credential proxy and vault for AI agents like Claude Code, OpenClaw, Hermes, custom agents + harnesses, and more.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Search the coding agent history already on your machine
@@ -397,10 +398,11 @@
 
 ## ai 
 
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - The IDE built for AI coding agents.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Search the coding agent history already on your machine
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [Leonxlnx/taste-skill](https://github.com/Leonxlnx/taste-skill) - Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -554,7 +556,7 @@
 - [OthmanAdi/planning-with-files](https://github.com/OthmanAdi/planning-with-files) - Persistent file-based planning for AI coding agents and long-running tasks. Crash-proof markdown plans, session recovery after /clear and compaction, per-turn re-injection against context rot, determi
 - [wshobson/agents](https://github.com/wshobson/agents) - Multi-harness agentic plugin marketplace for Claude Code, Codex CLI, Cursor, OpenCode, GitHub Copilot, and Gemini CLI
 - [e2b-dev/E2B](https://github.com/e2b-dev/E2B) - Open-source, secure environment with real-world tools for enterprise-grade agents.
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [letta-ai/letta](https://github.com/letta-ai/letta) - Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.
 - [dosco/graphjin](https://github.com/dosco/graphjin) - One governed graph for AI agents — GraphQL + MCP over your databases, files, APIs, and code
@@ -1106,7 +1108,7 @@
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
@@ -1581,7 +1583,7 @@
 
 - [theonedev/onedev](https://github.com/theonedev/onedev) - The Unified and Autonomous Development Platform
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
@@ -1657,7 +1659,7 @@
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
@@ -1749,7 +1751,7 @@
 - [apache/openwhisk](https://github.com/apache/openwhisk) - Apache OpenWhisk is an open source serverless cloud platform
 - [iron-io/functions](https://github.com/iron-io/functions) - IronFunctions - the serverless microservices platform by
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
 
 ## documentation 
@@ -2097,7 +2099,7 @@
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [autobrr/qui](https://github.com/autobrr/qui) - A fast, single-binary qBittorrent web UI: manage multiple instances, automate torrent workflows, and cross-seed across trackers.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
 - [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
 - [Masterminds/semver](https://github.com/Masterminds/semver) - Work with Semantic Versions in Go
@@ -2329,7 +2331,7 @@
 - [evcc-io/evcc](https://github.com/evcc-io/evcc) - solar charging ☀️🚘
 - [daeuniverse/dae](https://github.com/daeuniverse/dae) - eBPF-based Linux high-performance transparent proxy solution.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [MarcGrol/golangAnnotations](https://github.com/MarcGrol/golangAnnotations) - Go package that provides annotations for golang to speedup web development
 - [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -2562,7 +2564,7 @@
 - [sunshinev/go-sword](https://github.com/sunshinev/go-sword) - 【Go-sword】可视化CRUD管理后台生成工具
 - [olivia-ai/olivia](https://github.com/olivia-ai/olivia) - 💁‍♀️Your new best friend powered by an artificial neural network
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [didi/sharingan](https://github.com/didi/sharingan) - Sharingan（写轮眼）是一个基于golang的流量录制回放工具，适合项目重构、回归测试等。
 - [electricbubble/gwda](https://github.com/electricbubble/gwda) - WebDriverAgent ( iOS ) Client Library in Golang
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
@@ -2974,7 +2976,7 @@
 - [lyswhut/lx-music-desktop](https://github.com/lyswhut/lx-music-desktop) - 一个基于 Electron 的音乐软件
 - [vercel/eve](https://github.com/vercel/eve) - The Framework for Building Agents
 - [MakcRe/KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi) - 酷狗音乐 Node.js API service
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [microsoft/TypeScript](https://github.com/microsoft/TypeScript) - TypeScript is a superset of JavaScript that compiles to clean JavaScript output.
 - [PostHog/posthog](https://github.com/PostHog/posthog) - :hedgehog: PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – c
 - [jsonresume/resume-cli](https://github.com/jsonresume/resume-cli) - MOVED to jsonresume/jsonresume.org (packages/cli) — npm 'resume-cli' unchanged, revived for Node 18+
@@ -3137,7 +3139,7 @@
 
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [vitessio/vitess](https://github.com/vitessio/vitess) - Vitess is a database clustering system for horizontal scaling of MySQL.
 - [agones-dev/agones](https://github.com/agones-dev/agones) - Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes
@@ -3150,7 +3152,7 @@
 - [NVIDIA/k8s-device-plugin](https://github.com/NVIDIA/k8s-device-plugin) - NVIDIA device plugin for Kubernetes
 - [kserve/kserve](https://github.com/kserve/kserve) - Standardized Distributed Generative and Predictive AI Inference Platform for Scalable, Multi-Framework Deployment on Kubernetes
 - [nuclio/nuclio](https://github.com/nuclio/nuclio) - High-Performance Serverless event and data processing platform
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [Permify/permify](https://github.com/Permify/permify) - An open-source authorization as a service inspired by Google Zanzibar, designed to build and manage fine-grained and scalable authorization systems for any application. — Permify is now part of Fusion
 - [ahmetb/kubectl-node_resource](https://github.com/ahmetb/kubectl-node_resource) - Query node allocations/utilizations in kubectl
 - [databus23/helm-diff](https://github.com/databus23/helm-diff) - A helm plugin that shows a diff explaining what a helm upgrade would change
@@ -3306,7 +3308,7 @@
 - [vmware-archive/kubeless](https://github.com/vmware-archive/kubeless) - Kubernetes Native Serverless Framework
 - [k3s-io/k3s](https://github.com/k3s-io/k3s) - Lightweight Kubernetes
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
-- [labring/sealos](https://github.com/labring/sealos) - Sealos is an AI-native Cloud Operating System that unifies the entire application lifecycle, from development in cloud IDEs to production deployment and management. It is perfect for building and scal
+- [labring/sealos](https://github.com/labring/sealos) - Deploy real projects from GitHub or your AI coding agent, then keep them running with AI-powered operations.
 - [kgateway-dev/kgateway](https://github.com/kgateway-dev/kgateway) - The Cloud-Native API Gateway and AI Gateway
 - [istio/istio](https://github.com/istio/istio) - Connect, secure, control, and observe services.
 - [emissary-ingress/emissary](https://github.com/emissary-ingress/emissary) - open source Kubernetes-native API gateway for microservices built on the Envoy Proxy
@@ -3372,7 +3374,7 @@
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
@@ -3417,7 +3419,7 @@
 ## llm 
 
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
-- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - A faster, lighter, cheaper alternative to sandboxes. Run any coding agent inside an isolated Linux VM, with agent orchestration built in.
+- [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – Compact, human-readable, schema-aware JSON for LLM prompts. Spec, benchmarks, TypeScript SDK.
 - [firecrawl/firecrawl](https://github.com/firecrawl/firecrawl) - The API to search, scrape, and interact with the web at scale. 🔥
 - [langchain-ai/open-swe](https://github.com/langchain-ai/open-swe) - An Open-Source Asynchronous Coding Agent
@@ -3577,7 +3579,7 @@
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [666OS/ClashMac](https://github.com/666OS/ClashMac) - Native Proxy Experience Built for macOS
 - [SwiftUIX/SwiftUIX](https://github.com/SwiftUIX/SwiftUIX) - An exhaustive expansion of the standard SwiftUI library.
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
@@ -3702,7 +3704,6 @@
 - [mudler/LocalAI](https://github.com/mudler/LocalAI) - LocalAI is the open-source AI engine. Run any model - LLMs, vision, voice, image, video - on any hardware. No GPU required.
 - [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) - Intelligent Mixture-of-Models Router for Efficient Heterogeneous LLMs Inference
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
 - [rohitg00/kubectl-mcp-server](https://github.com/rohitg00/kubectl-mcp-server) - Published in CNCF Landscape: A MCP server for Kubernetes.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -3775,7 +3776,7 @@
 ## monitoring 
 
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [kite-org/kite](https://github.com/kite-org/kite) - 🪁 A lightweight, modern Kubernetes dashboard that unifies multi-cluster and resource management, enterprise-grade user governance (OAuth, RBAC, and audit logs), and AI agents in one workspace. Not jus
 - [OneUptime/oneuptime](https://github.com/OneUptime/oneuptime) - Complete open-source monitoring and observability platform.
 - [robusta-dev/krr](https://github.com/robusta-dev/krr) - Prometheus-based Kubernetes Resource Recommendations
@@ -4111,6 +4112,7 @@
 ## operating-system 
 
 - [IceWhaleTech/ZimaOS](https://github.com/IceWhaleTech/ZimaOS) - A Simplified, Focused and Open NAS OS_
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [HeyPuter/puter](https://github.com/HeyPuter/puter) - 🌐 The Internet Computer! Free, Open-Source, and Self-Hostable.
 - [halfer53/winix](https://github.com/halfer53/winix) - A UNIX-style Operating System for the Waikato RISC Architecture Microprocessor (WRAMP)
 
@@ -5397,6 +5399,7 @@
 
 ## self-hosted 
 
+- [oblien/openship](https://github.com/oblien/openship) - Self-hosted deployment platform
 - [openma-ai/open-managed-agents](https://github.com/openma-ai/open-managed-agents) - Open-source Claude Managed Agents API implementation and self-hosted Claude Tag-style agent runtime. Drop-in compatible; runs on Cloudflare Workers/Durable Objects or Node.js. Apache 2.0.
 - [crosswk/SayIt](https://github.com/crosswk/SayIt) - 语音输入 + AI 润色，开源 Typeless 替代品。支持个人使用和团队/企业内部自部署。按下快捷键说话，文字自动输入到任何应用。
 - [saltbo/flareauth](https://github.com/saltbo/flareauth) - Identity provider for modern applications, built on Cloudflare Workers.
@@ -5415,7 +5418,7 @@
 - [databasus/databasus](https://github.com/databasus/databasus) - PostgreSQL backup tool with Point-In-Time-Recovery and restore verification
 - [open-webui/open-webui](https://github.com/open-webui/open-webui) - User-friendly AI Interface (Supports Ollama, OpenAI API, ...)
 - [codelitdev/courselit](https://github.com/codelitdev/courselit) - Create/Sell courses and digital downloads and publish blogs on your own branded website. An open source alternative to Teachable, Thinkific, Podia and the likes.
-- [beclab/Olares](https://github.com/beclab/Olares) - Olares is an open-source personal cloud OS you operate in plain language, built to run AI agents and LLMs on hardware you own.
+- [beclab/Olares](https://github.com/beclab/Olares) - Open-Source Personal Cloud OS for Always-On Agents
 - [amalshaji/portr](https://github.com/amalshaji/portr) - Expose local http, tcp or websocket connections to the public internet
 - [blackcandy-org/blackcandy](https://github.com/blackcandy-org/blackcandy) - A self hosted music streaming server
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
@@ -5751,7 +5754,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [briandowns/spinner](https://github.com/briandowns/spinner) - Go (golang) package with 90 configurable terminal spinner/progress indicators.
 - [maaslalani/slides](https://github.com/maaslalani/slides) - Terminal based presentation tool
 - [yudai/gotty](https://github.com/yudai/gotty) - Share your terminal as a web application
@@ -5845,7 +5848,7 @@
 - [superset-sh/superset](https://github.com/superset-sh/superset) - Code Editor for the AI Agents Era - Run an army of Claude Code, Codex, etc. on your machine
 - [anomalyco/opentui](https://github.com/anomalyco/opentui) - OpenTUI is a library for building terminal user interfaces (TUIs)
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [charmbracelet/bubbles](https://github.com/charmbracelet/bubbles) - TUI components for Bubble Tea 🫧
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -6236,7 +6239,7 @@
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [DrewThomasson/ebook2audiobook](https://github.com/DrewThomasson/ebook2audiobook) - Generate audiobooks from e-books, voice cloning & 1158+ languages!
-- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - witr - Why is this running? A fast, cross-platform CLI + TUI that traces any process, port, container, or open file back to what started it, and why.
+- [pranshuparmar/witr](https://github.com/pranshuparmar/witr) - Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.
 - [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, TSforge, and Online KMS activation methods, along with advanced troubleshooting.
 - [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
 - [superradcompany/microsandbox](https://github.com/superradcompany/microsandbox) - 🧱 easy, fast and local-first microVM runtime
