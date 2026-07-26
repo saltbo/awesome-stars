@@ -1933,7 +1933,7 @@
 - [rustdesk/rustdesk](https://github.com/rustdesk/rustdesk) - An open-source remote desktop application designed for self-hosting, as an alternative to TeamViewer.
 - [nhost/nhost](https://github.com/nhost/nhost) - The Open Source Firebase Alternative with GraphQL.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Appwrite® - complete cloud infrastructure for your web, mobile and AI apps. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime and more
-- [beyondtranslate/beyondtranslate](https://github.com/beyondtranslate/beyondtranslate) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
+- [beyondtranslate/beyondtranslate-ce](https://github.com/beyondtranslate/beyondtranslate-ce) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
 
 ## flutter-apps 
 
@@ -3402,7 +3402,7 @@
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
 - [Z4nzu/hackingtool](https://github.com/Z4nzu/hackingtool) - ALL IN ONE Hacking Tool For Hackers
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
-- [beyondtranslate/beyondtranslate](https://github.com/beyondtranslate/beyondtranslate) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
+- [beyondtranslate/beyondtranslate-ce](https://github.com/beyondtranslate/beyondtranslate-ce) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [webinstall/webi-installers](https://github.com/webinstall/webi-installers) - Primary and community-submitted packages for webinstall.dev
 - [tokio-rs/io-uring](https://github.com/tokio-rs/io-uring) - The `io_uring` library for Rust
@@ -3615,7 +3615,7 @@
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [CodeEditApp/CodeEdit](https://github.com/CodeEditApp/CodeEdit) - 📝 CodeEdit App for macOS – Elevate your code editing experience. Open source, free forever.
 - [Sequel-Ace/Sequel-Ace](https://github.com/Sequel-Ace/Sequel-Ace) - MySQL/MariaDB database management for macOS
-- [beyondtranslate/beyondtranslate](https://github.com/beyondtranslate/beyondtranslate) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
+- [beyondtranslate/beyondtranslate-ce](https://github.com/beyondtranslate/beyondtranslate-ce) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
 - [Mortennn/Dozer](https://github.com/Mortennn/Dozer) - Hide menu bar icons on macOS
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
@@ -4123,6 +4123,9 @@
 
 ## others 
 
+- [Borewit/music-metadata](https://github.com/Borewit/music-metadata) - Metadata parser for audio and video media files. Supports file and stream inputs in Node.js and browser environments, extracting format, tag, and duration information.
+- [nikhilm/node-taglib](https://github.com/nikhilm/node-taglib) - Simple taglib bindings to Javascript using node.js
+- [taglib/taglib](https://github.com/taglib/taglib) - TagLib Audio Meta-Data Library
 - [michaloo/flareclerk](https://github.com/michaloo/flareclerk) - CLI reporting usage stats and cost estimates for Cloudflare compute and storage.
 - [sandbaseai/managed-agents](https://github.com/sandbaseai/managed-agents) - Open-source CMA-compatible agent runtime. Run multi-agent systems locally with any model (Ollama/vLLM/Claude/GPT), MCP tools, scenario templates, and a beautiful dashboard. One command start. Built fo
 - [termio-dev/termio](https://github.com/termio-dev/termio) - 
@@ -5977,7 +5980,7 @@
 - [endoflife-date/endoflife.date](https://github.com/endoflife-date/endoflife.date) - Informative site with EoL dates of everything
 - [GopeedLab/gopeed](https://github.com/GopeedLab/gopeed) - A fast, modern download manager for HTTP, BitTorrent, Magnet, and ed2k. Cross-platform, built with Golang and Flutter.
 - [hwdsl2/setup-ipsec-vpn](https://github.com/hwdsl2/setup-ipsec-vpn) - Set up your own IPsec VPN server in just a few minutes, with IPsec/L2TP, Cisco IPsec and IKEv2. Supports Ubuntu, Debian, CentOS/RHEL, Alpine Linux and Raspberry Pi OS. Includes client config and manag
-- [beyondtranslate/beyondtranslate](https://github.com/beyondtranslate/beyondtranslate) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
+- [beyondtranslate/beyondtranslate-ce](https://github.com/beyondtranslate/beyondtranslate-ce) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
 
 ## ui 
 
@@ -6260,7 +6263,7 @@
 - [qier222/YesPlayMusic](https://github.com/qier222/YesPlayMusic) - 高颜值的第三方网易云播放器，支持 Windows / macOS / Linux :electron:
 - [adrg/xdg](https://github.com/adrg/xdg) - Go implementation of the XDG Base Directory Specification and XDG user directories
 - [2dust/v2rayN](https://github.com/2dust/v2rayN) - A GUI client for Windows, Linux and macOS, support Xray and sing-box and others
-- [beyondtranslate/beyondtranslate](https://github.com/beyondtranslate/beyondtranslate) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
+- [beyondtranslate/beyondtranslate-ce](https://github.com/beyondtranslate/beyondtranslate-ce) - BeyondTranslate (formerly Biyi) is a fast, native-experience translation app for macOS, Windows and Linux, built with Flutter and Rust. Capture text from anywhere on screen and get accurate translatio
 - [tldr-pages/tldr](https://github.com/tldr-pages/tldr) - Collaborative cheatsheets for console commands 📚.
 - [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
 - [wailsapp/wails](https://github.com/wailsapp/wails) - Create beautiful applications using Go
