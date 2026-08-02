@@ -4222,7 +4222,7 @@
 - [HKUDS/ClawWork](https://github.com/HKUDS/ClawWork) - "ClawWork: OpenClaw as Your AI Coworker - 💰 $15K earned in 11 Hours"
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
 - [moonshine-ai/moonshine](https://github.com/moonshine-ai/moonshine) - Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces
-- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) - Active mirror of https://github.com/razzant/ouroboros — open issues and PRs there.
+- [joi-lab/ouroboros](https://github.com/joi-lab/ouroboros) - Archived mirror of https://github.com/razzant/ouroboros. Current code, releases, issues, and discussions live there.
 - [VRSEN/agency-swarm](https://github.com/VRSEN/agency-swarm) - Reliable Multi-Agent Orchestration Framework
 - [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
 - [ccusage/ccusage](https://github.com/ccusage/ccusage) - npx ccusage
