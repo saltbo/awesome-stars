@@ -446,7 +446,7 @@
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [steipete/summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
@@ -591,7 +591,7 @@
 - [miantiao-me/Sink](https://github.com/miantiao-me/Sink) - ⚡ A Simple / Speedy / Secure Link Shortener with Analytics, 100% run on Cloudflare.
 - [getlago/lago](https://github.com/getlago/lago) - Open Source Metering and Usage Based Billing API ⭐️ Consumption tracking, Subscription management, Pricing iterations, Payment orchestration & Revenue analytics
 - [ClickHouse/ClickHouse](https://github.com/ClickHouse/ClickHouse) - ClickHouse® is a real-time analytics database management system
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 
 ## android 
@@ -635,6 +635,7 @@
 
 ## api 
 
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [MakcRe/KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi) - 酷狗音乐 Node.js API service
 - [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) - 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口
@@ -913,7 +914,7 @@
 
 - [QwenAudio/CosyVoice](https://github.com/QwenAudio/CosyVoice) - Multi-lingual large voice generation model, providing inference, training and deployment full-stack ability.
 - [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [sigoden/aichat](https://github.com/sigoden/aichat) - All-in-one LLM CLI tool featuring Shell Assistant, Chat-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more.
 - [78/xiaozhi-esp32](https://github.com/78/xiaozhi-esp32) - An MCP-based chatbot | 一个基于MCP的聊天机器人
@@ -1065,7 +1066,7 @@
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
@@ -1176,7 +1177,7 @@
 - [manifoldco/promptui](https://github.com/manifoldco/promptui) - Interactive prompt for command-line applications
 - [reviewdog/reviewdog](https://github.com/reviewdog/reviewdog) - 🐶 Automated code review tool integrated with any code analysis tools regardless of programming language
 - [anyshortcut/anyshortcut-cli](https://github.com/anyshortcut/anyshortcut-cli) - CLI (Commnad line interface) version of Anyshortcut
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 
 ## clojure 
 
@@ -1651,7 +1652,7 @@
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [GewoonJaap/codex-openai-wrapper](https://github.com/GewoonJaap/codex-openai-wrapper) - Wrap OpenAI's Codex to an OpenAI compatible endpoint using Cloudflare Workers
 - [seerr-team/seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
-- [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 面向个人用户的自托管音乐服务器
+- [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 插件化、无广告的免费音乐服务器
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
 - [apocas/dockerode](https://github.com/apocas/dockerode) - Docker + Node = Dockerode (Node.js module for Docker's Remote API)
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
@@ -2314,7 +2315,7 @@
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
 - [alimy/mir](https://github.com/alimy/mir) - Mir is a toolkit for register method handler to http engine router(eg: gin,echo,iris,mux,httprouter) use struct tag info.
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [haoxins/rewrite](https://github.com/haoxins/rewrite) - URL rewriting for Golang
 - [AliwareMQ/aliware-kafka-demos](https://github.com/AliwareMQ/aliware-kafka-demos) - 提供各种客户端接入阿里云 消息队列 Kafka 的demo工程(Provide a demo project for various clients to access Alibaba Cloud message queue Kafka)
@@ -2589,7 +2590,7 @@
 - [alimy/mir](https://github.com/alimy/mir) - Mir is a toolkit for register method handler to http engine router(eg: gin,echo,iris,mux,httprouter) use struct tag info.
 - [ribice/dt](https://github.com/ribice/dt) - Go's missing DateTime package
 - [quic-go/quic-go](https://github.com/quic-go/quic-go) - A production-ready QUIC implementation in pure Go
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 - [golang/go](https://github.com/golang/go) - The Go programming language
 - [haoxins/rewrite](https://github.com/haoxins/rewrite) - URL rewriting for Golang
 - [cweill/gotests](https://github.com/cweill/gotests) - Automatically generate Go test boilerplate from your source code.
@@ -2888,7 +2889,7 @@
 - [go-eagle/eagle](https://github.com/go-eagle/eagle) - 🦅 A Go framework for the API or Microservice
 - [aria2/aria2](https://github.com/aria2/aria2) - aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
 - [caddyserver/caddy](https://github.com/caddyserver/caddy) - Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS
-- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection
+- [asciimoo/wuzz](https://github.com/asciimoo/wuzz) - Interactive cli tool for HTTP inspection -  9CognyciQwKpcXqoiPx8nu7hU1JL8Tu2oZdKKS8Ppump
 
 ## https 
 
@@ -2954,7 +2955,7 @@
 ## ipfs 
 
 - [mickael-kerjean/filestash](https://github.com/mickael-kerjean/filestash) - :file_folder: Universal File Storage Client
-- [ipfs/kubo](https://github.com/ipfs/kubo) - An IPFS implementation in Go
+- [ipfs/kubo](https://github.com/ipfs/kubo) - IPFS implementation in Go: a daemon that stores and serves content-addressed data, with a CLI, HTTP Gateway, and RPC API
 - [Planetable/Planet](https://github.com/Planetable/Planet) - Build and host decentralized blogs and websites on your Mac
 
 ## java 
@@ -3456,7 +3457,7 @@
 - [affaan-m/ECC](https://github.com/affaan-m/ECC) - The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
 - [envoyproxy/ai-gateway](https://github.com/envoyproxy/ai-gateway) - Manages Unified Access to Generative AI Services built on Envoy Gateway
-- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Free, local, open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
+- [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes Agent, Claude Code, Codex, OpenCode, Gemini CLI and 20+ more CLI | Customize your assistants | Star if you like it!
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
@@ -3818,7 +3819,7 @@
 ## music 
 
 - [CharlesPikachu/musicdl](https://github.com/CharlesPikachu/musicdl) - Musicdl: A lightweight music downloader written in pure python. (轻量级无损音乐下载器，支持数十个音乐/有声读物平台，例如网易云音乐，QQ音乐，酷狗音乐，酷我音乐，咪咕音乐，千千静听，汽水音乐，Bilibili，街声，喜马拉雅，懒人听书，荔枝FM，蜻蜓FM，JOOX，TIDAL，YouTube，Apple Music，Spotify，
-- [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 面向个人用户的自托管音乐服务器
+- [songloft-org/songloft](https://github.com/songloft-org/songloft) - 🎵 插件化、无广告的免费音乐服务器
 - [NickvisionApps/Parabolic](https://github.com/NickvisionApps/Parabolic) - Download web video and audio
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [hanxi/xiaomusic](https://github.com/hanxi/xiaomusic) - 使用小爱音箱播放音乐，音乐使用 yt-dlp 下载。
@@ -3956,6 +3957,7 @@
 
 ## nodejs 
 
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [MakcRe/KuGouMusicApi](https://github.com/MakcRe/KuGouMusicApi) - 酷狗音乐 Node.js API service
 - [jsososo/QQMusicApi](https://github.com/jsososo/QQMusicApi) - 基于 Express + Axios 的 QQ音乐接口 nodejs 版
 - [laxamentumtech/audnexus](https://github.com/laxamentumtech/audnexus) - An audiobook data aggregation API that harmonizes data from multiple sources into a unified stream. It offers a consistent and user-friendly source of audiobook data for various applications.
@@ -5226,6 +5228,7 @@
 
 ## rest-api 
 
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [usebruno/bruno](https://github.com/usebruno/bruno) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia)
@@ -5381,6 +5384,7 @@
 
 ## security 
 
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
 - [boxlite-ai/boxlite](https://github.com/boxlite-ai/boxlite) - The micro-VM for AI agents — light enough to embed on your laptop, elastic enough to power an agentic cloud.
 - [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS
@@ -5505,6 +5509,7 @@
 
 ## serverless 
 
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [qaz741wsd856/warden-worker](https://github.com/qaz741wsd856/warden-worker) - A Bitwarden-compatible server for Cloudflare Workers
 - [idhamsy/openshortlink](https://github.com/idhamsy/openshortlink) - OpenShort.link is the all-in-one, open-source, serverless URL shortener. It runs 100% on Cloudflare and offers one-click installation.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
@@ -5656,7 +5661,7 @@
 
 - [scikit-learn/scikit-learn](https://github.com/scikit-learn/scikit-learn) - scikit-learn: machine learning in Python
 - [jstrieb/github-stats](https://github.com/jstrieb/github-stats) - Better GitHub statistics images for your profile, with stats from private repos too
-- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a modern, privacy-focused analytics platform. An open-source alternative to Google Analytics, Mixpanel and Amplitude.
+- [umami-software/umami](https://github.com/umami-software/umami) - Umami is a privacy-first analytics platform. Traffic, campaigns, behavior, conversions, and revenue in one place — no cookies, no tracking, self-hosted or in the cloud.
 - [montanaflynn/stats](https://github.com/montanaflynn/stats) - A well tested and comprehensive Golang statistics library package with no dependencies.
 
 ## storybook 
@@ -6195,6 +6200,7 @@
 
 ## web 
 
+- [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [danielgtaylor/huma](https://github.com/danielgtaylor/huma) - Huma REST/HTTP API Framework for Golang with OpenAPI 3.1
 - [media-kit/media-kit](https://github.com/media-kit/media-kit) - A cross-platform video player & audio player for Flutter & Dart.
 - [expo/expo](https://github.com/expo/expo) - An open-source framework for making universal native apps with React. Expo runs on Android, iOS, and the web.
