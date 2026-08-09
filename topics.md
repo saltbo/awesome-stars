@@ -319,6 +319,7 @@
 
 ## agent 
 
+- [realmroot/wallet](https://github.com/realmroot/wallet) - One wallet for all your agents
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [agent-infra/sandbox](https://github.com/agent-infra/sandbox) - All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSCode Server in a single Docker container.
 - [ctxrs/ctx](https://github.com/ctxrs/ctx) - Search the coding agent history already on your machine
@@ -334,7 +335,7 @@
 - [SWE-agent/mini-swe-agent](https://github.com/SWE-agent/mini-swe-agent) - The 100 line AI agent that solves GitHub issues or helps you in your command line. Radically simple, no huge configs, no giant monorepo—but scores &gt;74% on SWE-bench verified!
 - [chekusu/sandbank](https://github.com/chekusu/sandbank) - unified agent workspace
 - [zeroclaw-labs/zeroclaw](https://github.com/zeroclaw-labs/zeroclaw) - Fast, small, and fully autonomous AI personal assistant infrastructure, any OS, any platform — deploy anywhere, swap anything 🦀
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [ATH-MaaS/ComfyUI-Copilot](https://github.com/ATH-MaaS/ComfyUI-Copilot) - An AI-powered custom node for ComfyUI designed to enhance workflow automation and provide intelligent assistance
 - [e2b-dev/awesome-ai-agents](https://github.com/e2b-dev/awesome-ai-agents) - A list of AI autonomous agents
 - [SWE-agent/SWE-agent](https://github.com/SWE-agent/SWE-agent) - SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024]
@@ -451,6 +452,7 @@
 - [Fission-AI/OpenSpec](https://github.com/Fission-AI/OpenSpec) - Spec-driven development (SDD) for AI coding assistants.
 - [Maciek-roboblog/Claude-Code-Usage-Monitor](https://github.com/Maciek-roboblog/Claude-Code-Usage-Monitor) - Real-time Claude Code usage monitor with predictions and warnings
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [benjitaylor/agentation](https://github.com/benjitaylor/agentation) - The visual feedback tool for agents.
 - [fal-ai-community/video-starter-kit](https://github.com/fal-ai-community/video-starter-kit) - Enable AI models for video production in the browser
@@ -1012,6 +1014,7 @@
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [songquanpeng/one-api](https://github.com/songquanpeng/one-api) - LLM API 管理 & 分发系统，支持 OpenAI、Azure、Anthropic Claude、Google Gemini、DeepSeek、字节豆包、ChatGLM、文心一言、讯飞星火、通义千问、360 智脑、腾讯混元等主流模型，统一 API 适配，可用于 key 管理与二次分发。单可执行文件，提供 Docker 镜像，一键部署，开箱即用。LLM API management & key 
 - [Wei-Shaw/claude-relay-service](https://github.com/Wei-Shaw/claude-relay-service) - CRS-自建Claude Code镜像，一站式开源中转服务，让 Claude、OpenAI、Gemini、Droid 订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [Yeachan-Heo/oh-my-claudecode](https://github.com/Yeachan-Heo/oh-my-claudecode) - Teams-first Multi-agent orchestration for Claude Code
 - [stravu/crystal](https://github.com/stravu/crystal) - (Crystal is now Nimbalyst) Run multiple Codex and Claude Code AI sessions in parallel git worktrees. Test, compare approaches & manage AI-assisted development workflows in one desktop app.
 - [code-yeongyu/oh-my-openagent](https://github.com/code-yeongyu/oh-my-openagent) - omo/lazycodex: The coding agent for tokenmaxxers;the one and only agent harness for complex codebases. For your Codex, for your OpenCode
@@ -1095,6 +1098,7 @@
 
 ## cli 
 
+- [Digidai/mails](https://github.com/Digidai/mails) - mails-agent: Email infrastructure for AI agents. Send, receive, search, extract verification codes. CLI + SDK + Cloudflare Worker. Based on chekusu/mails.
 - [Aider-AI/aider](https://github.com/Aider-AI/aider) - aider is AI pair programming in your terminal
 - [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - The IDE built for AI coding agents.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -1667,7 +1671,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [lissy93/dashy](https://github.com/lissy93/dashy) - 🚀 A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated Nginx Reverse Proxy for Docker
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [generalaction/emdash](https://github.com/generalaction/emdash) - Emdash is the Open-Source Agentic Development Environment (🧡 YC W26). Run multiple coding agents in parallel. Use any provider.
 - [sentriz/gonic](https://github.com/sentriz/gonic) - music streaming server / free-software subsonic server API implementation
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -2047,6 +2051,7 @@
 - [nexu-io/open-design](https://github.com/nexu-io/open-design) - 🎨 The open-source Claude Design alternative. 🖥️ Local-first desktop app. 🖼️ Your coding agent becomes the design engine: prototypes, landing pages, dashboards, slides, images & video — real files, HTM
 - [aedocw/epub2tts](https://github.com/aedocw/epub2tts) - Turn an epub or text file into an audiobook
 - [maximhq/bifrost](https://github.com/maximhq/bifrost) - Fastest enterprise AI gateway (50x faster than LiteLLM) with adaptive load balancer, cluster mode, guardrails, 1000+ models support & &lt;100 µs overhead at 5k RPS.
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [vargHQ/sdk](https://github.com/vargHQ/sdk) - AI video generation SDK — JSX for videos. One API for Kling, Flux, ElevenLabs, Veed. Built on Vercel AI SDK.
 - [microsoft/ai-agents-for-beginners](https://github.com/microsoft/ai-agents-for-beginners) - 18 Lessons to Get Started Building AI Agents
 - [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) - Build resilient agents.
@@ -2825,7 +2830,6 @@
 - [gofiber/fiber](https://github.com/gofiber/fiber) - ⚡️ Express inspired web framework written in Go
 - [parse-community/parse-server](https://github.com/parse-community/parse-server) - Parse Server for Node.js / Express
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
 
 ## haskell 
 
@@ -2841,7 +2845,7 @@
 ## homebrew 
 
 - [mas-cli/mas](https://github.com/mas-cli/mas) - :package: Mac App Store command-line interface
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 ## homebridge 
 
@@ -3392,7 +3396,7 @@
 - [tover0314-w/opentypeless](https://github.com/tover0314-w/opentypeless) - Open-source AI voice typing for macOS, Windows, and Linux. Press a hotkey, speak naturally, get polished text in any app.
 - [GreyhavenHQ/greywall](https://github.com/GreyhavenHQ/greywall) - Container-free, deny-by-default sandbox for AI coding agents. Kernel-enforced filesystem, network, and syscall isolation for Linux and macOS
 - [webadderallorg/Recordly](https://github.com/webadderallorg/Recordly) - Create polished demo videos without editing skills. Mac/Windows/Linux
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with one command.
 - [Dimillian/CodexMonitor](https://github.com/Dimillian/CodexMonitor) - An app to monitor the (Codex) situation
 - [google/gvisor](https://github.com/google/gvisor) - Application Kernel for Containers
@@ -3440,6 +3444,7 @@
 
 ## llm 
 
+- [Digidai/mails](https://github.com/Digidai/mails) - mails-agent: Email infrastructure for AI agents. Send, receive, search, extract verification codes. CLI + SDK + Cloudflare Worker. Based on chekusu/mails.
 - [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) - Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, e
 - [rivet-dev/agentos](https://github.com/rivet-dev/agentos) - Give agents an operating system as a library. Runs in your existing backend – no sandboxes, VMs, or SaaS. Powered by WebAssembly & V8 isolates.
 - [toon-format/toon](https://github.com/toon-format/toon) - 🎒 Token-Oriented Object Notation (TOON) – compact, human-readable serialization of JSON data for LLM prompts. TypeScript SDK, CLI, benchmarks.
@@ -3469,6 +3474,7 @@
 - [iOfficeAI/AionUi](https://github.com/iOfficeAI/AionUi) - Open-source 24/7 Cowork app for OpenClaw, Hermes, Claude Code, Codex, OpenCode and 20+ more CLI Agent | Customize your assistants | Team them up｜Star if you like it!
 - [BerriAI/litellm](https://github.com/BerriAI/litellm) - The fastest, litest AI Gateway. Rust core with Python SDK. Call 100+ LLM APIs in OpenAI (or native) format with cost tracking, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropi
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [Anionex/banana-slides](https://github.com/Anionex/banana-slides) - 一个基于nano banana pro🍌的原生AI PPT生成应用，迈向＂Vibe PPT＂; 支持上传任意模板图片，上传任意素材&智能解析，一句话/大纲/页面描述自动生成PPT，口头修改指定区域、一键导出可编辑ppt - An AI-native slides generator based on nano banana pro🍌
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
@@ -3716,6 +3722,7 @@
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
 - [ComposioHQ/awesome-claude-skills](https://github.com/ComposioHQ/awesome-claude-skills) - A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [mastra-ai/mastra](https://github.com/mastra-ai/mastra) - Mastra is the modern TypeScript framework for AI-powered applications and agents.
 - [anthropics/claude-plugins-official](https://github.com/anthropics/claude-plugins-official) - Official, Anthropic-managed directory of high quality Claude Code Plugins.
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
@@ -4268,7 +4275,6 @@
 - [killbill/killbill](https://github.com/killbill/killbill) - Open-Source Subscription Billing & Payments Platform
 - [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
 - [github/copilot-sdk](https://github.com/github/copilot-sdk) - Multi-platform SDK for integrating GitHub Copilot Agent into apps and services
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
 - [AndyMik90/Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding
 - [black-forest-labs/skills](https://github.com/black-forest-labs/skills) - Official skills from Black Forest Labs for FLUX image generation models. These skills provide prompting guidelines and API integration patterns following the https://agentskills.io specification.
 - [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
@@ -4971,6 +4977,7 @@
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
 - [opendatalab/MinerU](https://github.com/opendatalab/MinerU) - Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.
 - [HKUDS/nanobot](https://github.com/HKUDS/nanobot) - Ultra-lightweight, open-source, self-hosted personal AI agent framework in Python with WebUI, tools, memory, MCP, multi-agent workflows, automation, and chat apps
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [harry0703/MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) - 利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.
 - [linyqh/NarratoAI](https://github.com/linyqh/NarratoAI) - 利用 AI 大模型，一键解说并剪辑视频
@@ -5272,7 +5279,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [fastlane/fastlane](https://github.com/fastlane/fastlane) - 🚀 The easiest way to automate building and releasing your iOS and Android apps
 - [grafana/pyroscope](https://github.com/grafana/pyroscope) - Continuous Profiling Platform. Debug performance issues down to a single line of code
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 ## rust 
 
@@ -5916,6 +5923,7 @@
 
 ## typescript 
 
+- [Digidai/mails](https://github.com/Digidai/mails) - mails-agent: Email infrastructure for AI agents. Send, receive, search, extract verification codes. CLI + SDK + Cloudflare Worker. Based on chekusu/mails.
 - [vercel/eve](https://github.com/vercel/eve) - The Open Framework for Building Agents
 - [NeteaseCloudMusicApiEnhanced/api-enhanced](https://github.com/NeteaseCloudMusicApiEnhanced/api-enhanced) - 🔍  网易云音乐 Node.js  API Services (Half Refactor & Enhanced) 全网最全的网易云音乐API接口
 - [elirantutia/vibeyard](https://github.com/elirantutia/vibeyard) - The IDE built for AI coding agents.
