@@ -274,7 +274,7 @@
 - [replicate/cog](https://github.com/replicate/cog) - Containers for machine learning
 - [QuantumNous/new-api](https://github.com/QuantumNous/new-api) - A unified AI model hub for aggregation & distribution. It supports cross-converting various LLMs into OpenAI-compatible, Claude-compatible, or Gemini-compatible formats. A centralized gateway for pers
 - [supabase/auth](https://github.com/supabase/auth) - A JWT based API for managing users and issuing JWT tokens
-- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source VPS control panel — and the only one with native AI agent support. Run Ollama models, deploy OpenClaw agents, and manage your entire server stack from one clean web i
+- [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel is a modern, open-source Linux server management panel and a lightweight AI management platform.
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more. JSON-first, no interactive prompts
 - [cloudflare/tableflip](https://github.com/cloudflare/tableflip) - Graceful process restarts in Go
 - [Wei-Shaw/sub2api](https://github.com/Wei-Shaw/sub2api) - Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。
@@ -1462,7 +1462,7 @@
 - [kajweb/dict](https://github.com/kajweb/dict) - 英语字典 英语词库 字典词库 四级单词 六级单词 考研单词 雅思 托福 SAT GMAT TOEFL GRE
 - [MeiGen-AI/InfiniteTalk](https://github.com/MeiGen-AI/InfiniteTalk) - ​​Unlimited-length talking video generation​​ that supports image-to-video and video-to-video generation
 - [vita-epfl/Stable-Video-Infinity](https://github.com/vita-epfl/Stable-Video-Infinity) - [ICLR 26 Oral] Stable Video Infinity: Infinite-Length Video Generation with Error Recycling
-- [ahujasid/blender-mcp](https://github.com/ahujasid/blender-mcp) - Open-source MCP to use Blender with any LLM
+- [MCPBlender/blender-mcp](https://github.com/MCPBlender/blender-mcp) - 🎨 Control Blender 3D with Claude AI — prompt-driven 3D modeling, materials & scene generation via MCP
 - [black-forest-labs/flux2](https://github.com/black-forest-labs/flux2) - Official inference repo for FLUX.2 models
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [meituan-longcat/LongCat-Video](https://github.com/meituan-longcat/LongCat-Video) - 
@@ -1625,7 +1625,7 @@
 - [eplist/eplist](https://github.com/eplist/eplist) - All cloud storage platform endpoint list. /一份由社区维护的云存储接入点列表文件
 - [mastodon/mastodon](https://github.com/mastodon/mastodon) - Your self-hosted, globally interconnected microblogging community
 - [huginn/huginn](https://github.com/huginn/huginn) - Create agents that monitor and act on your behalf.  Your agents are standing by!
-- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default formulae for the missing package manager for macOS (or Linux)
+- [Homebrew/homebrew-core](https://github.com/Homebrew/homebrew-core) - 🍻 Default and OSS formulae (built-from-source packages) for the package manager for everywhere
 
 ## Rust 
 
@@ -1909,6 +1909,8 @@
 
 ## TypeScript 
 
+- [Digidai/mails](https://github.com/Digidai/mails) - mails-agent: Email infrastructure for AI agents. Send, receive, search, extract verification codes. CLI + SDK + Cloudflare Worker. Based on chekusu/mails.
+- [realmroot/wallet](https://github.com/realmroot/wallet) - One wallet for all your agents
 - [rhinobase/hono-rate-limiter](https://github.com/rhinobase/hono-rate-limiter) - Rate Limit middleware for Hono Server
 - [meshery/meshery](https://github.com/meshery/meshery) - Meshery, the cloud native manager
 - [realmroot/realmroot](https://github.com/realmroot/realmroot) - Stable identity and delegated access for AI Agents.
