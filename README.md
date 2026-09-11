@@ -1363,6 +1363,7 @@
 - [fangzesheng/free-api](https://github.com/fangzesheng/free-api) - 收集免费的接口服务,做一个api的搬运工
 - [mli/paper-reading](https://github.com/mli/paper-reading) - 深度学习经典、新论文逐段精读
 - [ProxymanApp/Proxyman](https://github.com/ProxymanApp/Proxyman) - The best-in-class HTTP Debugger for macOS. Capture HTTP/HTTPS from macOS, iOS, Android with a few clicks ✅
+- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [lensapp/lens](https://github.com/lensapp/lens) - Lens - The way the world runs Kubernetes
 - [gfwlist/gfwlist](https://github.com/gfwlist/gfwlist) - The one and only one gfwlist here
 - [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) - Machine Learning Toolkit for Kubernetes
@@ -1447,7 +1448,7 @@
 - [SWivid/F5-TTS](https://github.com/SWivid/F5-TTS) - Official code for "F5-TTS: A Fairytaler that Fakes Fluent and Faithful Speech with Flow Matching"
 - [travisvn/openai-edge-tts](https://github.com/travisvn/openai-edge-tts) - Free, high-quality text-to-speech API endpoint to replace OpenAI, Azure, or ElevenLabs
 - [fishaudio/fish-speech](https://github.com/fishaudio/fish-speech) - SOTA Open Source TTS
-- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, auto-stitching, caption timestamps, SSML, optional readalong web UI
+- [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI
 - [thewh1teagle/kokoro-onnx](https://github.com/thewh1teagle/kokoro-onnx) - TTS with kokoro and onnx runtime
 - [QwenLM/Qwen3-TTS](https://github.com/QwenLM/Qwen3-TTS) - Qwen3-TTS is an open-source series of TTS models developed by the Qwen team at Alibaba Cloud, supporting stable, expressive, and streaming speech generation, free-form voice design, and vivid voice cl
 - [NousResearch/hermes-agent](https://github.com/NousResearch/hermes-agent) - The agent that grows with you
@@ -1597,7 +1598,6 @@
 - [khuedoan/homelab](https://github.com/khuedoan/homelab) - Fully automated homelab from empty disk to running services with a single command.
 - [horovod/horovod](https://github.com/horovod/horovod) - Distributed training framework for TensorFlow, Keras, PyTorch, and Apache MXNet.
 - [d2l-ai/d2l-zh](https://github.com/d2l-ai/d2l-zh) - 《动手学深度学习》：面向中文读者、能运行、可讨论。中英文版被70多个国家的500多所大学用于教学。
-- [1c7/chinese-independent-developer](https://github.com/1c7/chinese-independent-developer) - 👩🏿‍💻👨🏾‍💻👩🏼‍💻👨🏽‍💻👩🏻‍💻中国独立开发者项目列表 -- 分享大家都在做什么
 - [vishnubob/wait-for-it](https://github.com/vishnubob/wait-for-it) - Pure bash script to test and wait on the availability of a TCP host and port
 - [yadm-dev/yadm](https://github.com/yadm-dev/yadm) - Yet Another Dotfiles Manager
 - [lra/mackup](https://github.com/lra/mackup) - Backup and keep your application settings in sync.
@@ -1892,7 +1892,7 @@
 - [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - Super simple-to-use, always-on-top floating text prompter for macOS. Perfect for quick videos or keeping important text visible while you work.
 - [watzon/pindrop](https://github.com/watzon/pindrop) - A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
-- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - One app for the whole screen. Screenshots, screen recording, and a video editor, native on macOS. Open-source CleanShot X + Loom alternative. No subscription, no account, no telemetry.
+- [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
 - [steipete/CodexBar](https://github.com/steipete/CodexBar) - Show usage stats for OpenAI Codex and Claude Code, without having to login.
 - [osaurus-ai/osaurus](https://github.com/osaurus-ai/osaurus) - Own your AI. The native macOS harness for AI agents -- any model, persistent memory, autonomous execution, cryptographic identity. Built in Swift. Fully offline. Open source.
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
@@ -1999,7 +1999,7 @@
 - [saltbo/zpan](https://github.com/saltbo/zpan) - Lightweight file hosting platform built on top of S3-compatible storage
 - [gsd-build/gsd-2](https://github.com/gsd-build/gsd-2) - A powerful meta-prompting, context engineering and spec-driven development system that enables agents to work for long periods of time autonomously without losing track of the big picture
 - [Arindam200/cc-lens](https://github.com/Arindam200/cc-lens) - Local analytics dashboard for Claude Code. No cloud, no telemetry.
-- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat💬🚀
+- [assistant-ui/assistant-ui](https://github.com/assistant-ui/assistant-ui) - Typescript/React Library for AI Chat 💬🚀
 - [ChinaSiro/claude-code-sourcemap](https://github.com/ChinaSiro/claude-code-sourcemap) - 
 - [codeany-ai/open-agent-sdk-typescript](https://github.com/codeany-ai/open-agent-sdk-typescript) - Agent-SDK without CLI dependencies, as an alternative to claude-agent-sdk, completely open source
 - [ionic-team/capacitor](https://github.com/ionic-team/capacitor) - Build cross-platform Native Progressive Web Apps for iOS, Android, and the Web ⚡️
@@ -2138,7 +2138,7 @@
 - [pear-devs/pear-desktop](https://github.com/pear-devs/pear-desktop) - Pear 🍐 is extension for music player
 - [ricky0123/vad](https://github.com/ricky0123/vad) - Voice activity detector (VAD) for the browser with a simple API
 - [kern/filepizza](https://github.com/kern/filepizza) - :pizza: Peer-to-peer file transfers in your browser
-- [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - a fullstack English words study website: remix (react-router v7) + trpc + drizzle + postgresql + heroui + jotai + docker
+- [SteveSuv/remix-words-funny](https://github.com/SteveSuv/remix-words-funny) - 一个英语单词学习网站
 - [scalar/scalar](https://github.com/scalar/scalar) - Scalar is an open-source API platform:　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　🌐 Modern REST API Client　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　📖 Beautiful API References　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　
 - [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) - Admin Dashboard UI built with Shadcn and Vite.
 - [langgenius/dify](https://github.com/langgenius/dify) - Build Agentic workflows, RAG pipelines, with rich AI model and tool support on one collaborative workspace. Deploy on cloud, VPC, or self-hosted, so teams move from prototype to production without reb
