@@ -1396,6 +1396,7 @@
 
 ## PHP 
 
+- [HDInnovations/UNIT3D](https://github.com/HDInnovations/UNIT3D) - UNIT3D is a private torrent tracker built using Laravel, Livewire and AlpineJS.
 - [magicblack/maccms10](https://github.com/magicblack/maccms10) - 苹果CMS v10 · MacCMS v10 — 开源内容管理系统：视频 / 分集剧情 / 文章 / 漫画 / 图片 / 网址导航. Open-source PHP CMS for video, articles, manga, images & site navigation.
 - [Tatoeba/tatoeba2](https://github.com/Tatoeba/tatoeba2) - Tatoeba is a platform whose purpose is to create a collaborative and open dataset of sentences and their translations.
 - [xiaomlove/nexusphp](https://github.com/xiaomlove/nexusphp) - A private tracker application base on NexusPHP
@@ -1416,7 +1417,7 @@
 
 - [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str
 - [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) - Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text generation, PyTorch, or cloud API.
-- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own
+- [jaredpalmer/kev](https://github.com/jaredpalmer/kev) - Jev-like family of decision models built on top of Qwen3.5/3.8 you can train and run on your own
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [agentskills/agentskills](https://github.com/agentskills/agentskills) - Specification and documentation for Agent Skills
 - [andrewyng/openworker](https://github.com/andrewyng/openworker) - 
