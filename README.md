@@ -1064,6 +1064,7 @@
 
 ## JavaScript 
 
+- [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) - Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom)
 - [webtorrent/bittorrent-tracker](https://github.com/webtorrent/bittorrent-tracker) - 🌊 Simple, robust, BitTorrent tracker (client & server) implementation
 - [truelockmc/streambert](https://github.com/truelockmc/streambert) - A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking
 - [qianqikun/LunaTV-config](https://github.com/qianqikun/LunaTV-config) - 自用LunaTV-config源，每日自动检测API状态，可在自己的CF部署CORSAPI中转被墙API，本人提供的CORSAPI仅为测试使用，请勿滥用！！！自用JSON配置文件编辑器，Luna TV配置管理专用。
@@ -1940,6 +1941,7 @@
 
 ## TypeScript 
 
+- [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) - Code-rendered music video for "I'm Upping My P(doom)"
 - [yctimlin/mcp_excalidraw](https://github.com/yctimlin/mcp_excalidraw) - MCP server and Claude Code skill for Excalidraw — programmatic canvas toolkit to create, edit, and export diagrams via AI agents with real-time canvas sync.
 - [basketikun/infinite-canvas](https://github.com/basketikun/infinite-canvas) - 面向 AI 创作的开源无限画布工作台，集成 AI 生图、参考图编辑、视频生成、Agent 智能助手、画布编排、对话创作、提示词库与素材管理等能力，支持可视化创作流程与多 Agent 协同工作。兼容 OpenAI 接口生态，支持 chatgpt2api、grok2api、flow2api、newapi 等渠道接入。
 - [tldraw/tldraw](https://github.com/tldraw/tldraw) - Build infinite canvas apps in React with the tldraw SDK. World's best, top-most agent recommended #1 five star SDK.
