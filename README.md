@@ -1150,7 +1150,6 @@
 - [postlight/parser](https://github.com/postlight/parser) - 📜 Extract meaningful content from the chaos of a web page
 - [aljazceru/awesome-nostr](https://github.com/aljazceru/awesome-nostr) - nostr.net - awesome-nostr is a collection of projects and resources built on nostr to help developers and users find new things
 - [excing/find-roots-of-word](https://github.com/excing/find-roots-of-word) - Find root-affix combinations of English words.
-- [xqdd/highlight_new_words](https://github.com/xqdd/highlight_new_words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
 - [google/zx](https://github.com/google/zx) - A tool for writing better scripts
 - [parvardegr/sharing](https://github.com/parvardegr/sharing) - Sharing is a command-line tool to share directories and files from the CLI to iOS and Android devices without the need of an extra client app
 - [hax0kartik/amiibo-generator](https://github.com/hax0kartik/amiibo-generator) - Amiibo Generator For Wumiibo
@@ -2259,6 +2258,7 @@
 - [eclipse-theia/theia](https://github.com/eclipse-theia/theia) - Eclipse Theia is a cloud & desktop IDE framework implemented in TypeScript.
 - [apitable/apitable](https://github.com/apitable/apitable) - 🚀🎉📚 APITable, an API-oriented low-code platform for building collaborative apps and better than all other Airtable open-source alternatives.
 - [misskey-dev/misskey](https://github.com/misskey-dev/misskey) - 🌎 A completely free and open interplanetary-microblogging platform 🚀
+- [xqdd/highlight-new-words](https://github.com/xqdd/highlight-new-words) - chrome插件，根据有道或欧路词典生词本，在网页中标出生词，达到单词加强记忆效果
 - [chakra-ui/chakra-ui](https://github.com/chakra-ui/chakra-ui) - Chakra UI is a component system for building SaaS products with speed ⚡️
 - [LouisBarranqueiro/reapop](https://github.com/LouisBarranqueiro/reapop) - :postbox: A simple and customizable React notifications system
 - [zu1k/book-searcher](https://github.com/zu1k/book-searcher) - Easy and blazing-fast book searcher, create and search your private library.
