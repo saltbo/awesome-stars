@@ -994,6 +994,7 @@
 - [standardebooks/tools](https://github.com/standardebooks/tools) - The Standard Ebooks toolset for producing our ebook files.
 - [shanraisshan/claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) - from vibe coding to agentic engineering - practice makes claude perfect
 - [wquguru/skills](https://github.com/wquguru/skills) - Practical Agent Skills — English-for-engineers coaching, Pi Agent setup, and more. Install via npx skills add.
+- [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - Super simple-to-use, always-on-top floating text prompter for macOS. Perfect for quick videos or keeping important text visible while you work.
 - [vasturiano/react-force-graph](https://github.com/vasturiano/react-force-graph) - React component for 2D, 3D, VR and AR force directed graphs
 - [tgnav/tgnav.github.io](https://github.com/tgnav/tgnav.github.io) - TGNAV (Telegram Navigation) - Telegram频道群组机器人导航。收录Telegram上的优质公开频道、群组、机器人，打造高质量的Telegram导航平台。
 - [netnr/kms](https://github.com/netnr/kms) - KMS 激活服务，slmgr 命令激活 Windows 系统、Office
@@ -1659,6 +1660,8 @@
 
 ## Rust 
 
+- [agrinman/tunnelto](https://github.com/agrinman/tunnelto) - Expose your local web server to the internet with a public URL.
+- [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
 - [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,551 operations, true 100% Smithy conformance (249,449/249,449 variants pass). No account, no auth token, no paid tier.
 - [iAmCorey/Wake](https://github.com/iAmCorey/Wake) - All your AI agent sessions in one place — browse, search, resume. Rust + GPUI.
@@ -1838,7 +1841,7 @@
 - [obra/superpowers](https://github.com/obra/superpowers) - An agentic skills framework & software development methodology that works.
 - [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 - [dockur/windows](https://github.com/dockur/windows) - Windows inside a Docker container.
-- [dockur/macos](https://github.com/dockur/macos) - MacOS inside a Docker container.
+- [dockur/macos](https://github.com/dockur/macos) - macOS inside a Docker container.
 - [aip-dev/google.aip.dev](https://github.com/aip-dev/google.aip.dev) - API Improvement Proposals. https://aip.dev/
 - [yuaotian/go-cursor-help](https://github.com/yuaotian/go-cursor-help) - 解决Cursor在免费订阅期间出现以下提示的问题:  Your request has been blocked as our system has detected suspicious activity / You've reached your trial request limit.  /  Too many free trial accounts used on this machine
 - [just-containers/s6-overlay](https://github.com/just-containers/s6-overlay) - s6 overlay for containers (includes execline, s6-linux-utils & a custom init)
@@ -1912,7 +1915,6 @@
 - [hehehai/voxt](https://github.com/hehehai/voxt) - 🎙️ An intelligent voice productivity assistant that turns speech into clean text, useful actions, and structured knowledge. It helps users capture ideas, communicate naturally, automate repetitive tas
 - [hamed-elfayome/Claude-Usage-Tracker](https://github.com/hamed-elfayome/Claude-Usage-Tracker) - Native macOS menu bar app for tracking Claude AI usage limits in real-time. Built with Swift/SwiftUI.
 - [supabitapp/supacode](https://github.com/supabitapp/supacode) - worktree coding agents command center.
-- [jpomykala/NotchPrompter](https://github.com/jpomykala/NotchPrompter) - Super simple-to-use, always-on-top floating text prompter for macOS. Perfect for quick videos or keeping important text visible while you work.
 - [watzon/pindrop](https://github.com/watzon/pindrop) - Discontinued. Replaced by Sayso (https://justsayso.app). A native macOS menu bar dictation app using local speech-to-text with WhisperKit
 - [Beingpax/VoiceInk](https://github.com/Beingpax/VoiceInk) - The best open-source alternative to Superwhisper & Wispr Flow. Voice-to-text app for macOS with no subscription
 - [KartikLabhshetwar/better-shot](https://github.com/KartikLabhshetwar/better-shot) - Screenshot, screen recording, and video editor for macOS. Native SwiftUI app with capture deck, 75+ customizable shortcuts, URL scheme automation, and self-hosted cloud sharing. Open-source alternativ
@@ -2070,7 +2072,7 @@
 - [uiwjs/react-md-editor](https://github.com/uiwjs/react-md-editor) - A simple markdown editor with preview, implemented with React.js and TypeScript.
 - [vercel/streamdown](https://github.com/vercel/streamdown) - A drop-in replacement for react-markdown, designed for AI-powered streaming.
 - [can1357/oh-my-pi](https://github.com/can1357/oh-my-pi) - ⌥ Coding agent with the IDE wired in. Built by Stencil Labs.
-- [slopus/happy](https://github.com/slopus/happy) - Mobile and Web client for Codex and Claude Code, with realtime voice, encryption and fully featured
+- [slopus/happy](https://github.com/slopus/happy) - Happy is the open-source desktop app for Claude Code, Codex, and Grok, with an iOS and Android app to control your coding agents from anywhere.
 - [nanocoai/nanoclaw](https://github.com/nanocoai/nanoclaw) - A lightweight alternative to OpenClaw that runs in containers for security. Connects to WhatsApp, Telegram, Slack, Discord, Gmail and other messaging apps,, has memory, scheduled jobs, and runs direct
 - [JaleelB/emblor](https://github.com/JaleelB/emblor) - A fully-featured tag input component built with shadcn/ui
 - [shuaiplus/nodewarden](https://github.com/shuaiplus/nodewarden) - Bitwarden-compatible server running on Cloudflare Workers
