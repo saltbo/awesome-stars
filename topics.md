@@ -578,7 +578,7 @@
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [Infisical/infisical](https://github.com/Infisical/infisical) - Infisical is the open-source platform for securing secrets, certificates, access, and AI Agents.
 - [HarnessRouter/harnessrouter](https://github.com/HarnessRouter/harnessrouter) - HarnessRouter Community Edition: the self-hosted, Apache-2.0 edition of the unified interface for agent harnesses. Run Codex, Claude Code, Hermes, PI, DSH, and more through one API, with sessions, str
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
@@ -775,7 +775,7 @@
 
 ## automation 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [coleam00/Archon](https://github.com/coleam00/Archon) - The first open-source harness builder for AI coding. Make AI coding deterministic and repeatable.
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [golutra/golutra](https://github.com/golutra/golutra) - Multi-agent AI orchestration platform for automation, workflows, and developer tools. Golutra transforms Codex, Claude Code, and OpenClaw into a unified agent system with parallel execution, task orch
@@ -858,7 +858,7 @@
 ## aws 
 
 - [awslabs/mountpoint-s3](https://github.com/awslabs/mountpoint-s3) - A simple, high-throughput file client for mounting an Amazon S3 bucket as a local file system.
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,551 operations, true 100% Smithy conformance (249,449/249,449 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,612 operations, true 100% Smithy conformance (257,288/257,288 variants pass). No account, no auth token, no paid tier.
 - [serverless/serverless](https://github.com/serverless/serverless) - ⚡ Serverless Framework – Effortlessly build apps that auto-scale, incur zero costs when idle, and require minimal maintenance using AWS Lambda and other managed cloud services.
 - [google/go-cloud](https://github.com/google/go-cloud) - The Go Cloud Development Kit (Go CDK): A library and tools for open cloud development in Go.
 - [getsops/sops](https://github.com/getsops/sops) - Simple and flexible tool for managing secrets
@@ -952,7 +952,7 @@
 
 ## bot 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [openclaw/clawsweeper](https://github.com/openclaw/clawsweeper) - ClawSweeper scans all issues and PRs and suggest what we can close, and why. It runs every PR / Issue once a week.
 - [d60/twikit](https://github.com/d60/twikit) - Twitter API Scraper | Without an API key | Twitter Internal API | Free | Twitter scraper | Twitter Bot
 - [chdsbd/kodiak](https://github.com/chdsbd/kodiak) - 🔮 A bot to automatically update and merge GitHub PRs
@@ -1110,7 +1110,7 @@
 - [morluto/rea](https://github.com/morluto/rea) - Reverse engineer anything with agents, from app behavior down to native binaries.
 - [tt-a1i/archify](https://github.com/tt-a1i/archify) - Turn any idea, plan, or codebase into a beautiful interactive diagram. An agent skill for Claude Code, Codex, and more.
 - [yetone/magpie](https://github.com/yetone/magpie) - Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [DietrichGebert/ponytail](https://github.com/DietrichGebert/ponytail) - Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [tutti-os/tutti](https://github.com/tutti-os/tutti) - Where people and agents build in tune.
@@ -2003,7 +2003,7 @@
 
 ## emulator 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,551 operations, true 100% Smithy conformance (249,449/249,449 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,612 operations, true 100% Smithy conformance (257,288/257,288 variants pass). No account, no auth token, no paid tier.
 - [mobile-next/mobile-mcp](https://github.com/mobile-next/mobile-mcp) - Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)
 
 ## english 
@@ -3075,6 +3075,7 @@
 
 ## ios 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [media-kit/media-kit](https://github.com/media-kit/media-kit) - A cross-platform video player & audio player for Flutter & Dart.
@@ -3552,6 +3553,7 @@
 
 ## linux 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [media-kit/media-kit](https://github.com/media-kit/media-kit) - A cross-platform video player & audio player for Flutter & Dart.
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
@@ -4124,6 +4126,7 @@
 
 ## nlp 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [readbeyond/aeneas](https://github.com/readbeyond/aeneas) - aeneas is a Python/C library and a set of tools to automagically synchronize audio and text (aka forced alignment)
 - [winkjs/wink-nlp-utils](https://github.com/winkjs/wink-nlp-utils) - NLP Functions for amplifying negations, managing elisions, creating ngrams, stems, phonetic codes to tokens and more.
 - [axa-group/nlp.js](https://github.com/axa-group/nlp.js) - An NLP library for building bots, with entity extraction, sentiment analysis, automatic language identify, and so more
@@ -4350,6 +4353,9 @@
 
 ## others 
 
+- [bespokelabsai/nimble](https://github.com/bespokelabsai/nimble) - Local typed decisions, contrastive data curation, and model evaluation.
+- [yoho-build/yoho](https://github.com/yoho-build/yoho) - 
+- [basecamp/kamal](https://github.com/basecamp/kamal) - Deploy web apps anywhere.
 - [cloudflare/agentic-inbox](https://github.com/cloudflare/agentic-inbox) - A self-hosted email client with an AI agent, running entirely on Cloudflare Workers
 - [erebe/wstunnel](https://github.com/erebe/wstunnel) - Tunnel all your traffic over Websocket or HTTP2 - Bypass firewalls/DPI - Static binary available
 - [tailscale/tailcat](https://github.com/tailscale/tailcat) - like netcat, but over Tailscale's data plane, without Tailscale's control plane
@@ -5191,6 +5197,7 @@
 
 ## python 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [ComposioHQ/composio](https://github.com/ComposioHQ/composio) - Composio powers 1000+ toolkits, tool search, context management, authentication, and a sandboxed workbench to help you build AI agents that turn intent into action.
 - [omnigent-ai/omnigent](https://github.com/omnigent-ai/omnigent) - Omnigent is an open-source AI agent framework and meta-harness: orchestrate Claude Code, Codex, Cursor, Pi, and custom agents — swap harnesses without rewriting, enforce policies and sandboxing, and c
 - [microsoft/agent-governance-toolkit](https://github.com/microsoft/agent-governance-toolkit) - AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.
@@ -5290,6 +5297,7 @@
 
 ## pytorch 
 
+- [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) - Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text in a single forward pass, in 100+ languages, with a router that picks the right checkpoint per reque
 - [flwrlabs/flower](https://github.com/flwrlabs/flower) - Flower: A Friendly Federated AI Framework
 - [modelscope/FunASR](https://github.com/modelscope/FunASR) - Open-source speech recognition toolkit for training, inference, streaming ASR, VAD, punctuation, speaker diarization pipelines, and OpenAI-compatible/MCP serving.
 - [remsky/Kokoro-FastAPI](https://github.com/remsky/Kokoro-FastAPI) - Dockerized OpenAI-compatible wrapper for Kokoro-82M text-to-speech w/multiplatform CPU, AMD, NVIDIA GPU PyTorch; multi-speaker, clone-tuning, caption timestamps, SSML, optional readalong web UI
@@ -5963,6 +5971,7 @@
 
 ## swift 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [permissionlesstech/bitchat](https://github.com/permissionlesstech/bitchat) - bluetooth mesh chat, IRC vibes
 - [media-kit/media-kit](https://github.com/media-kit/media-kit) - A cross-platform video player & audio player for Flutter & Dart.
 - [BLeeEZ/amperfy](https://github.com/BLeeEZ/amperfy) - Amperfy is an iOS/iPadOS/macOS app to play songs from an Ampache or Subsonic server
@@ -6066,7 +6075,7 @@
 
 ## terminal 
 
-- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
+- [stablyai/orca](https://github.com/stablyai/orca) - Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.
 - [dlvhdr/gh-dash](https://github.com/dlvhdr/gh-dash) - A rich terminal UI for GitHub that doesn't break your flow.
 - [herdrdev/herdr](https://github.com/herdrdev/herdr) - the runtime your coding agents live on
 - [SurgeDM/Surge](https://github.com/SurgeDM/Surge) - Blazing fast TUI download manager built in Go for power users
@@ -6115,7 +6124,7 @@
 
 ## terraform 
 
-- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,551 operations, true 100% Smithy conformance (249,449/249,449 variants pass). No account, no auth token, no paid tier.
+- [faiscadev/fakecloud](https://github.com/faiscadev/fakecloud) - Free, open-source AWS emulator. LocalStack alternative: 106 services, 7,612 operations, true 100% Smithy conformance (257,288/257,288 variants pass). No account, no auth token, no paid tier.
 - [semaphoreui/semaphore](https://github.com/semaphoreui/semaphore) - Modern UI and powerful API for Ansible, Terraform/OpenTofu/Terragrunt, PowerShell and other DevOps tools.
 - [coder/coder](https://github.com/coder/coder) - Secure environments for developers and their agents
 - [seal-io/walrus](https://github.com/seal-io/walrus) - Walrus is an open-source application management platform based on IaC tools including OpenTofu, Terraform and others. It helps platform engineers build golden paths for developers and empowers develop
@@ -6567,6 +6576,7 @@
 
 ## windows 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [Zackriya-Solutions/meetily](https://github.com/Zackriya-Solutions/meetily) - Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (
 - [getpaseo/paseo](https://github.com/getpaseo/paseo) - Orchestrate multiple coding agents from desktop and mobile
 - [media-kit/media-kit](https://github.com/media-kit/media-kit) - A cross-platform video player & audio player for Flutter & Dart.
@@ -6620,6 +6630,7 @@
 
 ## xcode 
 
+- [xtool-org/xtool](https://github.com/xtool-org/xtool) - Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.
 - [rorkai/App-Store-Connect-CLI](https://github.com/rorkai/App-Store-Connect-CLI) - Fast, scriptable CLI for the App Store Connect API. Automate TestFlight, builds, submissions, signing, analytics, screenshots, subscriptions, and more
 - [yonaskolb/XcodeGen](https://github.com/yonaskolb/XcodeGen) - A Swift command line tool for generating your Xcode project
 - [github/CopilotForXcode](https://github.com/github/CopilotForXcode) - AI coding assistant for Xcode
