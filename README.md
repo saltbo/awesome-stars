@@ -95,7 +95,7 @@
 - [pbatard/rufus](https://github.com/pbatard/rufus) - The Reliable USB Formatting Utility
 - [mltframework/mlt](https://github.com/mltframework/mlt) - MLT Multimedia Framework
 - [madler/pigz](https://github.com/madler/pigz) - A parallel implementation of gzip for modern multi-processor, multi-core machines.
-- [nature-lang/nature](https://github.com/nature-lang/nature) - The Nature Programming Language
+- [naxlang/nax](https://github.com/naxlang/nax) - The Nax Programming Language
 - [pobrn/mktorrent](https://github.com/pobrn/mktorrent) - A simple command line utility to create BitTorrent metainfo files
 - [krallin/tini](https://github.com/krallin/tini) - A tiny but valid `init` for containers
 - [rui314/chibicc](https://github.com/rui314/chibicc) - A small C compiler
@@ -261,6 +261,9 @@
 
 ## Go 
 
+- [mitaku/andon](https://github.com/mitaku/andon) - A one-person software factory: AI coding agents take tasks from a ledger through review to merge, and call the human only for decisions only they can make.
+- [hashicorp/nomad](https://github.com/hashicorp/nomad) - Nomad is an easy-to-use, flexible, and performant workload orchestrator that can deploy a mix of microservice, batch, containerized, and non-containerized applications. Nomad is easy to operate and sc
+- [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [eyupio/zoomies](https://github.com/eyupio/zoomies) - Zoomies is a lightweight, self-hosted GitHub Actions runner fleet controller. Ephemeral runners by default, GitHub App auth, webhook-driven autoscaling, multi-host agents, a polished live web UI, and 
 - [xdevplatform/xurl](https://github.com/xdevplatform/xurl) - The official CLI for the X API
 - [MobAI-App/simslim](https://github.com/MobAI-App/simslim) - Run more iOS simulators on one Mac by disabling background daemons a simulator doesn't need
@@ -1096,7 +1099,7 @@
 
 ## JavaScript 
 
-- [Innei/ryugi](https://github.com/Innei/ryugi) - Ryugi (ryoo-ghee) — artifacts for coding agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent. Install arti
+- [Innei/ryugi](https://github.com/Innei/ryugi) - Ryugi (ryoo-ghee) — Interactive Artifacts for Coding Agents: artboards of mockups, design docs, whiteboards, HTML benches and verify reports you comment on, with every comment sent back to the agent.
 - [schlagmichdoch/PairDrop](https://github.com/schlagmichdoch/PairDrop) - PairDrop: Transfer Files Cross-Platform. No Setup, No Signup.
 - [SnapDrop/snapdrop](https://github.com/SnapDrop/snapdrop) - A Progressive Web App for local file sharing
 - [advplyr/audiobookshelf](https://github.com/advplyr/audiobookshelf) - Self-hosted audiobook and podcast server
